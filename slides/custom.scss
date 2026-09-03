@@ -81,3 +81,136 @@ $presentation-font-size-root: 34px !default;
   font-size: 0.4em;
   color: #6b6b6b;
 }
+
+// ---------------------------------------------------------------
+// in-class demos
+// ---------------------------------------------------------------
+
+.reveal .slide.demo h2 {
+  color: #8c1515;
+}
+
+// a picture-and-word interference stimulus: big picture, word laid over it
+.reveal .stim {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 380px;
+  margin-top: 0.2em;
+}
+
+.reveal .stim .pic {
+  font-size: 190px;
+  line-height: 1.05;
+  user-select: none;
+}
+
+.reveal .stim .word {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 72px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  color: #8c1515;
+  text-shadow:
+     0 0 14px #fff,  0 0 14px #fff,  0 0 14px #fff,
+     2px 2px 0 #fff, -2px -2px 0 #fff,
+     2px -2px 0 #fff, -2px 2px 0 #fff;
+}
+
+// numbered instructions for a demo
+.reveal .rules {
+  background: #f4f1ea;
+  border-radius: 6px;
+  padding: 0.7em 1.2em;
+  margin: 0.6em 0;
+}
+
+.reveal .rules ol,
+.reveal .rules ul {
+  margin-bottom: 0;
+}
+
+// a single elicitation question, centered and large
+.reveal .question {
+  font-size: 1.15em;
+  font-style: italic;
+  text-align: center;
+  padding: 0.8em 1.2em;
+  margin: 0.7em 0;
+  border-top: 2px solid #e2ded4;
+  border-bottom: 2px solid #e2ded4;
+}
+
+// ---------------------------------------------------------------
+// the SOA animation: distractor slides past a fixed picture onset
+// ---------------------------------------------------------------
+
+.reveal .soa {
+  margin: 1.2em 0 0.6em 0;
+}
+
+.reveal .soa-track {
+  position: relative;
+  height: 190px;
+  border-bottom: 3px solid #cfcfcf;
+}
+
+.reveal .soa-pic,
+.reveal .soa-word {
+  position: absolute;
+  padding: 0.35em 1.1em;
+  border-radius: 5px;
+  font-size: 0.62em;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.reveal .soa-pic {
+  top: 96px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #e8e8e8;
+  color: #1a1a1a;
+  border: 2px solid #b9b9b9;
+}
+
+.reveal .soa-word {
+  top: 26px;
+  background: #8c1515;
+  color: #fff;
+  animation: soa-slide 7s ease-in-out infinite alternate;
+}
+
+@keyframes soa-slide {
+  from { left: 6%; }
+  to   { left: 76%; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .reveal .soa-word { animation: none; left: 20%; }
+}
+
+.reveal .soa-axis,
+.reveal .soa-axis p {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.5em;
+  color: #6b6b6b;
+  padding-top: 0.4em;
+  margin: 0;
+  width: 100%;
+}
+
+// the picture onset, drawn as the zero line
+.reveal .soa-track::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 0;
+  bottom: 0;
+  border-left: 2px dashed #b9b9b9;
+}

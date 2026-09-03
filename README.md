@@ -1,4 +1,4 @@
-# LING 449U — How words are built
+# LING 449U: How words are built
 
 Course website for LING 449U, University of Maryland, Fall 2026.
 Built with [Quarto](https://quarto.org) and published to GitHub Pages.

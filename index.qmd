@@ -7,12 +7,12 @@ subtitle: "LING 449U &middot; Fall 2026 &middot; University of Maryland"
 ::: {.k}
 meets
 :::
-Tuesday and Thursday, 2:00--3:15pm, JMZ 1104
+Tuesday and Thursday, 2:00 to 3:15pm, JMZ 1104
 
 ::: {.k}
 instructor
 :::
-Utku Türk
+Utku Turk
 
 ::: {.k}
 email
@@ -22,7 +22,7 @@ email
 ::: {.k}
 office
 :::
-Marie Mount Hall 3416, by appointment
+Marie Mount Hall 3416. [Book a time](https://calendar.app.google/imdNjpq1H5xuBwAc7).
 
 ::: {.k}
 prerequisite
@@ -44,8 +44,8 @@ produced in real time. Then we take on a series of old and new puzzles about the
 productive machinery that builds complex lexical items spanning several
 syntactic positions.
 
-We also cover recent morphosyntactic theories --- Distributed Morphology and
-Nanosyntax --- which already have a lot to say about how several syntactic
+We also cover recent morphosyntactic theories, Distributed Morphology and
+Nanosyntax, which already have a lot to say about how several syntactic
 positions end up inside one word. In the last part of the semester we build an
 experiment, run it, and analyze the results.
 
@@ -76,7 +76,7 @@ at most, pulling together a couple of papers and our discussions. Due Sundays at
 11:59pm.
 
 **Presentations.** Everyone presents one paper from the lock-in weeks (Weeks
-6--9): background, the question, the assumptions, the method and its logic, and
+6 to 9): background, the question, the assumptions, the method and its logic, and
 what the results do and do not license.
 
 **Coding.** After fall break we get into the dirty work of experimentation.

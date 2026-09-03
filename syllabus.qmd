@@ -11,12 +11,12 @@ toc-location: left
 ::: {.k}
 meets
 :::
-Tuesday and Thursday, 2:00--3:15pm, JMZ 1104
+Tuesday and Thursday, 2:00 to 3:15pm, JMZ 1104
 
 ::: {.k}
 instructor
 :::
-Utku Türk
+Utku Turk
 
 ::: {.k}
 email
@@ -26,7 +26,7 @@ email
 ::: {.k}
 office
 :::
-Marie Mount Hall 3416, by appointment
+Marie Mount Hall 3416. [Book a time](https://calendar.app.google/imdNjpq1H5xuBwAc7).
 
 ::: {.k}
 prerequisite
@@ -173,7 +173,7 @@ We will have preparatory project assignments in the last half of the course:
 | Piece | Points |
 |---|---|
 | A short brainstorming submission describing preliminary project ideas | 2.5 |
-| An initial one-on-one meeting with me about your brainstormed ideas | 2.5 |
+| An initial [one-on-one meeting](https://calendar.app.google/imdNjpq1H5xuBwAc7) with me about your brainstormed ideas | 2.5 |
 | 5-minute in-class presentation | 5 |
 | 1-page rough draft of the proposal | 5 |
 | 10-minute in-class presentation | 5 |
@@ -207,12 +207,12 @@ details, and connections to bigger questions.
 
 | Letter | Range | | Letter | Range |
 |---|---|---|---|---|
-| A+ | 97--100 | | C+ | 77--79.99 |
-| A | 92--96.99 | | C | 72--76.99 |
-| A- | 90--91.99 | | C- | 70--71.99 |
-| B+ | 87--89.99 | | F | below 70 |
-| B | 82--86.99 | | | |
-| B- | 80--81.99 | | | |
+| A+ | 97 to 100 | | C+ | 77 to 79.99 |
+| A | 92 to 96.99 | | C | 72 to 76.99 |
+| A- | 90 to 91.99 | | C- | 70 to 71.99 |
+| B+ | 87 to 89.99 | | F | below 70 |
+| B | 82 to 86.99 | | | |
+| B- | 80 to 81.99 | | | |
 
 ## Attendance and participation
 
@@ -255,7 +255,8 @@ I expect most of the one-on-one communication (outside of class) to come from
 [utkuturk@umd.edu](mailto:utkuturk@umd.edu). When emailing be sure your answer
 cannot be found by going over the syllabus or the ELMS page. Feel free to email
 me about any other academic, intellectual, or personal (as it relates to
-academic affairs) concerns or questions. I will do my best to respond to emails
+academic affairs) concerns or questions. You can also just
+[grab a slot on my calendar](https://calendar.app.google/imdNjpq1H5xuBwAc7). I will do my best to respond to emails
 within 24 hours, though if I do not respond within about 48 hours feel free to
 follow up.
 
@@ -271,7 +272,7 @@ disagreement or debate with one another. As such, it is important that we agree
 to conduct ourselves in a professional manner and that we work together to
 foster and preserve a classroom environment in which we can respectfully discuss
 and deliberate controversial questions. I encourage you to confidently exercise
-your right to free speech --- bearing in mind, of course, that you will be
+your right to free speech, bearing in mind, of course, that you will be
 expected to craft and defend arguments that support your position. Keep in mind
 that free speech has its limit and this course is NOT the space for hate speech,
 harassment, and derogatory language. I will make every reasonable attempt to

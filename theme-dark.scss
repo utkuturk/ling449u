@@ -1,0 +1,37 @@
+/*-- scss:defaults --*/
+
+// darkly's default is a blue-grey; warm it up and calm it down
+$body-bg:   #16181c;
+$body-color: #dcdcdc;
+
+$accent:   #e8836f;
+$muted-fg: #9a9a9a;
+$rule:     #2c2f35;
+$panel-bg: #1d2026;
+
+$primary: $accent;
+$link-color: $accent;
+
+$navbar-bg: #101216;
+$navbar-fg: #dcdcdc;
+
+$table-border-color: $rule;
+
+/*-- scss:rules --*/
+body {
+  background-color: $body-bg;
+}
+
+a {
+  text-decoration-color: rgba(232, 131, 111, 0.45);
+}
+
+table th {
+  border-bottom-color: $rule !important;
+}
+
+kbd {
+  background: $panel-bg;
+  color: $body-color;
+  border: 1px solid $rule;
+}

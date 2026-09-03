@@ -1,8 +1,8 @@
 ---
 title: "From an idea to a word"
-subtitle: "Griffin & Ferreira (2006), §1--1.3"
-author: "Utku Türk"
-institute: "LING 449U --- How words are built"
+subtitle: "Griffin & Ferreira (2006), up to section 1.3"
+author: "Utku Turk"
+institute: "LING 449U, How words are built"
 date: 2026-09-03
 format:
   revealjs:
@@ -41,10 +41,49 @@ Course schedule, Week 1
 
 Our discussion today will touch on:
 
-- The three-step picture of speaking
+- The three steps of speaking
 - Why *choosing a word* and *building its sounds* are two different steps
-- Properties 1--9: the fact, and the evidence behind the fact
-- Where function words and morphemes fit --- and why that is our whole course
+- Properties 1 to 8: the fact, and the evidence behind the fact
+- Three experiments, run on you, badly
+
+# First, a game
+
+## Describe this picture {.demo}
+
+::: {.stim}
+::: {.pic}
+🐌 🍃
+:::
+:::
+
+::: {.fragment}
+Write down the first six words you would say. Ten seconds.
+:::
+
+## Describe this picture {.demo}
+
+::: {.fragment}
+- Nobody in this room wrote the same six words.
+:::
+
+::: {.fragment}
+- Most of you started with the snail.
+:::
+
+::: {.fragment}
+- A few of you started with the leaves, and now feel weird about it.
+:::
+
+::: {.fragment}
+::: {.claim}
+Deciding what to say is a step. It happens before any word does, it is yours,
+and two people looking at the same snail do not do it the same way.
+:::
+:::
+
+::: footer
+Levelt 1989 calls this conceptualization
+:::
 
 ## Speaking is not listening, reversed
 
@@ -61,8 +100,7 @@ object.
 :::
 
 ::: {.fragment .aside}
-So the first thing to give up: production is its own system, with its own
-problems.
+Which is roughly how long it took you to get going on the snail.
 :::
 
 ::: footer
@@ -72,7 +110,7 @@ Tanenhaus et al. 1995; Snodgrass & Yuditsky 1996
 ## Two warnings before we start
 
 - Almost everything in this chapter is about **single, isolated utterances**.
-  Conversation, narrative, turn-taking: all real, all set aside.
+  Conversation, narrative, turn taking: all real, all set aside.
 - Almost everything is about **nouns**. Some verbs. Nothing else.
 
 ::: {.fragment .prompt}
@@ -88,9 +126,9 @@ Levelt 1989; Clark 1996; Ferreira & Englehart, this volume
 
 :::: {.columns}
 ::: {.column width="45%"}
-- **Conceptualization** --- decide what to express
-- **Formulation** --- decide how to express it
-- **Articulation** --- say it
+- **Conceptualization**, decide what to express
+- **Formulation**, decide how to express it
+- **Articulation**, say it
 :::
 ::: {.column width="55%"}
 ![](figs/fig1-stages.png)
@@ -98,7 +136,7 @@ Levelt 1989; Clark 1996; Ferreira & Englehart, this volume
 ::::
 
 ::: footer
-Levelt 1989; Figure 1, Griffin & Ferreira 2006:22
+Levelt 1989. Figure 1, Griffin & Ferreira 2006:22
 :::
 
 ## Formulation splits in two
@@ -121,10 +159,14 @@ Fromkin 1971; Garrett 1975; Kempen & Huijbers 1983
 
 ## The chapter is a list of properties
 
-- Property 1 --- the steps
-- Properties 2--9 --- from meaning to word ← **we stop here**
-- Properties 10--13 --- assembling the sounds
-- Properties 14--15 --- how it all plays out in time
+- Property 1, the steps
+- Properties 2 to 9, from meaning to word
+- Properties 10 to 13, assembling the sounds
+- Properties 14 and 15, how it all plays out in time
+
+::: {.fragment}
+We stop after Property 8, at the end of section 1.2.
+:::
 
 ::: {.fragment .aside}
 Models disagree less than you would expect. They mostly agree on the facts and
@@ -143,7 +185,7 @@ Two kinds of evidence:
 
 ::: {.fragment}
 1. **Speech errors** come in types, and the types line up with the steps.
-2. **Time course** in picture--word interference.
+2. **Time course** in picture and word interference.
 :::
 
 ::: footer
@@ -158,8 +200,7 @@ Fromkin 1971; Garrett 1975
 | Blend | "**Justi:ce**, *Justin and Travis*" |
 | Phonological word substitution | "the battle for the green **journey** [*jersey*]" |
 | Morpheme substitution | "an awful lot of use**less** information. use*FUL* information" |
-| Sound substitution | "the **raid**-- uh . the *roadie* is accepting..." |
-
+| Sound substitution | "the **raid**, uh, the *roadie* is accepting..." |
 
 ::: footer
 Table 1, Griffin & Ferreira 2006:24
@@ -201,20 +242,112 @@ Notice the fourth row. *Morphemes* substitute too, and they substitute
 separately from the stem. Hold onto that one.
 :::
 
-## Picture--word interference
+# Now we are going to run an experiment on you
 
-::: {.todo}
-PLACEHOLDER --- schematic of the paradigm.
+## The rules {.demo}
 
-Picture of a lion + distractor word, distractor appearing at SOA
-−400 / −200 / 0 / +200 ms. Task: name the picture, ignore the word.
+::: {.rules}
+1. A picture appears. **Say its name out loud, immediately.**
+2. A word will appear on top of it. **Ignore the word.**
+3. Do not think. Thinking is cheating.
+:::
+
+::: {.fragment .aside}
+Our stimulus onset asynchrony manipulation is me pressing the spacebar. Try to
+contain your excitement.
 :::
 
 ::: footer
-Schriefers, Meyer & Levelt 1990
+Picture and word interference: Schriefers, Meyer & Levelt 1990
 :::
 
-## Picture--word interference: the pattern
+## Practice {.demo}
+
+::: {.stim}
+::: {.pic}
+🪑
+:::
+::: {.fragment .word}
+CLOUD
+:::
+:::
+
+## Trial 1 {.demo}
+
+::: {.stim}
+::: {.pic}
+🦁
+:::
+::: {.fragment .word}
+TABLE
+:::
+:::
+
+## Trial 2 {.demo}
+
+::: {.stim}
+::: {.pic}
+🦁
+:::
+::: {.fragment .word}
+TIGER
+:::
+:::
+
+## Trial 3 {.demo}
+
+::: {.stim}
+::: {.pic}
+🦁
+:::
+::: {.fragment .word}
+LIAR
+:::
+:::
+
+## Which one hurt? {.demo}
+
+::: {.fragment}
+- **TABLE** was nothing. Unrelated word, unrelated meaning.
+:::
+::: {.fragment}
+- **TIGER** was the bad one. Somebody in this room said "tiger" out loud.
+:::
+::: {.fragment}
+- **LIAR** was oddly easy, and slightly upsetting.
+:::
+
+::: {.fragment}
+::: {.claim}
+You just produced the semantic interference effect and the phonological
+facilitation effect with a room full of people and no equipment.
+:::
+:::
+
+## The same trial, on a timer
+
+::: {.soa}
+::: {.soa-track}
+::: {.soa-pic}
+picture
+:::
+::: {.soa-word}
+distractor
+:::
+:::
+::: {.soa-axis}
+[-400 ms]{.t1} [-200]{.t2} [0]{.t3} [+200]{.t4} [+400]{.t5}
+:::
+:::
+
+The distractor slides. Where it lands relative to the picture is the whole
+experiment.
+
+::: footer
+Schriefers, Meyer & Levelt 1990; Glaser & Düngelhoff 1984
+:::
+
+## What the real experiment finds
 
 - **Semantically** related distractor (*tiger* while naming a lion):
   **slows** naming, when it comes at or before the picture.
@@ -237,8 +370,8 @@ Glaser & Düngelhoff 1984; Damian & Martin 1999; Starreveld 2000
 
 ## What Property 1 buys the models
 
-- Two stages, and two separate levels of representation: word-level and
-  sound-level.
+- Two stages, and two separate levels of representation: word level and
+  sound level.
 
 ::: {.fragment}
 ::: {.claim}
@@ -255,7 +388,7 @@ Caramazza 1997; Dell 1986; Levelt et al. 1999
 ## Property 2: one intention wakes a family
 
 - Semantic substitutions: calling a van *bus*.
-- Blends: *behavior* + *deportment* → **behortment**.
+- Blends: *behavior* plus *deportment* gives **behortment**.
 
 ::: {.fragment}
 ::: {.claim}
@@ -279,7 +412,7 @@ Dell et al. 1997; Garrett 1975; Wells 1951/1973
 
 `BIRD` is one atomic lexical concept.
 
-Neighbours come from links in a network: `BIRD` → `ANIMAL` → `FISH` → *fish*.
+Neighbours come from links in a network: `BIRD` to `ANIMAL` to `FISH` to *fish*.
 :::
 ::: {.column width="50%"}
 **Decompositional**
@@ -291,7 +424,7 @@ Neighbours come from shared features: airplanes have wings, opera singers sing.
 ::::
 
 ::: footer
-Fodor 1975; Roelofs 1992; Levelt et al. 1999 (left) --- Dell 1986; Vigliocco et al. 2004 (right)
+Fodor 1975; Roelofs 1992; Levelt et al. 1999 (left). Dell 1986; Vigliocco et al. 2004 (right)
 :::
 
 ## Two answers about meaning
@@ -306,8 +439,8 @@ Figure 2, Griffin & Ferreira 2006:27. WEAVER++ (Levelt et al. 1999) left, Dell e
 
 - Decompositional gets similarity for free: overlap in features.
 - Non-decompositional has to build similarity out of network links.
-- Both have to explain why the neighbourhood is **context-dependent** ---
-  blends only involve words that are interchangeable *in that sentence*.
+- Both have to explain why the neighbourhood is **context dependent**. Blends
+  only involve words that are interchangeable *in that sentence*.
 
 ::: {.fragment .prompt}
 For us: if a morpheme carries meaning, which of these two boxes does *-ed* go
@@ -322,7 +455,8 @@ Garrett 1975; Levelt 1989
 
 - Words that intrude in substitutions share grammatical class, taxonomic
   category, and level of specificity with the target.
-- Related distractors slow you down relative to unrelated ones.
+- Related distractors slow you down relative to unrelated ones. You felt this
+  three slides ago.
 
 ::: {.fragment}
 ::: {.claim}
@@ -332,7 +466,7 @@ But *dog* and *bone* do not compete. Association is not enough. It has to be
 :::
 
 ::: footer
-Fromkin 1971; Nooteboom 1973
+Fromkin 1971; Nooteboom 1973; Cutting & Ferreira 1999; Lupker 1979
 :::
 
 ## How models make words compete
@@ -340,16 +474,14 @@ Fromkin 1971; Nooteboom 1973
 - **Activation only.** Probability of selection tracks activation. Enough for
   error patterns, not enough for latencies.
 - **Lateral inhibition.** The more active a word is, the harder it pushes the
-  others down. Time-to-threshold is your reaction time.
+  others down. Time to threshold is your reaction time.
 - **WEAVER++.** Two factors: a ratio of the target's activation to everything
   else in the response set, plus a **critical difference** the target has to
   clear.
 
-::: {.fragment}
-::: {.aside}
+::: {.fragment .aside}
 That last one makes a real prediction: one strong competitor is worse than two
-half-strength ones.
-:::
+half strength ones.
 :::
 
 ::: footer
@@ -358,8 +490,8 @@ Dell 1986; Cutting & Ferreira 1999; Harley 1993; Levelt et al. 1999; Luce 1959
 
 ## Property 3, a small case: codability
 
-- *tooth*, *bomb*: one dominant name → fast.
-- *TV / television*, *weights / barbells*: two good names → slow.
+- *tooth*, *bomb*: one dominant name, so fast.
+- *TV* or *television*, *weights* or *barbells*: two good names, so slow.
 
 ::: {.fragment}
 The second name is a competitor you brought with you.
@@ -373,7 +505,7 @@ Lachman 1973; Lachman, Shaffer & Hennrikus 1974
 
 - Nouns substitute for nouns, verbs for verbs.
 - Distractors interfere when they share grammatical class, verb transitivity,
-  and other context-relevant syntactic features.
+  and other context relevant syntactic features.
 - Even purely *phonological* substitutions tend to keep the category.
 
 ::: {.fragment}
@@ -394,7 +526,7 @@ Fromkin 1971; Garrett 1975; Schriefers 1993; Fay & Cutler 1977
 
 ## Property 5: which meanings are easy
 
-- **Imageability / concreteness.** *vampire, wind, pine* beat *fear, sense,
+- **Imageability and concreteness.** *vampire, wind, pine* beat *fear, sense,
   spirit*.
 - **Predictability.** The more predictable a word is in context, the fewer
   pauses and *um*s before it, and the faster the naming.
@@ -417,8 +549,9 @@ Morrison et al. 1997; De Groot 1989, 1992; Griffin & Bock 1998; Goldman-Eisler 1
 
 ## Property 6: looking is not naming
 
-- Distractor **word** *banana* while you say *apple* → interference.
-- Distractor **picture** of a banana while you say *apple* → **facilitation**.
+- Distractor **word** *banana* while you say *apple*, that is interference.
+- Distractor **picture** of a banana while you say *apple*, that is
+  **facilitation**.
 
 ::: {.fragment}
 ::: {.claim}
@@ -438,9 +571,9 @@ Bloem & La Heij 2003; Damian & Bowers 2003
 
 ## Property 6: except it is not clean
 
-- Ignored objects show **no** semantic interference...
-- ...but they *do* speed you up when their name sounds like your target
-  (*cap* while naming a *cat*).
+- Ignored objects show **no** semantic interference.
+- But they *do* speed you up when their name sounds like your target, *cap*
+  while naming a *cat*.
 
 ::: {.fragment}
 ::: {.claim}
@@ -480,9 +613,50 @@ models. Word production does not. The authors name this as a gap.
 Cave 1997; Bartram 1974; Vitkovitch & Humphreys 1991; Vigliocco et al. 2002
 :::
 
+# One more experiment. This one works on about half the room.
+
+## Do not say it out loud {.demo}
+
+::: {.question}
+What do you call a word that reads the same backwards as forwards?
+:::
+
+::: {.fragment .rules}
+If you have it, sit on it. If you are **stuck**, raise your hand.
+:::
+
+## Hands up, answer these {.demo}
+
+::: {.rules}
+1. What letter does it start with?
+2. How many syllables?
+3. What does it rhyme with?
+4. Would you know it if I said it?
+:::
+
+::: {.fragment .aside}
+Everyone with a hand up just answered at least two of those. About a word they
+cannot say.
+:::
+
+## Two more {.demo}
+
+::: {.question}
+What do you call the small plastic tip at the end of a shoelace?
+:::
+
+::: {.fragment .question}
+What do you call an instrument for measuring wind speed?
+:::
+
+::: {.fragment .aside}
+Answers, eventually: palindrome, aglet, anemometer. The first one is the
+chapter's own example, footnote 3.
+:::
+
 ## Property 8: stopping halfway
 
-Tip-of-the-tongue. You have the word and you cannot say it.
+Tip of the tongue. You have the word and you cannot say it.
 
 ::: {.fragment}
 What you still know in a TOT state:
@@ -493,14 +667,18 @@ What you still know in a TOT state:
 - which auxiliary the verb takes in Italian
 :::
 
+::: {.fragment .aside}
+Exactly the list you just filled in with your hand up.
+:::
+
 ::: footer
-Brown & McNeill 1966; Burke et al. 1991
+Brown & McNeill 1966; Burke et al. 1991; Vigliocco, Martin & Garrett 1999
 :::
 
 ## Property 8: what TOTs buy us
 
-- **WEAVER++.** The lemma was selected --- that is why you know the syntax ---
-  and retrieval of the **lexeme** failed.
+- **WEAVER++.** The lemma was selected, which is why you know the syntax, and
+  retrieval of the **lexeme** failed.
 - **Node Structure Theory.** No lexeme. A lexical node fails to fully activate
   phonology because the connections are weak.
 - Anomia after brain damage looks the same: gender preserved, form gone.
@@ -516,168 +694,88 @@ things.
 Levelt et al. 1999; MacKay 1987; Badecker, Miozzo & Zanuttini 1995
 :::
 
-# 1.3 Function words and morphemes
-
-## Property 9: not selected by meaning
-
-Articles, determiners, *-ed*. Their form depends on the **neighbours**, not on
-the message.
-
-::: {.ex}
-(1)&nbsp;&nbsp; a noodle / some pasta &nbsp;&nbsp;<span class="gloss">(count vs. mass, English)</span>
-
-(2)&nbsp;&nbsp; ett bord 'a table' / en stol 'a chair' &nbsp;&nbsp;<span class="gloss">(gender, Swedish)</span>
-
-(3)&nbsp;&nbsp; mon chapeau, mon arbre / ma table, mon ampoule &nbsp;&nbsp;<span class="gloss">(gender + phonology, French)</span>
-:::
-
-::: {.fragment .aside}
-The French case is the interesting one: *ampoule* is feminine but takes *mon*,
-because the next sound decides.
-:::
-
-::: footer
-Janssen & Caramazza 2003
-:::
-
-## Property 9: the experimental handle
-
-Dutch. Naming *het groene huis* 'the green house'.
-
-::: {.fragment}
-- Distractor *been* 'leg' --- also takes *het* → faster.
-- Distractor *tafel* 'table' --- takes *de* → **slower**.
-:::
-
-::: {.fragment}
-::: {.claim}
-The determiner's form is competing, and the competition is over a
-**grammatical** feature of a word you are not even saying.
-:::
-:::
-
-::: {.fragment .aside}
-Schriefers et al. 2002/2005 is our Week 8. This is the seed of it.
-:::
-
-::: footer
-Schriefers 1993
-:::
-
-## Property 9: two more facts
-
-- In **agrammatic aphasia**, function word production is badly impaired ---
-  even though function words are the most frequent and phonologically simplest
-  things in the language.
-- Function words participate in **speech errors** differently from content
-  words.
-
-::: footer
-Bates, Wulfeck & MacWhinney 1991; Dell 1990; Garrett 1975; Stemberger 1985
-:::
-
-## Property 9: two accounts
-
-:::: {.columns}
-::: {.column width="50%"}
-**Positional frames**
-
-Function words are built into the frame that content words get slotted into.
-Retrieving them is part of syntactic encoding, not lexical selection.
-:::
-::: {.column width="50%"}
-**Indirect election**
-
-You retrieve the content word first. The content word's syntactic knowledge then
-triggers retrieval of the function words it licenses.
-:::
-::::
-
-::: {.fragment}
-::: {.claim}
-Both say the same negative thing: a function word is not retrieved by its
-meaning. It is retrieved through the syntax of something else.
-:::
-:::
-
-::: footer
-Garrett 1975; Levelt 1989; Ferreira 2000
-:::
-
 # Why we started here
 
-## Property 9 is the whole course
+## Where the morphology is hiding
 
-- The chapter has a big, careful section on **content words**, and one page for
-  **everything else**.
-- "Everything else" is where we live: *-ed*, *-lAr*, compounds, prefix stacks,
-  suspended affixation.
+The chapter is about **content words**: nouns, mostly. But morphemes keep
+walking through it anyway.
 
-::: {.fragment .prompt}
-Three questions to carry:
+::: {.fragment}
+- **Property 1.** Morphemes substitute in speech errors, on their own, away from
+  their stems. *useless* for *useful*.
+:::
+::: {.fragment}
+- **Property 4.** Grammatical class constrains selection harder than meaning
+  does. Class is a morphosyntactic fact.
+:::
+::: {.fragment}
+- **Property 8.** In a TOT you can report gender and count or mass status
+  without the form. You are holding morphosyntax with no morphology attached.
+:::
 
-1. Is *-ed* really in the same box as *the*?
+## Three questions to carry
+
+::: {.prompt}
+1. Every one of those observations is about a morpheme, and none of them get a
+   mechanism in this chapter. Why not?
 2. Is a compound one selection or two?
 3. If Distributed Morphology is right and words are **built by syntax**, what
    happens to a stage called "word selection"?
 :::
 
-::: footer
-Course description
+::: {.fragment .aside}
+Section 1.3 starts to answer the first one. That is Thursday.
 :::
 
 ## Key takeaways
 
-1. Meaning first, sounds second, and never a shortcut between them.
-2. Selection is competitive, and the competition is over **similar meanings**
+1. Deciding what to say is its own step, and it is slow.
+2. Meaning first, sounds second, and never a shortcut between them.
+3. Selection is competitive, and the competition is over **similar meanings**
    inside the **same grammatical class**.
-3. The word can succeed while its form fails. That is a TOT.
-4. Function words and morphemes get a different, syntax-driven route.
+4. The word can succeed while its form fails. That is a TOT.
 5. The models mostly agree on the facts. They differ on the mechanism.
 
-## What the rest of the chapter does
+## What comes next in the chapter
 
-We are not reading this, but so you know it is there:
+We stopped at the end of 1.2. Still ahead:
 
-- **§1.4** Sounds are assembled **anew** every time; experience makes it faster;
-  it goes left to right; phonological neighbours help sometimes and hurt others.
-- **§1.5** Timing: semantic competitors activate their own sounds, and how far
-  ahead you plan in a multi-word utterance.
+- **1.3** Function words and morphemes, which are not selected by meaning at all.
+- **1.4** Sounds are assembled **anew** every time, experience makes it faster,
+  and it goes roughly left to right.
+- **1.5** Timing, and how far ahead you plan in a multi word utterance.
 
 ::: {.fragment}
-Thursday we keep going on production, and then Levelt (1989) Ch. 9 next week.
+Thursday we pick up at 1.3, and then Levelt (1989) Ch. 9 next week.
 :::
 
 ::: footer
-Griffin & Ferreira 2006, §1.4--§2
+Griffin & Ferreira 2006, sections 1.3 to 2
 :::
 
 ## Bring questions
 
 ::: {.prompt}
-- Property 1 says meaning-based selection comes first. What would a result look
+- Property 1 says meaning based selection comes first. What would a result look
   like that **broke** that? Would you believe it?
 - Property 3 says similarity competes and association does not. Are *bake* and
   *cake* similar, associated, or neither?
 - Property 6: how would you tell "the word was never activated" apart from "the
   word was activated and then suppressed"?
-- Property 9: pick a morpheme in a language you know whose form depends on its
-  neighbours. Which of the two accounts handles it better?
+- Our lion demo had one trial per condition and no timer. Name three things
+  wrong with it that the real experiment fixes.
 :::
 
 ::: footer
 Reading questions due 11:59pm the night before
 :::
 
-## In-class
+## In class
 
 ::: {.todo}
-PLACEHOLDER --- error collection.
+PLACEHOLDER, error collection.
 
 Everyone writes down one slip of the tongue they have made or heard this week.
 We sort them into the five rows of Table 1 and see which rows are hard to fill.
-:::
-
-::: footer
-Bring your own
 :::

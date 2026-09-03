@@ -5,7 +5,7 @@ subtitle: "Subject to change. Changes are announced on ELMS."
 
 Readings are posted on ELMS. Slides go up here after class.
 
-## Weeks 1--5 &middot; Foundations
+## Weeks 1 to 5 &middot; Foundations
 
 | | Date | Topic | Main reading | Optional | Due |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@ Readings are posted on ELMS. Slides go up here after class.
 | | Oct 1 | Syntactic approaches to morphology | Nanosyntax reading | | Question |
 | | Oct 4 | | | | **Synthesis II** |
 
-## Weeks 6--9 &middot; Lock-in and presentations
+## Weeks 6 to 9 &middot; Lock-in and presentations
 
 Everyone presents one paper from these four weeks.
 
@@ -38,7 +38,7 @@ Everyone presents one paper from these four weeks.
 | | Oct 29 | Sentences | Momma & Ferreira 2019 | Ferreira 1996; Konopka & Bock 2009; Ziegler et al. 2019 | Question |
 | | Nov 1 | | | | **Synthesis III** |
 
-## Weeks 10--15 &middot; Building an experiment
+## Weeks 10 to 15 &middot; Building an experiment
 
 | | Date | Topic | Main reading | Due |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ Everyone presents one paper from these four weeks.
 | Piece | Points |
 |---|---|
 | Brainstorming submission | 2.5 |
-| One-on-one check-in meeting | 2.5 |
+| [One-on-one check-in meeting](https://calendar.app.google/imdNjpq1H5xuBwAc7) | 2.5 |
 | 5-minute presentation | 5 |
 | 1-page rough draft | 5 |
 | 10-minute presentation | 5 |
