@@ -7,6 +7,7 @@ project:
 
 website:
   title: "LING 449U"
+  site-url: https://www.utkuturk.com/ling449u/
   description: "How words are built --- morphology and language production. University of Maryland, Fall 2026."
   search: false
   navbar:
