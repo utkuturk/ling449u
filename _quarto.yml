@@ -43,3 +43,6 @@ format:
     toc: false
     anchor-sections: false
     link-external-newwindow: true
+
+execute:
+  freeze: auto
