@@ -1,0 +1,363 @@
+---
+title: "Syllabus"
+subtitle: "LING 449U &middot; How words are built &middot; Fall 2026"
+toc: true
+toc-location: left
+---
+
+## Basics
+
+::: {.facts}
+::: {.k}
+meets
+:::
+Tuesday and Thursday, 2:00--3:15pm, JMZ 1104
+
+::: {.k}
+instructor
+:::
+Utku Türk
+
+::: {.k}
+email
+:::
+[utkuturk@umd.edu](mailto:utkuturk@umd.edu)
+
+::: {.k}
+office
+:::
+Marie Mount Hall 3416, by appointment
+
+::: {.k}
+prerequisite
+:::
+LING 311
+
+::: {.k}
+credits
+:::
+3
+:::
+
+A minimum grade of C- is required to pass this course.
+
+## Description
+
+In this seminar, we will investigate works that focus on how morphological
+structure is planned and computed during sentence production. After discussing
+seminal works on non-complex words and understanding their claims on how such
+words are retrieved and produced in real time, we will try to tackle a series of
+old and new puzzles surrounding productive machinery that creates complex
+lexical items that span across multiple syntactic positions. We will also cover
+recent morphosyntax theories of Distributed Morphology and Nanosyntax, which
+already present substantial improvement on how multiple syntactic positions find
+their fate within a single word. Lastly, we will try to build an experiment, run
+it, and analyze its results.
+
+## Course objectives
+
+After completing this class you will be able to:
+
+1. Demonstrate understanding of model parts of prominent language production
+   models and theoretical underpinnings of modern morphological theories.
+2. Think critically about possible predictions of formal linguistic models on
+   psychological theories of language production.
+3. Locate overlooked aspects of morphosyntax and morphophonology within language
+   production.
+4. Produce novel experiment ideas to behaviorally examine such overlooked
+   corners.
+5. Link your results or predictions with foundational questions in sentence
+   production and morphology.
+6. Conduct and analyze behavioral experiments.
+
+## Required resources
+
+*There is no textbook for this course.* **All readings will be posted to ELMS.**
+I highly recommend simply accessing these digitally (there are quite a few
+programs and apps out there you can use to annotate them as well) to save paper.
+If you would ever like me to print out a text for you, though, just email me
+ahead of time and I would be happy to do so.
+
+The week-by-week plan is on the [schedule](schedule.qmd) page.
+
+## Course structure
+
+### Discussion
+
+This course will be heavily discussion based, and discussions will center around
+readings, in-class slide shows, activities, and any relevant course-external
+research you or a peer may wish to include. There are relatively few
+assignments, and the assignments we do have are very short, so I expect readings
+to be our primary focus, and as such I expect the class to put time and effort
+into each reading assigned.
+
+### Bringing questions
+
+No one goes through a paper and does not have any questions. While some of the
+thinking we do will be together as a group, quite a bit of it will be done
+individually, when you go over readings outside of class. To assist in this, I
+will ask you to send me a question before the class about the reading we did.
+This question can be related to anything in the reading, but it is mainly
+towards helping you understand the paper more clearly. Due dates for these
+reflections will typically be the midnight before the class (11:59pm). There
+will be an ELMS discussion thread for you to post your questions, with other
+responses locked until you submit yours. You can skip up to three question
+submissions without any consequences.
+
+### Syntheses
+
+Until the end of Week 9, I will ask you to write three short reflections.
+Syntheses will consist of one question that requires a no more than half a page
+answer. For instance, if during the last week or two we focused on speech
+errors, I might ask: *"How might someone test the hypothesis that
+morphosyntactically complex words cannot go through long-distance speech
+error?"* or *"Why do you think the same category elements can participate in
+long-distance speech errors, but elements of different categories cannot?"* The
+aim of these reflections is to pull together a couple of papers and the ideas
+within and synthesize our own thoughts and discussions. Due dates will typically
+be Sundays at midnight (11:59pm). These synthesis questions and homeworks will
+be posted to ELMS announcements, and I will expect you to turn in PDFs.
+
+### Presentations
+
+To prepare for final projects, I will ask everyone in the class to present a
+paper that we read in the lock-in weeks of the semester (Weeks 6 to 9). This
+will primarily involve three things: (i) choosing a paper from a list, (ii)
+reading the paper well in-depth enough to lead the discussion about it, (iii)
+bringing along some presentation aid (a slideshow, handout, etc.). During the
+discussion I expect you to go over the background of the paper, the questions it
+asks, assumptions the authors make, experiment details such as method,
+measurement, and logic, and conclusions that can be drawn from the results. By
+that point in the semester we will all be very familiar with how discussions go
+and I will have presented a number of papers, so this assignment should be
+fairly straightforward.
+
+### Coding work
+
+Past fall break, we will be focusing more on the dirty work of experimentation.
+This part will include thinking about the materials, designs, measures,
+populations, and all the other logistically necessary sides of experimentation.
+It will also include some coding work for R and JavaScript, since it is almost
+necessary to work with these tools to create and deploy experiments, as well as
+simulate and analyze the data. I will assign weekly, *very short*, coding
+exercises to help you practice outside of the class at least 10 minutes a day.
+**This code work will not be graded and it is completely optional.** In the case
+of you requiring extra grade for any reason, this may kick in. The assignments
+that will be provided will not include writing code from scratch; instead they
+will require modifying an existing code for your own purposes.
+
+### Course projects
+
+Towards the middle of the semester, after we have covered the foundations of
+production, we will begin to work on projects. The end product for these
+projects will be an experiment proposal for a language-production-related
+experiment in a language other than English, including understudied dialects of
+English. You will not only have to explain the experiment itself (which method
+is to be used, which structure or class of words is to be examined, etc.), but
+also why it matters for the core questions we ask in this course. Yet, do not be
+worried, since Weeks 10 to 15 will be focused on these aspects of experiment
+building.
+
+For instance, you might ask what the copular variation (be/is/are) in
+African-American Vernacular English tells us about the representation of
+agreement, which you could connect to hypotheses regarding the presence and
+absence of a morphophonological form and underlying morphosyntactic structure.
+Or you might ask whether prefix stacking in Polish, as in *po-na-ścinać* 'cut
+something down in large quantity, one by one,' follows what we know about
+serialization of concepts into morphologically intact strings, important because
+it has bearing on when speakers of a language unitize certain phrases or when
+the head of a phrase kicks in.
+
+We will have preparatory project assignments in the last half of the course:
+
+| Piece | Points |
+|---|---|
+| A short brainstorming submission describing preliminary project ideas | 2.5 |
+| An initial one-on-one meeting with me about your brainstormed ideas | 2.5 |
+| 5-minute in-class presentation | 5 |
+| 1-page rough draft of the proposal | 5 |
+| 10-minute in-class presentation | 5 |
+| 2-page final draft of your experiment proposal | 10 |
+
+These assignments are in addition to group check-ins in class, where we discuss
+project progression as a group and give one another ideas, comments, and
+concerns.
+
+The final draft will lay the foundations for your presentation. It should give
+the appropriate background for your proposal, detailing the language and
+phenomena of interest as well as why it is interesting relative to assumptions
+about memory and production. The experimental logic should be stated as clearly
+as possible for a reader to understand how and why that experimental procedure
+and measure can be used to make inferences about underlying processes.
+
+Finally, in the last week of class everyone will present their project, walking
+the audience through the background, logic of the experiment, experiment
+details, and connections to bigger questions.
+
+## Grading
+
+| Component | Weight |
+|---|---|
+| Participation | 30% |
+| Bringing questions | 10% |
+| Syntheses | 20% |
+| Presentation | 10% |
+| Project | 30% |
+| Coding | 0% |
+
+| Letter | Range | | Letter | Range |
+|---|---|---|---|---|
+| A+ | 97--100 | | C+ | 77--79.99 |
+| A | 92--96.99 | | C | 72--76.99 |
+| A- | 90--91.99 | | C- | 70--71.99 |
+| B+ | 87--89.99 | | F | below 70 |
+| B | 82--86.99 | | | |
+| B- | 80--81.99 | | | |
+
+## Attendance and participation
+
+Attendance is expected. If you must miss class, email me in advance (even one
+minute before the class is fine). You are still responsible for all the required
+materials. A large portion of your grade will relate to your participation in
+class. I expect you to be present, prepared, and engaged. This means that you
+should come to class having read the readings thoroughly enough to respond to
+questions and discuss key details, you should be invested in the content of
+class discussions, and should pay attention to me and your peers. Simply, you
+should come to class, talk, ask questions, and not attend to class-unrelated
+things during class time. This will be a smaller class so I imagine it will be
+very easy to reach these standards.
+
+Should repeated issues with participation come up I may get in contact with you
+to remind you that participation is graded and to see if there may be anything I
+could do to assist in your participation. If you feel you cannot participate for
+any reason that I can help with, please get in contact with me and we can
+discuss solutions.
+
+## Late work
+
+Late reading questions are not accepted, since they are given in the class.
+Proposal and presentation deadlines are firm (completion credit). Late synthesis
+submissions are multiplied by a factor of 0.9 raised to the square root of the
+delay. You should not worry if your submission is late up to 30 minutes; past
+that it will be counted as late the entire day.
+
+If you need extra time to complete an assignment, please do not hesitate to get
+in contact with me before the due date. A request for more time can be as simple
+as an estimate for a new submission time and a reason like "Other courses have
+been very busy" or "I had a medical issue" or even "My dog threw up and I had to
+wash a rug at 11pm". If I do not reply with a "no", you should assume that your
+extension is accepted.
+
+## Communication
+
+I expect most of the one-on-one communication (outside of class) to come from
+**email**. If you need to reach out and communicate with me, please email me at
+[utkuturk@umd.edu](mailto:utkuturk@umd.edu). When emailing be sure your answer
+cannot be found by going over the syllabus or the ELMS page. Feel free to email
+me about any other academic, intellectual, or personal (as it relates to
+academic affairs) concerns or questions. I will do my best to respond to emails
+within 24 hours, though if I do not respond within about 48 hours feel free to
+follow up.
+
+I will send class-wide announcements via **ELMS**. You must make sure that your
+email and announcement notifications (including changes in assignments and due
+dates) are enabled in ELMS so you do not miss any messages. You are responsible
+for checking your email and ELMS inbox with regular frequency (as am I).
+
+### Communication with peers
+
+With a diversity of perspectives and experience, we may find ourselves in
+disagreement or debate with one another. As such, it is important that we agree
+to conduct ourselves in a professional manner and that we work together to
+foster and preserve a classroom environment in which we can respectfully discuss
+and deliberate controversial questions. I encourage you to confidently exercise
+your right to free speech --- bearing in mind, of course, that you will be
+expected to craft and defend arguments that support your position. Keep in mind
+that free speech has its limit and this course is NOT the space for hate speech,
+harassment, and derogatory language. I will make every reasonable attempt to
+create an atmosphere in which each student feels comfortable voicing their
+argument without fear of being personally attacked, mocked, demeaned, or
+devalued. Any behavior (including harassment, sexual harassment, and racially or
+culturally derogatory language) that threatens this atmosphere will not be
+tolerated. Please alert me immediately if you feel threatened, dismissed, or
+silenced at any point during our semester together, or if your engagement in
+discussion has been in some way hindered by the learning environment.
+
+## Academic integrity
+
+I expect all the submitted work to be your own, written by you. You are welcome
+to discuss your work with your peers, other colleagues, as well as AI. Discussing, bouncing ideas, being inspired from these sources is
+not the problem. The problem starts when the submitted work is generated by somebody or
+something else, and it has not gone through your own filtering process.
+
+**Just remember that it is
+[rude to show people AI slop](https://distantprovince.by/posts/its-rude-to-show-ai-output-to-people/).**
+
+If a work shows clear AI copy-paste, or I suspect that you contributed unfiltered
+AI output (i.e. what you said in class contradicts or otherwise seems very
+inconsistent relative to your reading response), I will
+contact you to schedule a meeting, we will discuss your response, and in some
+cases your assignment score may be lowered.
+
+Similarly, plagiarism of existing sources or copying work from your peers will
+not be tolerated. It is your job to properly cite any course-external sources
+you use to complete an assignment or reading response. Similarly, I expect you
+to note down (or cite) your peers or your usage of AI in your answers. Also read
+and understand the
+[University's Code of Academic Integrity](https://academiccatalog.umd.edu/undergraduate/registration-academic-requirements-regulations/academic-integrity-student-conduct-codes/).
+
+## Accessibility
+
+If you need accommodations, register with
+[ADS](https://www.counseling.umd.edu/ads/) and share your letter early. I am
+happy to discuss implementation anytime.
+
+## Mental health
+
+If you are struggling, academically or personally, please reach out. Many
+problems seem insurmountable when tackled alone. I am happy to work with you to
+make the class not a problem for you.
+
+## University policies
+
+**Emergency preparedness.** Emergencies on campus can happen at any time. To
+prepare, visit [prepare.umd.edu](https://prepare.umd.edu) or use the emergency
+symbol in the UMD App to review information. Resources for persons with
+disabilities are available on the emergency preparedness page of the ADA
+Coordinator's website.
+
+**Notice of mandatory reporting.** Notice of mandatory reporting of sexual
+assault, sexual harassment, interpersonal violence, and stalking: as a faculty
+member, I am designated as a "Responsible University Employee," and I must
+report all disclosures of sexual assault, sexual harassment, interpersonal
+violence, and stalking to UMD's Title IX Coordinator per University Policy on
+Sexual Harassment and Other Sexual Misconduct. If you wish to speak with someone
+confidentially, please contact one of UMD's confidential resources, such as CARE
+to Stop Violence (Ground Floor of the Health Center) at 301-741-3442 or the
+Counseling Center (Shoemaker Building) at 301-314-7651. You may also seek
+assistance or supportive measures from UMD's Title IX Coordinator by calling
+301-405-1142 or emailing
+[titleIXcoordinator@umd.edu](mailto:titleIXcoordinator@umd.edu). Further
+information is on the Office of Civil Rights and Sexual Misconduct's website at
+[ocrsm.umd.edu](https://ocrsm.umd.edu).
+
+**Basic needs security.** If you have difficulty affording groceries or
+accessing sufficient food to eat every day, or lack a safe and stable place to
+live, please visit UMD's Division of Student Affairs website for information
+about resources the campus offers you, and let me know if I can help in any way.
+
+**Veteran resources.** UMD provides some additional support to our student
+veterans. You can access those resources at the Office of Veteran Student Life
+and the Counseling Center. Veterans and active duty military personnel with
+special circumstances (e.g. upcoming deployments, drill requirements,
+disabilities) are welcome and encouraged to communicate these, in advance if
+possible, to the instructor.
+
+**Course evaluation.** Please submit a course evaluation through Student
+Feedback on Course Experiences in order to help faculty and administrators
+improve teaching and learning at Maryland. All information submitted is
+confidential. Campus will notify you when Course Experiences is open at the end
+of the semester.
+
+**Copyright.** Course materials are copyrighted and may not be reproduced for
+anything other than personal use without written permission.

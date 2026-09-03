@@ -1,0 +1,20 @@
+---
+title: "Slides"
+---
+
+Slides go up after class. Use the arrow keys or swipe. Press <kbd>?</kbd> inside
+a deck for the rest of the shortcuts, <kbd>f</kbd> for fullscreen, and
+<kbd>e</kbd> for a printable view.
+
+## Week 1
+
+**[From an idea to a word](slides/w1-griffin-ferreira.qmd)** &middot; Sep 3
+
+Griffin & Ferreira (2006), §1--1.3. The three steps of production, why word
+selection and sound assembly are separate, Properties 1--9, and where function
+words and morphemes fit.
+
+::: {.note}
+More decks appear here as the semester goes. If a link is missing, the class has
+not happened yet.
+:::

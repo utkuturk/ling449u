@@ -1,0 +1,66 @@
+---
+title: "Schedule"
+subtitle: "Subject to change. Changes are announced on ELMS."
+---
+
+Readings are posted on ELMS. Slides go up here after class.
+
+## Weeks 1--5 &middot; Foundations
+
+| | Date | Topic | Main reading | Optional | Due |
+|---|---|---|---|---|---|
+| [Week 1]{.week-label} | Sep 1 | Introduction to the course | | | |
+| | Sep 3 | [Language production](slides/w1-griffin-ferreira.qmd) | Griffin & Ferreira 2006 | Levelt et al. 1999; Cole & Reitter 2019; Goldberg & Ferreira 2019 | Question |
+| [Week 2]{.week-label} | Sep 8 | Language production | | | Question |
+| | Sep 10 | Language production | Levelt 1989, Ch. 9 | Levelt 1989, Ch. 7 | Question |
+| [Week 3]{.week-label} | Sep 15 | Speech errors | Dell 1995 | Fromkin 1971; Garrett 1975 | Question |
+| | Sep 17 | Speech errors | | | Question |
+| | Sep 20 | | | | **Synthesis I** |
+| [Week 4]{.week-label} | Sep 22 | Simple words and modelling their production | Roelofs 2000 | Cutting & Ferreira 1999; Roelofs 2002 | Question |
+| | Sep 24 | Simple words | Lampe et al. 2024 | Levelt & Meyer 2000; Sprenger et al. 2006 | Question |
+| [Week 5]{.week-label} | Sep 29 | Syntactic approaches to morphology | Distributed Morphology reading | | Question |
+| | Oct 1 | Syntactic approaches to morphology | Nanosyntax reading | | Question |
+| | Oct 4 | | | | **Synthesis II** |
+
+## Weeks 6--9 &middot; Lock-in and presentations
+
+Everyone presents one paper from these four weeks.
+
+| | Date | Topic | Main reading | Optional | Due |
+|---|---|---|---|---|---|
+| [Week 6]{.week-label} | Oct 6 | Morphology | Zwitserlood et al. 2000 | | Question |
+| | Oct 8 | Morphology | Roelofs 1996 | Roelofs 1998 | Question |
+| [Week 7]{.week-label} | Oct 13 | Morphology | Lane & Ferreira 2010 | | Question |
+| | Oct 15 | Morphology | Schiller & Caramazza 2003 | Costa et al. 2003; Alario et al. 2008 | Question |
+| [Week 8]{.week-label} | Oct 20 | Morphology | Schriefers et al. 2002; Schriefers et al. 2005 | Schriefers 1993; Paolieri et al. 2011; Gunter et al. 2000 | Question |
+| | Oct 22 | Morphology | Thompson et al. 2002 | Ouardi & Shah 2026; Shah & Thompson 2007 | Question |
+| [Week 9]{.week-label} | Oct 27 | Compounds | Cuonzo et al. 2025 | | Question |
+| | Oct 29 | Sentences | Momma & Ferreira 2019 | Ferreira 1996; Konopka & Bock 2009; Ziegler et al. 2019 | Question |
+| | Nov 1 | | | | **Synthesis III** |
+
+## Weeks 10--15 &middot; Building an experiment
+
+| | Date | Topic | Main reading | Due |
+|---|---|---|---|---|
+| [Week 10]{.week-label} | Nov 3 | *Fall break* | | |
+| | Nov 5 | Lab: experiments | Experimentology, Ch. 1 | **Project: one paragraph** |
+| [Week 11]{.week-label} | Nov 10 | Lab: theories | Experimentology, Ch. 1 | |
+| | Nov 12 | PCIbex workshop | | |
+| [Week 12]{.week-label} | Nov 17 | Troubleshooting and brainstorming | | |
+| | Nov 19 | Student presentations I: an idea you would be passionate about (5 min) | | **Presentation I** |
+| [Week 13]{.week-label} | | *Thanksgiving* | | |
+| [Week 14]{.week-label} | Dec 1 | Lab: design | Experimentology, Ch. 9 | |
+| | Dec 3 | PCIbex workshop | | |
+| [Week 15]{.week-label} | Dec 8 | Troubleshooting and brainstorming | | **Project II: draft** |
+| | Dec 10 | Student presentations II: experiment and study plan (10 min) | | **Presentation II** |
+
+## Project checkpoints
+
+| Piece | Points |
+|---|---|
+| Brainstorming submission | 2.5 |
+| One-on-one check-in meeting | 2.5 |
+| 5-minute presentation | 5 |
+| 1-page rough draft | 5 |
+| 10-minute presentation | 5 |
+| 2-page final proposal | 10 |

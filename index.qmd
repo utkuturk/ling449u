@@ -1,0 +1,107 @@
+---
+title: "How words are built"
+subtitle: "LING 449U &middot; Fall 2026 &middot; University of Maryland"
+---
+
+::: {.facts}
+::: {.k}
+meets
+:::
+Tuesday and Thursday, 2:00--3:15pm, JMZ 1104
+
+::: {.k}
+instructor
+:::
+Utku Türk
+
+::: {.k}
+email
+:::
+[utkuturk@umd.edu](mailto:utkuturk@umd.edu)
+
+::: {.k}
+office
+:::
+Marie Mount Hall 3416, by appointment
+
+::: {.k}
+prerequisite
+:::
+LING 311
+
+::: {.k}
+credits
+:::
+3
+:::
+
+## What this is
+
+In this seminar we look at work on how morphological structure is planned and
+computed while people are speaking. We start with the seminal work on
+non-complex words and what it claims about how those words are retrieved and
+produced in real time. Then we take on a series of old and new puzzles about the
+productive machinery that builds complex lexical items spanning several
+syntactic positions.
+
+We also cover recent morphosyntactic theories --- Distributed Morphology and
+Nanosyntax --- which already have a lot to say about how several syntactic
+positions end up inside one word. In the last part of the semester we build an
+experiment, run it, and analyze the results.
+
+## What you will be able to do
+
+1. Explain the parts of the major language production models, and the
+   theoretical commitments of modern morphological theories.
+2. Think critically about what formal linguistic models predict for
+   psychological theories of production.
+3. Find the overlooked corners of morphosyntax and morphophonology inside
+   language production.
+4. Come up with novel experiments that probe those corners behaviorally.
+5. Connect your results or predictions to foundational questions in sentence
+   production and morphology.
+6. Run and analyze a behavioral experiment.
+
+## How the course runs
+
+**Discussion.** This is a discussion course. Readings are the primary focus, so
+plan on giving each one real time.
+
+**Bringing questions.** Before each reading day, post one question about the
+reading to the ELMS thread by 11:59pm the night before. It can be about
+anything in the paper. You can skip three of these with no consequence.
+
+**Syntheses.** Three short reflections through Week 9. One question, half a page
+at most, pulling together a couple of papers and our discussions. Due Sundays at
+11:59pm.
+
+**Presentations.** Everyone presents one paper from the lock-in weeks (Weeks
+6--9): background, the question, the assumptions, the method and its logic, and
+what the results do and do not license.
+
+**Coding.** After fall break we get into the dirty work of experimentation.
+Short weekly exercises in R and JavaScript, modifying existing code rather than
+writing it from scratch. **Not graded, completely optional.**
+
+**Project.** An experiment proposal for a production experiment in a language
+other than English, including understudied dialects of English. You explain the
+experiment and why it matters for the questions we ask in this course.
+
+::: {.note}
+There is no textbook. All readings are posted on **ELMS**. Read them digitally
+if you can. If you would rather have something on paper, email me ahead of time
+and I will print it for you.
+:::
+
+## Grading
+
+| Component | Weight |
+|---|---|
+| Participation | 30% |
+| Bringing questions | 10% |
+| Syntheses | 20% |
+| Presentation | 10% |
+| Project | 30% |
+| Coding | 0% |
+
+Full policies are on the [syllabus](syllabus.qmd) page.

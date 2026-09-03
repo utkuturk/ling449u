@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "slides/*.qmd"
+
+website:
+  title: "LING 449U"
+  description: "How words are built --- morphology and language production. University of Maryland, Fall 2026."
+  search: false
+  navbar:
+    pinned: false
+    left:
+      - text: "how words are built"
+        href: index.qmd
+    right:
+      - text: schedule
+        href: schedule.qmd
+      - text: slides
+        href: slides.qmd
+      - text: syllabus
+        href: syllabus.qmd
+  page-footer:
+    left: "LING 449U &middot; University of Maryland &middot; Fall 2026"
+    right: "Readings are posted on ELMS."
+
+format:
+  html:
+    theme:
+      light:
+        - cosmo
+        - theme.scss
+    grid:
+      body-width: 860px
+      sidebar-width: 240px
+      margin-width: 240px
+    toc: false
+    anchor-sections: false
+    link-external-newwindow: true

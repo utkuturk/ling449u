@@ -1,0 +1,83 @@
+/*-- scss:defaults --*/
+
+$font-family-sans-serif: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+$presentation-heading-font: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+$presentation-heading-color: #1a1a1a !default;
+$body-color: #1a1a1a !default;
+$link-color: #8c1515 !default;
+$presentation-font-size-root: 34px !default;
+
+/*-- scss:rules --*/
+
+.reveal .slide ul,
+.reveal .slide ol {
+  margin-bottom: 0.4em;
+}
+
+.reveal .slide li {
+  margin-bottom: 0.45em;
+  line-height: 1.35;
+}
+
+// citations sitting at the bottom of the slide, small and grey
+.reveal .footer {
+  font-size: 0.42em;
+  color: #6b6b6b;
+  text-align: left;
+  padding-left: 2.5em;
+}
+
+// numbered linguistic examples
+.reveal .ex {
+  font-size: 0.85em;
+  line-height: 1.6;
+  margin: 0.6em 0 0.6em 1.2em;
+}
+
+.reveal .ex .gloss {
+  color: #6b6b6b;
+}
+
+// the aside voice: things I say out loud but do not want to bullet
+.reveal .aside {
+  color: #6b6b6b;
+  font-style: italic;
+}
+
+// a boxed claim
+.reveal .claim {
+  border-left: 5px solid #8c1515;
+  padding: 0.4em 0 0.4em 0.8em;
+  margin: 0.6em 0;
+}
+
+// question prompts for discussion
+.reveal .prompt {
+  background: #f4f1ea;
+  border-radius: 6px;
+  padding: 0.6em 0.9em;
+  margin: 0.5em 0;
+}
+
+// placeholder blocks for figures I still have to make
+.reveal .todo {
+  border: 2px dashed #b0b0b0;
+  color: #8a8a8a;
+  border-radius: 6px;
+  padding: 1.2em;
+  text-align: center;
+  font-size: 0.75em;
+}
+
+.reveal .columns {
+  align-items: center;
+}
+
+// quarto injects the per-slide footer as a direct child of .reveal
+.reveal > .footer,
+.reveal > .footer.footer-default {
+  text-align: left !important;
+  padding-left: 3.5em;
+  font-size: 0.4em;
+  color: #6b6b6b;
+}

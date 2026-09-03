@@ -1,0 +1,18 @@
+# rendered site
+/_site/
+/.quarto/
+/slides/*_files/
+/slides/*.html
+
+# never commit readings or any other PDF
+*.pdf
+
+# macOS
+.DS_Store
+
+# R / Python scratch
+.Rproj.user
+.Rhistory
+__pycache__/
+
+**/*.quarto_ipynb

@@ -1,0 +1,683 @@
+---
+title: "From an idea to a word"
+subtitle: "Griffin & Ferreira (2006), §1--1.3"
+author: "Utku Türk"
+institute: "LING 449U --- How words are built"
+date: 2026-09-03
+format:
+  revealjs:
+    theme: [default, custom.scss]
+    slide-number: c/t
+    incremental: false
+    history: false
+    transition: none
+    fig-align: center
+---
+
+## Where we are
+
+- This seminar is about **how complex words get built while you are talking**.
+
+::: {.fragment}
+- Before we can ask that, we need the piece everybody already agrees on: how a
+  *single, simple* word gets out of your mouth.
+:::
+
+::: {.fragment}
+- Today's reading is the map. The rest of the semester is us arguing about one
+  corner of it.
+:::
+
+::: {.fragment .aside}
+It is a handbook chapter, so it is a list of facts, not an argument. Read it as
+a checklist: "any model I ever propose has to explain these."
+:::
+
+::: footer
+Course schedule, Week 1
+:::
+
+## Today's goals
+
+Our discussion today will touch on:
+
+- The three-step picture of speaking
+- Why *choosing a word* and *building its sounds* are two different steps
+- Properties 1--9: the fact, and the evidence behind the fact
+- Where function words and morphemes fit --- and why that is our whole course
+
+## Speaking is not listening, reversed
+
+- Recognizing a word in your native language is fast, automatic, and needs no
+  intention.
+- Producing the *same* word needs an intention and takes up to five times longer.
+
+::: {.fragment}
+::: {.claim}
+Listeners start looking at the referent **before** the speaker has finished
+saying the word. Speakers need about **900 ms** to start naming a pictured
+object.
+:::
+:::
+
+::: {.fragment .aside}
+So the first thing to give up: production is its own system, with its own
+problems.
+:::
+
+::: footer
+Tanenhaus et al. 1995; Snodgrass & Yuditsky 1996
+:::
+
+## Two warnings before we start
+
+- Almost everything in this chapter is about **single, isolated utterances**.
+  Conversation, narrative, turn-taking: all real, all set aside.
+- Almost everything is about **nouns**. Some verbs. Nothing else.
+
+::: {.fragment .prompt}
+Keep asking, all semester: does this result survive if the word is longer than
+one morpheme? If it is not a noun?
+:::
+
+::: footer
+Levelt 1989; Clark 1996; Ferreira & Englehart, this volume
+:::
+
+## The three steps
+
+:::: {.columns}
+::: {.column width="45%"}
+- **Conceptualization** --- decide what to express
+- **Formulation** --- decide how to express it
+- **Articulation** --- say it
+:::
+::: {.column width="55%"}
+![](figs/fig1-stages.png)
+:::
+::::
+
+::: footer
+Levelt 1989; Figure 1, Griffin & Ferreira 2006:22
+:::
+
+## Formulation splits in two
+
+- **Word selection.** Pick an item from your vocabulary that fits the meaning
+  *and* the syntactic context. That item is the **lemma**.
+- **Sound processing.** Retrieve the segments, build syllables and stress
+  (*phonological encoding*), then specify motor programs (*phonetic encoding*).
+
+::: {.fragment}
+::: {.claim}
+A lemma is not a sound and not a concept. It is the thing that knows *"there is
+a word for this, and it is a count noun."*
+:::
+:::
+
+::: footer
+Fromkin 1971; Garrett 1975; Kempen & Huijbers 1983
+:::
+
+## The chapter is a list of properties
+
+- Property 1 --- the steps
+- Properties 2--9 --- from meaning to word ← **we stop here**
+- Properties 10--13 --- assembling the sounds
+- Properties 14--15 --- how it all plays out in time
+
+::: {.fragment .aside}
+Models disagree less than you would expect. They mostly agree on the facts and
+differ on the mechanism, and on which stage they bothered to model.
+:::
+
+# 1.1 Word selection precedes sound assembly
+
+## Property 1
+
+::: {.claim}
+Speakers access words by meaning first, then work on the sounds.
+:::
+
+Two kinds of evidence:
+
+::: {.fragment}
+1. **Speech errors** come in types, and the types line up with the steps.
+2. **Time course** in picture--word interference.
+:::
+
+::: footer
+Fromkin 1971; Garrett 1975
+:::
+
+## Errors come in types {.smaller}
+
+| Error type | Example |
+|---|---|
+| Semantic word substitution | "give him the **yel**- er the **pink** ... the *green* jersey" |
+| Blend | "**Justi:ce**, *Justin and Travis*" |
+| Phonological word substitution | "the battle for the green **journey** [*jersey*]" |
+| Morpheme substitution | "an awful lot of use**less** information. use*FUL* information" |
+| Sound substitution | "the **raid**-- uh . the *roadie* is accepting..." |
+
+
+::: footer
+Table 1, Griffin & Ferreira 2006:24
+:::
+
+## Errors come in types
+
+::: {.aside}
+Most of the examples in Table 1 come from one cycling commentator at the 2005
+Tour de France. Talking fast for six hours a day is very good for error corpora.
+:::
+
+- Corpora like this are **opportunistic**. You get what people happen to say.
+- The rates are low: roughly 2.5 word errors and 1.5 sound errors per 10,000
+  words of running speech.
+
+::: {.fragment .prompt}
+Which errors do you think are *undercollected*, and why would that matter?
+:::
+
+::: footer
+Deese 1984; Fromkin 1971
+:::
+
+## Why the types matter
+
+::: {.fragment}
+- You can pick the **wrong word** and pronounce it perfectly.
+:::
+::: {.fragment}
+- You can pick the **right word** and scramble its sounds.
+:::
+::: {.fragment}
+- Those are two different failures, so there are two different steps.
+:::
+
+::: {.fragment .prompt}
+Notice the fourth row. *Morphemes* substitute too, and they substitute
+separately from the stem. Hold onto that one.
+:::
+
+## Picture--word interference
+
+::: {.todo}
+PLACEHOLDER --- schematic of the paradigm.
+
+Picture of a lion + distractor word, distractor appearing at SOA
+−400 / −200 / 0 / +200 ms. Task: name the picture, ignore the word.
+:::
+
+::: footer
+Schriefers, Meyer & Levelt 1990
+:::
+
+## Picture--word interference: the pattern
+
+- **Semantically** related distractor (*tiger* while naming a lion):
+  **slows** naming, when it comes at or before the picture.
+- **Phonologically** related distractor (*liar* while naming a lion):
+  **speeds** naming, when it comes at or after the picture.
+
+::: {.fragment}
+Opposite directions, and opposite points in time.
+:::
+
+::: {.fragment .aside}
+Griffin & Ferreira are careful here, and you should be too: reading the
+distractor is comprehension, so every interpretation of this paradigm rests on
+assumptions about how comprehension and production interact.
+:::
+
+::: footer
+Glaser & Düngelhoff 1984; Damian & Martin 1999; Starreveld 2000
+:::
+
+## What Property 1 buys the models
+
+- Two stages, and two separate levels of representation: word-level and
+  sound-level.
+
+::: {.fragment}
+::: {.claim}
+There is no route from meaning to sounds that skips the word.
+:::
+:::
+
+::: footer
+Caramazza 1997; Dell 1986; Levelt et al. 1999
+:::
+
+# 1.2 Selecting a content word
+
+## Property 2: one intention wakes a family
+
+- Semantic substitutions: calling a van *bus*.
+- Blends: *behavior* + *deportment* → **behortment**.
+
+::: {.fragment}
+::: {.claim}
+Getting to a word from a meaning is not surgical. You activate a neighbourhood.
+:::
+:::
+
+::: {.fragment}
+Which raises the obvious question: what *is* a meaning, in these models?
+:::
+
+::: footer
+Dell et al. 1997; Garrett 1975; Wells 1951/1973
+:::
+
+## Two answers about meaning
+
+:::: {.columns}
+::: {.column width="50%"}
+**Non-decompositional**
+
+`BIRD` is one atomic lexical concept.
+
+Neighbours come from links in a network: `BIRD` → `ANIMAL` → `FISH` → *fish*.
+:::
+::: {.column width="50%"}
+**Decompositional**
+
+`bird` = HAS WINGS, HAS FEATHERS, SINGS SONGS.
+
+Neighbours come from shared features: airplanes have wings, opera singers sing.
+:::
+::::
+
+::: footer
+Fodor 1975; Roelofs 1992; Levelt et al. 1999 (left) --- Dell 1986; Vigliocco et al. 2004 (right)
+:::
+
+## Two answers about meaning
+
+![](figs/fig2-models.png){width="78%"}
+
+::: footer
+Figure 2, Griffin & Ferreira 2006:27. WEAVER++ (Levelt et al. 1999) left, Dell et al. (1997) right.
+:::
+
+## Two answers about meaning
+
+- Decompositional gets similarity for free: overlap in features.
+- Non-decompositional has to build similarity out of network links.
+- Both have to explain why the neighbourhood is **context-dependent** ---
+  blends only involve words that are interchangeable *in that sentence*.
+
+::: {.fragment .prompt}
+For us: if a morpheme carries meaning, which of these two boxes does *-ed* go
+in? Does `PAST` have features?
+:::
+
+::: footer
+Garrett 1975; Levelt 1989
+:::
+
+## Property 3: similar meanings compete
+
+- Words that intrude in substitutions share grammatical class, taxonomic
+  category, and level of specificity with the target.
+- Related distractors slow you down relative to unrelated ones.
+
+::: {.fragment}
+::: {.claim}
+But *dog* and *bone* do not compete. Association is not enough. It has to be
+**similarity of meaning**.
+:::
+:::
+
+::: footer
+Fromkin 1971; Nooteboom 1973
+:::
+
+## How models make words compete
+
+- **Activation only.** Probability of selection tracks activation. Enough for
+  error patterns, not enough for latencies.
+- **Lateral inhibition.** The more active a word is, the harder it pushes the
+  others down. Time-to-threshold is your reaction time.
+- **WEAVER++.** Two factors: a ratio of the target's activation to everything
+  else in the response set, plus a **critical difference** the target has to
+  clear.
+
+::: {.fragment}
+::: {.aside}
+That last one makes a real prediction: one strong competitor is worse than two
+half-strength ones.
+:::
+:::
+
+::: footer
+Dell 1986; Cutting & Ferreira 1999; Harley 1993; Levelt et al. 1999; Luce 1959
+:::
+
+## Property 3, a small case: codability
+
+- *tooth*, *bomb*: one dominant name → fast.
+- *TV / television*, *weights / barbells*: two good names → slow.
+
+::: {.fragment}
+The second name is a competitor you brought with you.
+:::
+
+::: footer
+Lachman 1973; Lachman, Shaffer & Hennrikus 1974
+:::
+
+## Property 4: fenced in by grammatical class
+
+- Nouns substitute for nouns, verbs for verbs.
+- Distractors interfere when they share grammatical class, verb transitivity,
+  and other context-relevant syntactic features.
+- Even purely *phonological* substitutions tend to keep the category.
+
+::: {.fragment}
+::: {.claim}
+The pressure to keep the grammatical class is **stronger** than the pressure to
+keep the meaning.
+:::
+:::
+
+::: {.fragment .aside}
+This is the first place syntax enters the model, and it enters as a frame with
+slots: a noun slot only accepts nouns.
+:::
+
+::: footer
+Fromkin 1971; Garrett 1975; Schriefers 1993; Fay & Cutler 1977
+:::
+
+## Property 5: which meanings are easy
+
+- **Imageability / concreteness.** *vampire, wind, pine* beat *fear, sense,
+  spirit*.
+- **Predictability.** The more predictable a word is in context, the fewer
+  pauses and *um*s before it, and the faster the naming.
+
+::: {.fragment}
+::: {.claim}
+The twist: imageable words are produced faster **and** are more likely to be
+replaced by a semantically related word.
+:::
+:::
+
+::: {.fragment .aside}
+Richer meaning helps you find the word, and gives you more neighbours to trip
+over.
+:::
+
+::: footer
+Morrison et al. 1997; De Groot 1989, 1992; Griffin & Bock 1998; Goldman-Eisler 1958
+:::
+
+## Property 6: looking is not naming
+
+- Distractor **word** *banana* while you say *apple* → interference.
+- Distractor **picture** of a banana while you say *apple* → **facilitation**.
+
+::: {.fragment}
+::: {.claim}
+Words seem to get activated only when you intend to talk about the thing.
+Objects on their own do not push you into the lexicon.
+:::
+:::
+
+::: {.fragment .aside}
+Speakers even look right at an object while deliberately naming it wrong
+(Griffin & Oppenheimer 2003).
+:::
+
+::: footer
+Bloem & La Heij 2003; Damian & Bowers 2003
+:::
+
+## Property 6: except it is not clean
+
+- Ignored objects show **no** semantic interference...
+- ...but they *do* speed you up when their name sounds like your target
+  (*cap* while naming a *cat*).
+
+::: {.fragment}
+::: {.claim}
+Every model routes phonology through the word. So if you got phonology from the
+ignored object, the word was active. And then where is the semantic
+interference?
+:::
+:::
+
+::: {.fragment .prompt}
+Open problem. Good place for a question.
+:::
+
+::: footer
+Morsella & Miozzo 2002; Navarrete & Costa 2005
+:::
+
+## Property 7: selection leaves a trace
+
+- Repetition priming for object naming lasts **months**.
+- Perseveration: name a zebra, then call the giraffe *zebra*.
+- Semantic homogeneity: naming many animals in a row gets slower.
+
+::: {.fragment}
+- None of this happens if you just read the word aloud or categorize it. You
+  have to **select** it from a meaning.
+:::
+
+::: {.fragment}
+::: {.claim}
+Reading, phonological assembly, and sentence production all have learning
+models. Word production does not. The authors name this as a gap.
+:::
+:::
+
+::: footer
+Cave 1997; Bartram 1974; Vitkovitch & Humphreys 1991; Vigliocco et al. 2002
+:::
+
+## Property 8: stopping halfway
+
+Tip-of-the-tongue. You have the word and you cannot say it.
+
+::: {.fragment}
+What you still know in a TOT state:
+
+- its first letter or sound, its number of syllables, words it rhymes with
+- whether it is count or mass in English
+- its grammatical gender in Italian or French
+- which auxiliary the verb takes in Italian
+:::
+
+::: footer
+Brown & McNeill 1966; Burke et al. 1991
+:::
+
+## Property 8: what TOTs buy us
+
+- **WEAVER++.** The lemma was selected --- that is why you know the syntax ---
+  and retrieval of the **lexeme** failed.
+- **Node Structure Theory.** No lexeme. A lexical node fails to fully activate
+  phonology because the connections are weak.
+- Anomia after brain damage looks the same: gender preserved, form gone.
+
+::: {.fragment}
+::: {.claim}
+This is the cleanest single argument that the lemma and the form are separate
+things.
+:::
+:::
+
+::: footer
+Levelt et al. 1999; MacKay 1987; Badecker, Miozzo & Zanuttini 1995
+:::
+
+# 1.3 Function words and morphemes
+
+## Property 9: not selected by meaning
+
+Articles, determiners, *-ed*. Their form depends on the **neighbours**, not on
+the message.
+
+::: {.ex}
+(1)&nbsp;&nbsp; a noodle / some pasta &nbsp;&nbsp;<span class="gloss">(count vs. mass, English)</span>
+
+(2)&nbsp;&nbsp; ett bord 'a table' / en stol 'a chair' &nbsp;&nbsp;<span class="gloss">(gender, Swedish)</span>
+
+(3)&nbsp;&nbsp; mon chapeau, mon arbre / ma table, mon ampoule &nbsp;&nbsp;<span class="gloss">(gender + phonology, French)</span>
+:::
+
+::: {.fragment .aside}
+The French case is the interesting one: *ampoule* is feminine but takes *mon*,
+because the next sound decides.
+:::
+
+::: footer
+Janssen & Caramazza 2003
+:::
+
+## Property 9: the experimental handle
+
+Dutch. Naming *het groene huis* 'the green house'.
+
+::: {.fragment}
+- Distractor *been* 'leg' --- also takes *het* → faster.
+- Distractor *tafel* 'table' --- takes *de* → **slower**.
+:::
+
+::: {.fragment}
+::: {.claim}
+The determiner's form is competing, and the competition is over a
+**grammatical** feature of a word you are not even saying.
+:::
+:::
+
+::: {.fragment .aside}
+Schriefers et al. 2002/2005 is our Week 8. This is the seed of it.
+:::
+
+::: footer
+Schriefers 1993
+:::
+
+## Property 9: two more facts
+
+- In **agrammatic aphasia**, function word production is badly impaired ---
+  even though function words are the most frequent and phonologically simplest
+  things in the language.
+- Function words participate in **speech errors** differently from content
+  words.
+
+::: footer
+Bates, Wulfeck & MacWhinney 1991; Dell 1990; Garrett 1975; Stemberger 1985
+:::
+
+## Property 9: two accounts
+
+:::: {.columns}
+::: {.column width="50%"}
+**Positional frames**
+
+Function words are built into the frame that content words get slotted into.
+Retrieving them is part of syntactic encoding, not lexical selection.
+:::
+::: {.column width="50%"}
+**Indirect election**
+
+You retrieve the content word first. The content word's syntactic knowledge then
+triggers retrieval of the function words it licenses.
+:::
+::::
+
+::: {.fragment}
+::: {.claim}
+Both say the same negative thing: a function word is not retrieved by its
+meaning. It is retrieved through the syntax of something else.
+:::
+:::
+
+::: footer
+Garrett 1975; Levelt 1989; Ferreira 2000
+:::
+
+# Why we started here
+
+## Property 9 is the whole course
+
+- The chapter has a big, careful section on **content words**, and one page for
+  **everything else**.
+- "Everything else" is where we live: *-ed*, *-lAr*, compounds, prefix stacks,
+  suspended affixation.
+
+::: {.fragment .prompt}
+Three questions to carry:
+
+1. Is *-ed* really in the same box as *the*?
+2. Is a compound one selection or two?
+3. If Distributed Morphology is right and words are **built by syntax**, what
+   happens to a stage called "word selection"?
+:::
+
+::: footer
+Course description
+:::
+
+## Key takeaways
+
+1. Meaning first, sounds second, and never a shortcut between them.
+2. Selection is competitive, and the competition is over **similar meanings**
+   inside the **same grammatical class**.
+3. The word can succeed while its form fails. That is a TOT.
+4. Function words and morphemes get a different, syntax-driven route.
+5. The models mostly agree on the facts. They differ on the mechanism.
+
+## What the rest of the chapter does
+
+We are not reading this, but so you know it is there:
+
+- **§1.4** Sounds are assembled **anew** every time; experience makes it faster;
+  it goes left to right; phonological neighbours help sometimes and hurt others.
+- **§1.5** Timing: semantic competitors activate their own sounds, and how far
+  ahead you plan in a multi-word utterance.
+
+::: {.fragment}
+Thursday we keep going on production, and then Levelt (1989) Ch. 9 next week.
+:::
+
+::: footer
+Griffin & Ferreira 2006, §1.4--§2
+:::
+
+## Bring questions
+
+::: {.prompt}
+- Property 1 says meaning-based selection comes first. What would a result look
+  like that **broke** that? Would you believe it?
+- Property 3 says similarity competes and association does not. Are *bake* and
+  *cake* similar, associated, or neither?
+- Property 6: how would you tell "the word was never activated" apart from "the
+  word was activated and then suppressed"?
+- Property 9: pick a morpheme in a language you know whose form depends on its
+  neighbours. Which of the two accounts handles it better?
+:::
+
+::: footer
+Reading questions due 11:59pm the night before
+:::
+
+## In-class
+
+::: {.todo}
+PLACEHOLDER --- error collection.
+
+Everyone writes down one slip of the tongue they have made or heard this week.
+We sort them into the five rows of Table 1 and see which rows are hard to fill.
+:::
+
+::: footer
+Bring your own
+:::
