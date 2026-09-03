@@ -3,7 +3,7 @@ title: "From an idea to a word"
 subtitle: "Griffin & Ferreira (2006), up to section 1.3"
 author: "Utku Turk"
 institute: "LING 449U, How words are built"
-date: 2026-09-03
+date: ""
 format:
   revealjs:
     theme: [default, custom.scss]
@@ -16,35 +16,21 @@ format:
 
 ## Where we are
 
-- This seminar is about **how complex words get built while you are talking**.
+- What we want:  **how complex words get built while you are talking**.
 
 ::: {.fragment}
-- Before we can ask that, we need the piece everybody already agrees on: how a
-  *single, simple* word gets out of your mouth.
+- We need a core piece: how a *single, simple* word gets out of your mouth.
 :::
 
 ::: {.fragment}
-- Today's reading is the map. The rest of the semester is us arguing about one
-  corner of it.
+- Let's write down your questions first.
 :::
 
-::: {.fragment .aside}
-It is a handbook chapter, so it is a list of facts, not an argument. Read it as
-a checklist: "any model I ever propose has to explain these."
-:::
 
 ::: footer
 Course schedule, Week 1
 :::
 
-## Today's goals
-
-Our discussion today will touch on:
-
-- The three steps of speaking
-- Why *choosing a word* and *building its sounds* are two different steps
-- Properties 1 to 8: the fact, and the evidence behind the fact
-- Three experiments, run on you, badly
 
 # First, a game
 
@@ -57,39 +43,22 @@ Our discussion today will touch on:
 :::
 
 ::: {.fragment}
-Write down the first six words you would say. Ten seconds.
+Write down random six words come to your mind.
 :::
-
-## Describe this picture {.demo}
 
 ::: {.fragment}
 - Nobody in this room wrote the same six words.
 :::
 
 ::: {.fragment}
-- Most of you started with the snail.
+- It is clear that first two all of you shared: snail and leaves. but then?
 :::
 
-::: {.fragment}
-- A few of you started with the leaves, and now feel weird about it.
-:::
-
-::: {.fragment}
-::: {.claim}
-Deciding what to say is a step. It happens before any word does, it is yours,
-and two people looking at the same snail do not do it the same way.
-:::
-:::
-
-::: footer
-Levelt 1989 calls this conceptualization
-:::
 
 ## Speaking is not listening, reversed
 
-- Recognizing a word in your native language is fast, automatic, and needs no
-  intention.
-- Producing the *same* word needs an intention and takes up to five times longer.
+- Recognizing a word in your native language is fast, automatic, and needs no intention.
++ Producing the *same* word needs an intention and takes up to five times longer.
 
 ::: {.fragment}
 ::: {.claim}
@@ -99,7 +68,7 @@ object.
 :::
 :::
 
-::: {.fragment .aside}
+::: {.fragment}
 Which is roughly how long it took you to get going on the snail.
 :::
 
@@ -107,23 +76,25 @@ Which is roughly how long it took you to get going on the snail.
 Tanenhaus et al. 1995; Snodgrass & Yuditsky 1996
 :::
 
-## Two warnings before we start
+## Keep in mind that
 
 - Almost everything in this chapter is about **single, isolated utterances**.
-  Conversation, narrative, turn taking: all real, all set aside.
-- Almost everything is about **nouns**. Some verbs. Nothing else.
+  We set conversations, narratives, turn taking aside for a second.
+- Almost everything is about **nouns**.
 
 ::: {.fragment .prompt}
-Keep asking, all semester: does this result survive if the word is longer than
-one morpheme? If it is not a noun?
+I want you to keep on asking if any of this would easily survive in other situations?
 :::
 
 ::: footer
-Levelt 1989; Clark 1996; Ferreira & Englehart, this volume
+Levelt 1989; Clark 1996
 :::
 
 ## The three steps
 
+What are the 'steps' the chapter discusses?
+
+## The three steps
 :::: {.columns}
 ::: {.column width="45%"}
 - **Conceptualization**, decide what to express
@@ -139,25 +110,8 @@ Levelt 1989; Clark 1996; Ferreira & Englehart, this volume
 Levelt 1989. Figure 1, Griffin & Ferreira 2006:22
 :::
 
-## Formulation splits in two
 
-- **Word selection.** Pick an item from your vocabulary that fits the meaning
-  *and* the syntactic context. That item is the **lemma**.
-- **Sound processing.** Retrieve the segments, build syllables and stress
-  (*phonological encoding*), then specify motor programs (*phonetic encoding*).
-
-::: {.fragment}
-::: {.claim}
-A lemma is not a sound and not a concept. It is the thing that knows *"there is
-a word for this, and it is a count noun."*
-:::
-:::
-
-::: footer
-Fromkin 1971; Garrett 1975; Kempen & Huijbers 1983
-:::
-
-## The chapter is a list of properties
+## Properties in the chapter
 
 - Property 1, the steps
 - Properties 2 to 9, from meaning to word
@@ -165,7 +119,7 @@ Fromkin 1971; Garrett 1975; Kempen & Huijbers 1983
 - Properties 14 and 15, how it all plays out in time
 
 ::: {.fragment}
-We stop after Property 8, at the end of section 1.2.
+For today: we stop at Property 8, at the end of section 1.2.
 :::
 
 ::: {.fragment .aside}
@@ -191,6 +145,21 @@ Two kinds of evidence:
 ::: footer
 Fromkin 1971; Garrett 1975
 :::
+
+## Errors come in types {.smaller}
+
+| Error type | Example |
+|---|---|
+| Semantic word substitution |  |
+| Blend |  |
+| Phonological word substitution |  |
+| Morpheme substitution |  |
+| Sound substitution |  |
+
+::: footer
+Table 1, Griffin & Ferreira 2006:24
+:::
+
 
 ## Errors come in types {.smaller}
 
@@ -249,80 +218,52 @@ separately from the stem. Hold onto that one.
 ::: {.rules}
 1. A picture appears. **Say its name out loud, immediately.**
 2. A word will appear on top of it. **Ignore the word.**
-3. Do not think. Thinking is cheating.
-:::
-
-::: {.fragment .aside}
-Our stimulus onset asynchrony manipulation is me pressing the spacebar. Try to
-contain your excitement.
+3. Do not think very hard.
 :::
 
 ::: footer
 Picture and word interference: Schriefers, Meyer & Levelt 1990
 :::
 
+
 ## Practice {.demo}
 
-::: {.stim}
-::: {.pic}
-🪑
+::: {.stroop}
+::: {.fragment .fade-in-then-out .ink-blue}
+RED
 :::
+::: {.fragment .fade-in-then-out .ink-green}
+BLUE
+:::
+::: {.fragment .fade-in-then-out .ink-purple}
+GREEN
+:::
+::: {.fragment .fade-in-then-out .ink-orange}
+PURPLE
+:::
+::: {.fragment .fade-in-then-out .ink-red}
+ORANGE
+:::
+:::
+
+
+## Practice 2 {.demo}
+
+::: {.stim}
 ::: {.fragment .word}
 CLOUD
 :::
-:::
-
-## Trial 1 {.demo}
-
-::: {.stim}
 ::: {.pic}
-🦁
-:::
-::: {.fragment .word}
-TABLE
+🪑
 :::
 :::
 
-## Trial 2 {.demo}
+## Website
 
-::: {.stim}
-::: {.pic}
-🦁
-:::
-::: {.fragment .word}
-TIGER
-:::
-:::
-
-## Trial 3 {.demo}
-
-::: {.stim}
-::: {.pic}
-🦁
-:::
-::: {.fragment .word}
-LIAR
-:::
-:::
+https://www.utkuturk.com/pwi
 
 ## Which one hurt? {.demo}
 
-::: {.fragment}
-- **TABLE** was nothing. Unrelated word, unrelated meaning.
-:::
-::: {.fragment}
-- **TIGER** was the bad one. Somebody in this room said "tiger" out loud.
-:::
-::: {.fragment}
-- **LIAR** was oddly easy, and slightly upsetting.
-:::
-
-::: {.fragment}
-::: {.claim}
-You just produced the semantic interference effect and the phonological
-facilitation effect with a room full of people and no equipment.
-:::
-:::
 
 ## The same trial, on a timer
 
@@ -340,59 +281,147 @@ distractor
 :::
 :::
 
-The distractor slides. Where it lands relative to the picture is the whole
-experiment.
+The time you introduce the distractor directly affects which step it interferes with.
 
 ::: footer
 Schriefers, Meyer & Levelt 1990; Glaser & Düngelhoff 1984
 :::
 
-## What the real experiment finds
+## What people previously found (idealistic)
 
-- **Semantically** related distractor (*tiger* while naming a lion):
-  **slows** naming, when it comes at or before the picture.
-- **Phonologically** related distractor (*liar* while naming a lion):
-  **speeds** naming, when it comes at or after the picture.
 
-::: {.fragment}
-Opposite directions, and opposite points in time.
-:::
+```{r}
+#| label: setup
+#| echo: false
 
-::: {.fragment .aside}
-Griffin & Ferreira are careful here, and you should be too: reading the
-distractor is comprehension, so every interpretation of this paradigm rests on
-assumptions about how comprehension and production interact.
-:::
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+
+set.seed(1990)
+
+theme_set(
+  theme_minimal(base_size = 18) +
+    theme(
+      panel.grid.minor = element_blank(),
+      legend.position = "top",
+      plot.subtitle = element_text(colour = "grey30", size = 14)
+    )
+)
+
+cols <- c(Semantic = "#B2182B", Phonological = "#2166AC")
+cols3 <- c(cols, Unrelated = "grey45")
+
+lvls <- c("Semantic", "Unrelated", "Phonological")
+
+# one dodge object for every layer in every plot;
+# 30 ms total width across 3 groups = 10 ms between adjacent points
+pd <- position_dodge(width = 30)
+
+n_subj <- 24
+baseline_rt <- 620
+
+# true effects in ms, relative to the unrelated baseline
+cell_means <- expand.grid(
+  soa = c(-150, 0, 150),
+  condition = c("Unrelated", "Semantic", "Phonological"),
+  stringsAsFactors = FALSE
+)
+cell_means$effect <- c(
+  0,
+  0,
+  0, # Unrelated
+  32,
+  8,
+  -2, # Semantic:     interference early, gone late
+  -3,
+  -28,
+  -22 # Phonological: nothing early, facilitation late
+)
+
+subj_int <- rnorm(n_subj, 0, 45)
+
+dat <- merge(cell_means, data.frame(subject = 1:n_subj))
+dat$rt <- baseline_rt +
+  dat$effect +
+  subj_int[dat$subject] +
+  rnorm(nrow(dat), 0, 18)
+```
+
+
+```{r}
+#| label: diff-plot
+#| echo: false
+
+diffs <- dat |>
+  select(subject, soa, condition, rt) |>
+  pivot_wider(names_from = condition, values_from = rt) |>
+  transmute(
+    subject,
+    soa,
+    Semantic = Semantic - Unrelated,
+    Phonological = Phonological - Unrelated,
+    Unrelated = 0
+  ) |>
+  pivot_longer(
+    c(Semantic, Phonological, Unrelated),
+    names_to = "condition",
+    values_to = "effect"
+  )
+
+summ <- diffs |>
+  group_by(soa, condition) |>
+  summarise(m = mean(effect), se = sd(effect) / sqrt(n()), .groups = "drop") |>
+  mutate(
+    lo = m - 1.96 * se,
+    hi = m + 1.96 * se,
+    condition = factor(condition, levels = lvls)
+  )
+
+summ <- summ %>% filter(condition != "Unrelated")
+
+ggplot(summ, aes(soa, m, colour = condition, group = condition)) +
+  geom_line(linewidth = 1, position = pd) +
+  geom_errorbar(
+    data = filter(summ, condition != "Unrelated"),
+    aes(ymin = lo, ymax = hi),
+    width = 0,
+    linewidth = 1.5,
+    position = pd
+  ) +
+  geom_hline(yintercept = 0, linetype = "dashed") +
+  geom_point(size = 3.5, position = pd) +
+  scale_x_continuous(breaks = c(-150, 0, 150)) +
+  scale_colour_manual(values = cols3) +
+  labs(
+    x = "SOA (ms)",
+    y = "Related minus unrelated (ms)",
+    colour = NULL,
+    subtitle = "Above zero = interference. Below zero = facilitation."
+  )
+```
+
+- Two stages, and two separate levels of representation: word level and
+  sound level.
+
 
 ::: footer
 Glaser & Düngelhoff 1984; Damian & Martin 1999; Starreveld 2000
 :::
 
-## What Property 1 buys the models
-
-- Two stages, and two separate levels of representation: word level and
-  sound level.
-
-::: {.fragment}
-::: {.claim}
-There is no route from meaning to sounds that skips the word.
-:::
-:::
-
-::: footer
-Caramazza 1997; Dell 1986; Levelt et al. 1999
-:::
 
 # 1.2 Selecting a content word
 
-## Property 2: one intention wakes a family
+## Property 2: a web of words
 
+::: {.fragment}
 - Semantic substitutions: calling a van *bus*.
 - Blends: *behavior* plus *deportment* gives **behortment**.
+:::
 
 ::: {.fragment}
 ::: {.claim}
-Getting to a word from a meaning is not surgical. You activate a neighbourhood.
+Of course, we fail at selecting the 'exact' word.
 :::
 :::
 
@@ -404,7 +433,7 @@ Which raises the obvious question: what *is* a meaning, in these models?
 Dell et al. 1997; Garrett 1975; Wells 1951/1973
 :::
 
-## Two answers about meaning
+## Two possibilities
 
 :::: {.columns}
 ::: {.column width="50%"}
@@ -427,7 +456,7 @@ Neighbours come from shared features: airplanes have wings, opera singers sing.
 Fodor 1975; Roelofs 1992; Levelt et al. 1999 (left). Dell 1986; Vigliocco et al. 2004 (right)
 :::
 
-## Two answers about meaning
+## Two possibilities
 
 ![](figs/fig2-models.png){width="78%"}
 
@@ -435,7 +464,7 @@ Fodor 1975; Roelofs 1992; Levelt et al. 1999 (left). Dell 1986; Vigliocco et al.
 Figure 2, Griffin & Ferreira 2006:27. WEAVER++ (Levelt et al. 1999) left, Dell et al. (1997) right.
 :::
 
-## Two answers about meaning
+## Two possibilities
 
 - Decompositional gets similarity for free: overlap in features.
 - Non-decompositional has to build similarity out of network links.
@@ -444,7 +473,7 @@ Figure 2, Griffin & Ferreira 2006:27. WEAVER++ (Levelt et al. 1999) left, Dell e
 
 ::: {.fragment .prompt}
 For us: if a morpheme carries meaning, which of these two boxes does *-ed* go
-in? Does `PAST` have features?
+in? Does `PAST` have features? (Look at Kandel & Pañeda et al. 2025)
 :::
 
 ::: footer
@@ -455,13 +484,11 @@ Garrett 1975; Levelt 1989
 
 - Words that intrude in substitutions share grammatical class, taxonomic
   category, and level of specificity with the target.
-- Related distractors slow you down relative to unrelated ones. You felt this
-  three slides ago.
+- Related distractors slow you down relative to unrelated ones.
 
 ::: {.fragment}
 ::: {.claim}
-But *dog* and *bone* do not compete. Association is not enough. It has to be
-**similarity of meaning**.
+But sometimes *dog* and *bone* do not compete. Why?
 :::
 :::
 
@@ -474,7 +501,7 @@ Fromkin 1971; Nooteboom 1973; Cutting & Ferreira 1999; Lupker 1979
 - **Activation only.** Probability of selection tracks activation. Enough for
   error patterns, not enough for latencies.
 - **Lateral inhibition.** The more active a word is, the harder it pushes the
-  others down. Time to threshold is your reaction time.
+  others down. Time to threshold is your reaction time. Kind of a race.
 - **WEAVER++.** Two factors: a ratio of the target's activation to everything
   else in the response set, plus a **critical difference** the target has to
   clear.
@@ -493,9 +520,6 @@ Dell 1986; Cutting & Ferreira 1999; Harley 1993; Levelt et al. 1999; Luce 1959
 - *tooth*, *bomb*: one dominant name, so fast.
 - *TV* or *television*, *weights* or *barbells*: two good names, so slow.
 
-::: {.fragment}
-The second name is a competitor you brought with you.
-:::
 
 ::: footer
 Lachman 1973; Lachman, Shaffer & Hennrikus 1974
@@ -503,10 +527,20 @@ Lachman 1973; Lachman, Shaffer & Hennrikus 1974
 
 ## Property 4: fenced in by grammatical class
 
+::: {.fragment}
 - Nouns substitute for nouns, verbs for verbs.
+  - What about interchangable words?
+  - What about theories that says words are categoriless?
+:::
+::: {.fragment}
 - Distractors interfere when they share grammatical class, verb transitivity,
   and other context relevant syntactic features.
+:::
+::: {.fragment}
 - Even purely *phonological* substitutions tend to keep the category.
+:::
+
+## Property 4: one possible takeaway
 
 ::: {.fragment}
 ::: {.claim}
@@ -515,7 +549,7 @@ keep the meaning.
 :::
 :::
 
-::: {.fragment .aside}
+::: {.fragment}
 This is the first place syntax enters the model, and it enters as a frame with
 slots: a noun slot only accepts nouns.
 :::
@@ -525,11 +559,14 @@ Fromkin 1971; Garrett 1975; Schriefers 1993; Fay & Cutler 1977
 :::
 
 ## Property 5: which meanings are easy
-
+::: {.fragment}
 - **Imageability and concreteness.** *vampire, wind, pine* beat *fear, sense,
   spirit*.
+:::
+::: {.fragment}
 - **Predictability.** The more predictable a word is in context, the fewer
   pauses and *um*s before it, and the faster the naming.
+:::
 
 ::: {.fragment}
 ::: {.claim}
@@ -538,7 +575,7 @@ replaced by a semantically related word.
 :::
 :::
 
-::: {.fragment .aside}
+::: {.fragment}
 Richer meaning helps you find the word, and gives you more neighbours to trip
 over.
 :::
@@ -546,6 +583,10 @@ over.
 ::: footer
 Morrison et al. 1997; De Groot 1989, 1992; Griffin & Bock 1998; Goldman-Eisler 1958
 :::
+
+## Property 5: exercise
+
+- How can we explain these effects with decompositional or atomic meaning models?
 
 ## Property 6: looking is not naming
 
@@ -576,15 +617,14 @@ Bloem & La Heij 2003; Damian & Bowers 2003
   while naming a *cat*.
 
 ::: {.fragment}
-::: {.claim}
-Every model routes phonology through the word. So if you got phonology from the
-ignored object, the word was active. And then where is the semantic
-interference?
-:::
+What does this suggest?
 :::
 
-::: {.fragment .prompt}
-Open problem. Good place for a question.
+::: {.fragment}
+::: {.claim}
+Every model routes phonology through the lemma. So if you got phonology from the
+ignored object, the lemma was active. And then where is the semantic interference?
+:::
 :::
 
 ::: footer
@@ -618,14 +658,15 @@ Cave 1997; Bartram 1974; Vitkovitch & Humphreys 1991; Vigliocco et al. 2002
 ## Do not say it out loud {.demo}
 
 ::: {.question}
-What do you call a word that reads the same backwards as forwards?
+What is the name of that tall guy who plays in Frankenstein?
 :::
 
 ::: {.fragment .rules}
-If you have it, sit on it. If you are **stuck**, raise your hand.
+If you have it, sit on it. If you are don't remember it, raise your hand.
 :::
 
 ## Hands up, answer these {.demo}
+
 
 ::: {.rules}
 1. What letter does it start with?
@@ -634,72 +675,31 @@ If you have it, sit on it. If you are **stuck**, raise your hand.
 4. Would you know it if I said it?
 :::
 
-::: {.fragment .aside}
-Everyone with a hand up just answered at least two of those. About a word they
-cannot say.
-:::
-
-## Two more {.demo}
-
-::: {.question}
-What do you call the small plastic tip at the end of a shoelace?
-:::
-
-::: {.fragment .question}
-What do you call an instrument for measuring wind speed?
-:::
-
-::: {.fragment .aside}
-Answers, eventually: palindrome, aglet, anemometer. The first one is the
-chapter's own example, footnote 3.
-:::
 
 ## Property 8: stopping halfway
 
 Tip of the tongue. You have the word and you cannot say it.
 
 ::: {.fragment}
-What you still know in a TOT state:
+What people can still know in a TOT state:
 
 - its first letter or sound, its number of syllables, words it rhymes with
-- whether it is count or mass in English
-- its grammatical gender in Italian or French
-- which auxiliary the verb takes in Italian
-:::
+- whether it is count or mass
+- its grammatical gender in
+- which auxiliary the verb takes
 
-::: {.fragment .aside}
-Exactly the list you just filled in with your hand up.
+Anomia after brain damage looks the same: gender preserved, form gone.
 :::
 
 ::: footer
 Brown & McNeill 1966; Burke et al. 1991; Vigliocco, Martin & Garrett 1999
 :::
 
-## Property 8: what TOTs buy us
-
-- **WEAVER++.** The lemma was selected, which is why you know the syntax, and
-  retrieval of the **lexeme** failed.
-- **Node Structure Theory.** No lexeme. A lexical node fails to fully activate
-  phonology because the connections are weak.
-- Anomia after brain damage looks the same: gender preserved, form gone.
-
-::: {.fragment}
-::: {.claim}
-This is the cleanest single argument that the lemma and the form are separate
-things.
-:::
-:::
-
-::: footer
-Levelt et al. 1999; MacKay 1987; Badecker, Miozzo & Zanuttini 1995
-:::
-
-# Why we started here
+## What do we need for TOT in our models?
 
 ## Where the morphology is hiding
 
-The chapter is about **content words**: nouns, mostly. But morphemes keep
-walking through it anyway.
+The chapter is about **content words**: nouns, mostly. Yet:
 
 ::: {.fragment}
 - **Property 1.** Morphemes substitute in speech errors, on their own, away from
@@ -712,6 +712,11 @@ walking through it anyway.
 ::: {.fragment}
 - **Property 8.** In a TOT you can report gender and count or mass status
   without the form. You are holding morphosyntax with no morphology attached.
+:::
+
+::: {.fragment}
+Even for a "single" words that are seemingly "single" nodes we need
+morphological information
 :::
 
 ## Three questions to carry
@@ -737,45 +742,15 @@ Section 1.3 starts to answer the first one. That is Thursday.
 4. The word can succeed while its form fails. That is a TOT.
 5. The models mostly agree on the facts. They differ on the mechanism.
 
-## What comes next in the chapter
-
-We stopped at the end of 1.2. Still ahead:
-
-- **1.3** Function words and morphemes, which are not selected by meaning at all.
-- **1.4** Sounds are assembled **anew** every time, experience makes it faster,
-  and it goes roughly left to right.
-- **1.5** Timing, and how far ahead you plan in a multi word utterance.
-
-::: {.fragment}
-Thursday we pick up at 1.3, and then Levelt (1989) Ch. 9 next week.
-:::
-
-::: footer
-Griffin & Ferreira 2006, sections 1.3 to 2
-:::
-
 ## Bring questions
 
 ::: {.prompt}
-- Property 1 says meaning based selection comes first. What would a result look
-  like that **broke** that? Would you believe it?
-- Property 3 says similarity competes and association does not. Are *bake* and
-  *cake* similar, associated, or neither?
+- Property 1 says meaning based selection comes first. What would it look like if that was not the case ?
 - Property 6: how would you tell "the word was never activated" apart from "the
   word was activated and then suppressed"?
-- Our lion demo had one trial per condition and no timer. Name three things
-  wrong with it that the real experiment fixes.
+- Name three things wrong with our experiment demo.
 :::
 
 ::: footer
 Reading questions due 11:59pm the night before
-:::
-
-## In class
-
-::: {.todo}
-PLACEHOLDER, error collection.
-
-Everyone writes down one slip of the tongue they have made or heard this week.
-We sort them into the five rows of Table 1 and see which rows are hard to fill.
 :::

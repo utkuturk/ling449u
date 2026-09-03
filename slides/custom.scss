@@ -214,3 +214,35 @@ $presentation-font-size-root: 34px !default;
   bottom: 0;
   border-left: 2px dashed #b9b9b9;
 }
+
+// ---------------------------------------------------------------
+// stroop items: one word at a time, in the same spot
+// ---------------------------------------------------------------
+
+.reveal .stroop {
+  position: relative;
+  height: 380px;
+}
+
+.reveal .stroop > div {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  text-align: center;
+}
+
+.reveal .stroop p {
+  margin: 0;
+  font-size: 170px;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: 0.03em;
+}
+
+.reveal .ink-red    { color: #c1121f; }
+.reveal .ink-blue   { color: #1f5fbf; }
+.reveal .ink-green  { color: #1a7f37; }
+.reveal .ink-purple { color: #6a2c91; }
+.reveal .ink-orange { color: #cc5500; }
