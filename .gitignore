@@ -16,3 +16,10 @@
 __pycache__/
 
 **/*.quarto_ipynb
+
+# converted readings
+/md/
+
+# source decks stay local
+/slides/*.pptx
+/slides/*.key

@@ -1,21 +1,28 @@
 ---
 title: "Slides"
+listing:
+  id: decks
+  contents: slides/*.qmd
+  type: default
+  sort: "date asc"
+  fields: [date, title, subtitle, description, categories]
+  field-display-names:
+    subtitle: "Reading"
+  date-format: "MMM D"
+  categories: false
+  filter-ui: false
+  sort-ui: false
+  image-placeholder: ""
 ---
 
 Slides go up after class. Use the arrow keys or swipe. Press <kbd>?</kbd> inside
 a deck for the rest of the shortcuts, <kbd>f</kbd> for fullscreen, and
 <kbd>e</kbd> for a printable view.
 
-## Week 1
-
-**[From an idea to a word](slides/w1-griffin-ferreira.qmd)** &middot; Sep 3
-
-Griffin & Ferreira (2006), up to section 1.3. The three steps of production,
-why word selection and sound assembly are separate, and Properties 1 to 8. With
-three experiments run live on the room: picture description, picture and word
-interference, and tip of the tongue.
+::: {#decks}
+:::
 
 ::: {.note}
-More decks appear here as the semester goes. If a link is missing, the class has
-not happened yet.
+This list builds itself from the decks in `slides/`, so a deck shows up here the
+moment it is added. If a link is missing, the class has not happened yet.
 :::

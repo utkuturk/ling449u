@@ -69,6 +69,12 @@ $presentation-font-size-root: 34px !default;
   font-size: 0.75em;
 }
 
+// a quieter second line under a bullet ("aside" is reserved by Quarto)
+.reveal .quiet {
+  color: #6b6b6b;
+  font-style: italic;
+}
+
 .reveal .columns {
   align-items: center;
 }
@@ -246,3 +252,29 @@ $presentation-font-size-root: 34px !default;
 .reveal .ink-green  { color: #1a7f37; }
 .reveal .ink-purple { color: #6a2c91; }
 .reveal .ink-orange { color: #cc5500; }
+
+// ---------------------------------------------------------------
+// a grid of small images, for the "who is talking" slides
+// ---------------------------------------------------------------
+
+.reveal .gallery {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.6em;
+  align-items: center;
+  justify-items: center;
+}
+
+.reveal .gallery p {
+  margin: 0;
+}
+
+.reveal .gallery img {
+  max-height: 4em;
+  width: auto;
+  max-width: 100%;
+  object-fit: contain;
+  border: 0;
+  box-shadow: none;
+  margin: 0;
+}

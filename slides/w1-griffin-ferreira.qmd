@@ -3,7 +3,9 @@ title: "From an idea to a word"
 subtitle: "Griffin & Ferreira (2006), up to section 1.3"
 author: "Utku Turk"
 institute: "LING 449U, How words are built"
-date: ""
+date: "2026-09-03"
+description: "The three steps of production, why word selection and sound assembly are separate, and Properties 1 to 8. With three experiments run live on the room: picture description, picture and word interference, and tip of the tongue."
+categories: [Week 1]
 format:
   revealjs:
     theme: [default, custom.scss]
