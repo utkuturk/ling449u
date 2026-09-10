@@ -4,7 +4,7 @@ listing:
   id: decks
   contents: slides/*.qmd
   type: default
-  sort: "date asc"
+  sort: "date desc"
   fields: [date, title, subtitle, description, categories]
   field-display-names:
     subtitle: "Reading"

@@ -278,3 +278,298 @@ $presentation-font-size-root: 34px !default;
   box-shadow: none;
   margin: 0;
 }
+
+// ---------------------------------------------------------------
+// address frames: a row of labelled slots that get filled
+// ---------------------------------------------------------------
+
+.reveal .frame {
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+  gap: 0;
+  margin: 0.5em 0;
+  font-size: 0.8em;
+}
+
+.reveal .frame .slot {
+  border: 2px solid #1a1a1a;
+  padding: 0.25em 0.7em 0.35em 0.7em;
+  text-align: center;
+  min-width: 4.6em;
+  background: #fff;
+}
+
+// collapse the shared edge so the frame reads as one strip of slots
+.reveal .frame .slot + .slot {
+  margin-left: -2px;
+}
+
+.reveal .frame .slot .lab {
+  display: block;
+  font-size: 0.62em;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #8a8a8a;
+  line-height: 1.5;
+}
+
+.reveal .frame .slot .fill {
+  display: block;
+  font-weight: 600;
+  line-height: 1.35;
+}
+
+.reveal .frame .slot.empty .fill {
+  color: #c4c4c4;
+}
+
+// the filler that went wrong
+.reveal .frame .slot.hit {
+  background: #fbeaea;
+  border-color: #8c1515;
+  position: relative;
+  z-index: 1;
+}
+
+.reveal .frame .slot.hit .fill { color: #8c1515; }
+.reveal .frame .slot.hit .lab  { color: #b07070; }
+
+// the filler that stayed where it belonged
+.reveal .frame .slot.stay {
+  background: #eaf1f8;
+  border-color: #2166ac;
+  position: relative;
+  z-index: 1;
+}
+
+.reveal .frame .slot.stay .fill { color: #2166ac; }
+.reveal .frame .slot.stay .lab  { color: #7092b5; }
+
+.reveal .frame .out {
+  display: flex;
+  align-items: center;
+  padding-left: 0.7em;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.reveal .frame .out .cue {
+  color: #8a8a8a;
+  font-weight: 400;
+  padding-right: 0.4em;
+}
+
+// a caption sitting under a frame
+.reveal .frame-note {
+  text-align: center;
+  font-size: 0.62em;
+  color: #6b6b6b;
+  margin: 0.1em 0 0.7em 0;
+}
+
+// ---------------------------------------------------------------
+// the ladder of substitutable units
+// ---------------------------------------------------------------
+
+.reveal .ladder {
+  display: grid;
+  grid-template-columns: 1.35fr 1.15fr 1.9fr 0.6fr;
+  gap: 0;
+  font-size: 0.52em;
+  margin-top: 0.3em;
+}
+
+.reveal .ladder > div {
+  padding: 0.3em 0.6em;
+  border-bottom: 1px solid #e2ded4;
+  line-height: 1.35;
+  display: flex;
+  align-items: center;
+}
+
+.reveal .ladder .head {
+  font-size: 0.82em;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #8a8a8a;
+  border-bottom: 2px solid #1a1a1a;
+}
+
+.reveal .ladder .unit { font-weight: 600; }
+.reveal .ladder .egg  { font-style: italic; color: #4a4a4a; }
+.reveal .ladder .mark { justify-content: center; font-weight: 700; }
+
+.reveal .ladder .yes  { color: #1a7f37; }
+.reveal .ladder .no   { color: #8c1515; }
+.reveal .ladder .qq   { color: #8a6d00; }
+
+.reveal .ladder .band-phon { background: #fafafa; }
+.reveal .ladder .band-morf { background: #f4f1ea; }
+.reveal .ladder .band-open { background: #fdf6df; }
+
+// ---------------------------------------------------------------
+// a word game: training pairs, then the critical item
+// ---------------------------------------------------------------
+
+.reveal .game {
+  display: flex;
+  justify-content: center;
+  gap: 1.6em;
+  font-size: 0.9em;
+  margin: 0.5em 0;
+}
+
+.reveal .game .pair {
+  text-align: center;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.reveal .game .pair .src { color: #6b6b6b; }
+
+.reveal .split {
+  display: flex;
+  justify-content: center;
+  gap: 2.2em;
+  margin: 0.6em 0;
+}
+
+.reveal .split > div {
+  border: 2px solid #e2ded4;
+  border-radius: 6px;
+  padding: 0.5em 1em;
+  text-align: center;
+  min-width: 8.5em;
+}
+
+.reveal .split .win {
+  border-color: #1a7f37;
+  background: #f0f7f1;
+}
+
+.reveal .split .lose {
+  border-color: #e2ded4;
+  color: #8a8a8a;
+}
+
+.reveal .split .verdict {
+  display: block;
+  font-size: 0.62em;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  padding-top: 0.25em;
+}
+
+.reveal .split .win .verdict  { color: #1a7f37; }
+.reveal .split .lose .verdict { color: #a8a8a8; }
+
+// ---------------------------------------------------------------
+// activation strata: nodes on stacked levels
+// ---------------------------------------------------------------
+
+.reveal .strata {
+  display: grid;
+  grid-template-columns: 8.2em 1fr;
+  row-gap: 0.35em;
+  align-items: center;
+  font-size: 0.62em;
+  margin: 0.4em 0;
+}
+
+.reveal .strata .tier {
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #8a8a8a;
+  font-size: 0.85em;
+}
+
+.reveal .strata .nodes {
+  display: flex;
+  gap: 0.45em;
+  flex-wrap: wrap;
+}
+
+.reveal .strata .node {
+  border: 1.5px solid #c9c9c9;
+  border-radius: 999px;
+  padding: 0.1em 0.75em;
+  background: #fff;
+  white-space: nowrap;
+}
+
+.reveal .strata .node.on {
+  border-color: #8c1515;
+  background: #fbeaea;
+  color: #8c1515;
+  font-weight: 600;
+}
+
+.reveal .strata .node.warm {
+  border-color: #d9a0a0;
+  background: #fdf5f5;
+  color: #a05555;
+}
+
+// pandoc wraps div contents in <p>; strip the margins inside these widgets
+.reveal .frame p,
+.reveal .ladder p,
+.reveal .strata p,
+.reveal .game p,
+.reveal .split p {
+  margin: 0;
+}
+
+// and let the node rows keep their flex layout through that wrapper
+.reveal .strata .nodes > p {
+  display: flex;
+  gap: 0.45em;
+  flex-wrap: wrap;
+}
+
+// divider between the talk and the slides kept in reserve
+.reveal .slide.divider,
+.reveal section.divider h1 {
+  color: #8a8a8a;
+  text-align: center;
+}
+
+// ---------------------------------------------------------------
+// syllable box: the onset split off from the rime
+// ---------------------------------------------------------------
+
+.reveal .syl {
+  display: grid;
+  row-gap: 0.4em;
+  margin: 0.6em 0;
+  font-size: 0.85em;
+}
+
+.reveal .syl .row,
+.reveal .syl .row > p {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  margin: 0;
+}
+
+.reveal .syl .wd {
+  width: 6em;
+  color: #6b6b6b;
+  font-style: italic;
+}
+
+.reveal .syl .ons,
+.reveal .syl .rim {
+  border: 1.5px solid #c9c9c9;
+  border-radius: 6px;
+  padding: 0.1em 0.75em;
+  background: #fff;
+}
+
+.reveal .syl .swap {
+  border-color: #8c1515;
+  background: #fbeaea;
+  color: #8c1515;
+  font-weight: 600;
+}
