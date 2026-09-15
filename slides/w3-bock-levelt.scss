@@ -1,0 +1,84 @@
+/*-- scss:rules --*/
+
+.reveal .trial-sequence {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 1.4em minmax(0, 1fr);
+  align-items: stretch;
+  margin: 0.55em 0;
+}
+
+.reveal .trial-comparison {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.7em;
+  margin: 0.55em 0;
+}
+
+.reveal .trial-card {
+  border: 2px solid #777;
+  border-radius: 0;
+  background: #f6f6f4;
+  padding: 0.7em 0.85em;
+  text-align: left;
+  font-size: 0.68em;
+  line-height: 1.4;
+}
+
+.reveal .trial-card.current {
+  border-color: #8c1515;
+  background: #fcf6f4;
+}
+
+.reveal .trial-card.onscreen {
+  font-size: 1em;
+  padding: 0.9em 1.1em;
+}
+
+.reveal .trial-card p {
+  margin: 0 0 0.5em;
+}
+
+.reveal .trial-card p:last-child {
+  margin-bottom: 0;
+}
+
+.reveal .trial-label {
+  display: block;
+  font-size: 0.85em;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.055em;
+  margin-bottom: 0.35em;
+}
+
+.reveal .trial-sublabel {
+  display: block;
+  font-size: 0.85em;
+  color: #555;
+  margin-top: 0.7em;
+}
+
+.reveal .trial-arrow {
+  align-self: center;
+  text-align: center;
+  color: #666;
+}
+
+.reveal .trial-arrow p {
+  margin: 0;
+}
+
+.reveal .trial-slide > p,
+.reveal .trial-slide > .prompt {
+  font-size: 0.73em;
+}
+
+.reveal .trial-slide table {
+  font-size: 0.62em;
+  margin: 0.5em auto;
+}
+
+.reveal .trial-slide table th,
+.reveal .trial-slide table td {
+  padding: 0.25em 0.45em;
+}

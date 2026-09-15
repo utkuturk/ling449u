@@ -1,0 +1,983 @@
+---
+title: "Selecting words, specifying grammar"
+subtitle: "Bock & Levelt (1994), sections I and II"
+author: "Utku Turk"
+institute: "LING 449U, How words are built"
+date: "2026-09-15"
+description: "Grammatical encoding and lexical selection, then an experiment run on the class about where the to in listen to comes from."
+categories: [Week 3]
+format:
+  revealjs:
+    theme: [default, custom.scss, w3-bock-levelt.scss]
+    slide-number: c/t
+    incremental: false
+    history: false
+    transition: none
+    fig-align: center
+    show-notes: false
+---
+
+## Grammar before pronunciation
+
+Last class: **PAST** and **-ed** can come apart.
+
+Grammatical encoding: selecting words and constructing syntax.
+
+| Processing | What gets specified |
+|---|---|
+| Functional | Lemmas and grammatical functions |
+| Positional | Word order and inflectional slots |
+
+Phonological encoding supplies the sound forms.
+
+::: footer
+Bock & Levelt 1994, I, Fig. 1
+:::
+
+::: {.notes}
+Last week we looked at *they needed to be maded*. The speaker had already
+retrieved *made*, which is past, and still attached another *-ed*. That told us
+that the feature PAST and the suffix *-ed* are two separate things in
+production.
+
+Bock and Levelt give us a larger picture of where those two things live. They
+call the grammatical part of production grammatical encoding, and they split it
+in two. Functional processing selects lemmas and assigns grammatical functions
+like subject and object. Positional processing puts things in order and sets up
+slots for inflections. The sounds come after both.
+
+One warning: these labels do not match Levelt's levels from last week one to
+one, so check what each author puts under each name.
+
+In the second half of class, you will be the participants in an experiment
+about one claim in this reading: where the *to* in *listen to* comes from. Then
+you will design your own version.
+:::
+
+## Event roles in the message
+
+*She was handing him some broccoli.*
+
+| Event role | Participant |
+|---|---|
+| Agent | The person doing the handing |
+| Recipient | The person receiving the broccoli |
+| Theme | The broccoli being transferred |
+
+The message also specifies a **past, ongoing event**.
+
+::: footer
+Bock & Levelt 1994, I
+:::
+
+::: {.notes}
+Take their example sentence, *She was handing him some broccoli*. Before any
+grammar, the speaker has an event in mind. Someone does the handing: that is the
+agent. Someone receives something: the recipient. The broccoli is the thing
+being transferred: the theme. These are roles in the event. They say nothing
+yet about subject or object.
+
+The message also includes that the event is in the past and ongoing. English
+expresses that with *was* plus *-ing*, but at the message level there is only
+the meaning.
+:::
+
+## Function assignment
+
+*She was handing him some broccoli.*
+
+| Selected lemma | Assigned function in this example |
+|---|---|
+| Feminine pronoun | Subject / nominative |
+| Masculine pronoun | Dative |
+| *broccoli* | Accusative |
+| *hand* | Main verb |
+
+Lexical selection and function assignment make up **functional processing**.
+
+::: footer
+Bock & Levelt 1994, I
+:::
+
+::: {.notes}
+Here is the same sentence with grammatical functions. The feminine pronoun is
+assigned the subject function, which is nominative. The masculine pronoun gets
+what they call the dative function, *broccoli* gets the accusative, and *hand*
+is the main verb. Selecting the lemmas and assigning these functions together
+make up functional processing.
+
+They give a possible error: *He was handing her some broccoli*. Why do we get
+*he* and *her* in this error? Why not *Him was handing she*?
+
+*[Pause for answers.]*
+
+The functions were swapped. The masculine pronoun ended up with the subject
+function, so it comes out as *he*. The feminine pronoun ended up with the dative
+function, so it comes out as *her*. The form of each pronoun depends on the
+function it received.
+
+They also say that the numbered steps in their description are there to explain
+the model. We should not read them as a fixed order of operations.
+:::
+
+## Positional processing
+
+*She was handing him some broccoli.*
+
+| Component | What gets specified |
+|---|---|
+| Constituent assembly | Phrase structure and word order |
+| Inflection | Morphological slots within that structure |
+
+In *handing*: **stem + affix**, expressing the progressive feature.
+
+Phonological encoding supplies the sounds.
+
+::: footer
+Bock & Levelt 1994, I
+:::
+
+::: {.notes}
+Assigning functions does not yet give you the order of the words. That is
+positional processing. Constituent assembly builds the phrase structure and
+fixes word order. Inflection fills the smaller slots inside that structure, like
+the stem *hand* plus the affix *-ing* in *handing*. The sounds still come later.
+
+Their evidence that inflections are positioned separately from stems is a kind
+of error called stranding. A speaker meant to say *You ended up ordering some
+fish dish* and said *You ordered up ending some fish dish*. The stems *end* and
+*order* swapped places, and *-ed* and *-ing* stayed where they were.
+:::
+
+## Two assumptions
+
+- **Restricted information flow:** each level is influenced by the level
+  immediately above it.
+- **Incrementality:** processing can begin on part of an utterance before the
+  preceding level has finished the rest.
+
+::: {.prompt}
+Does selection before pronunciation require planning the whole sentence first?
+:::
+
+::: footer
+Bock & Levelt 1994, I
+:::
+
+::: {.notes}
+Bock and Levelt make two assumptions. The first is restricted information flow:
+each level only gets information from the level directly above it. That means
+the sound of a word cannot influence which lemma gets selected. They call this a
+very strong position, and we will come back to it with mixed errors.
+
+The second is incrementality. A level can start working on the first part of a
+sentence while the level above it is still working on the rest.
+
+So here is a question. If we select lemmas before we pronounce them, do we have
+to plan the whole sentence before we start talking?
+
+*[Pause for answers.]*
+
+No. For a single word, the lemma comes before the sound. How much of the
+sentence we plan at once is a separate question, and incrementality says we can
+start before the rest is ready. This is the planning scope question from Griffin
+and Ferreira.
+:::
+
+## Selecting a lemma
+
+| Representation | Information |
+|---|---|
+| Concept | SHEEP: an animal, has wool |
+| Lemma | *sheep*: noun |
+| Lexeme | Morphological and phonological form |
+
+- Activating SHEEP also activates related concepts, including GOAT.
+- Their lemmas become active. Selection depends on relative activation.
+
+::: footer
+Bock & Levelt 1994, II.A; Roelofs 1992
+:::
+
+::: {.notes}
+Bock and Levelt separate three kinds of information about a word. The concept
+SHEEP includes things like being an animal and having wool. The lemma *sheep*
+has the grammatical information: that it is a noun, and for other words things
+like gender or which arguments a verb takes. The lexeme has the form, its
+morphology and its sounds.
+
+So a lemma is more than a stem without its suffix. The fact that *listen* takes
+*to* is stored in the lemma for *listen*. We will use that in today's
+experiment.
+
+When you think of SHEEP, related concepts like GOAT get activated too, and so do
+their lemmas. Which lemma gets selected depends on how active *sheep* is compared
+to the other active lemmas.
+:::
+
+## Relative activation
+
+For a given selection interval:
+
+$$
+P(\text{select sheep}) =
+\frac{\text{activation of sheep}}
+{\text{total activation of lemmas in the experimental set}}
+$$
+
+::: {.fragment}
+More activation of *goat*, with *sheep* unchanged: a lower probability of
+selecting *sheep* in that interval.
+:::
+
+::: footer
+Bock & Levelt 1994, II.A; Roelofs 1992
+:::
+
+::: {.notes}
+This is Roelofs's version of how a lemma gets selected. In any short time
+interval, the chance of selecting *sheep* is its activation divided by the total
+activation of all the lemmas in the set.
+
+Let me put some made-up numbers on the board, only for the arithmetic. Say
+*sheep* has 6 and *goat* has 2. The chance of selecting *sheep* is 6 out of 8.
+Now leave *sheep* at 6 and raise *goat* to 6. The chance is 6 out of 12.
+
+*[Advance.]*
+
+The activation of *sheep* did not change, and its chance of being selected in
+each interval went down. A lower chance per interval means it takes longer on
+average to select it. That is one explanation for semantic interference from
+Griffin and Ferreira: a related word like *goat* slows down naming a picture of
+a sheep.
+:::
+
+## Retrieving gender or saying the word?
+
+Frequent picture names are produced faster. Dutch task: judge the name's gender, or name the picture.
+
+| After repeated presentations | Word frequency effect |
+|---|---|
+| Gender judgment | Disappears |
+| Picture naming | Persists |
+
+The authors locate the persistent effect primarily at the **lexeme** level.
+
+::: footer
+Bock & Levelt 1994, II.C; Jescheniak & Levelt, cited as in press
+:::
+
+::: {.notes}
+People name pictures with frequent names faster than pictures with rare names.
+The question is where that frequency effect comes from: the lemma or the
+lexeme.
+
+Jescheniak and Levelt tested this with Dutch speakers. Dutch nouns have one of
+two grammatical genders. Speakers saw pictures and did one of two tasks. In one
+task, they named the picture. In the other, they pressed one of two buttons to
+indicate the gender of the picture's name, without saying the name.
+
+Each picture came up three times in each task. At first, both tasks showed a
+frequency effect. In the gender task, the effect was gone by the third time. In
+naming, it stayed. Gender is information in the lemma, and naming needs the
+form, so they conclude that the lasting frequency effect is at the lexeme.
+
+There is a general point here for designing experiments: a button press can get
+at grammatical information about a word without asking anyone to say the word.
+:::
+
+## Can sounds affect selection?
+
+Mixed error: *oyster* for *lobster*, similar in meaning **and** sound.
+
+| Account | Why mixed errors are frequent |
+|---|---|
+| Feedback | Sound activation influences selection |
+| Monitoring | Similar errors are less likely to be detected |
+
+::: {.prompt}
+What evidence would distinguish producing more errors from detecting fewer?
+:::
+
+::: footer
+Bock & Levelt 1994, II.B and II.C; Dell & Reich 1981; Levelt 1989
+:::
+
+::: {.notes}
+A mixed error is an error where the wrong word is related to the intended word
+in both meaning and sound, like *oyster* for *lobster*. Dell and Reich found
+that these errors are more common than you would expect if meaning errors and
+sound errors had separate sources.
+
+There are two explanations. The first is feedback: the sounds of *oyster* send
+activation back up and help it get selected. That would break the restricted
+information flow assumption. The second is monitoring: speakers check their
+own speech before and while they say it, and an error that is similar to the
+intended word in both meaning and sound is more likely to get past that check.
+Bock and Levelt argue that feedback may be unnecessary, and monitoring is one of
+their reasons.
+
+What kind of evidence would tell apart producing more of these errors from
+catching fewer of them?
+
+*[Pause for answers.]*
+
+Counting errors in a corpus cannot separate the two, because a corpus only
+contains the errors that got out. You would need a way to see errors that were
+produced and then caught, or a task that changes how much speakers can monitor
+themselves.
+:::
+
+## How is *to* selected?
+
+*Listen **to** the radio.*
+
+- *Listen* has grammatical requirements.
+- Those requirements lead to selection of *to*.
+- The authors call this **indirect election**.
+
+::: {.prompt}
+What would an account based only on lexical concepts leave unexplained here?
+:::
+
+::: footer
+Bock & Levelt 1994, II.A
+:::
+
+::: {.notes}
+In *listen to the radio*, the word *to* does not express a concept of its own.
+Bock and Levelt say that the lemma for *listen* requires *to*, so *to* gets
+activated through *listen*. They call this indirect election.
+
+What would a model miss if it only connected concepts to words?
+
+*[Pause for answers.]*
+
+It would have no route to *to*, because there is no concept for *to* to come
+from.
+
+This is the Property 9 question from Griffin and Ferreira: is a function word
+chosen through the grammar of another word, or does it come with a frame? If
+indirect election is right, *to* should go wherever *listen* goes. Today's
+experiment tests that.
+:::
+
+## What stayed when the nouns exchanged?
+
+Intended: *a **floor** full of **holes***
+
+Produced: *a **hole** full of **floors***
+
+::: {.fragment}
+The nouns exchanged. Plural marking stayed in the second position.
+:::
+
+::: {.fragment .prompt}
+What would a whole noun phrase exchange have produced?
+:::
+
+::: footer
+Bock & Levelt 1994, II.B, example 11; Fromkin 1973
+:::
+
+::: {.notes}
+Here is a speech error from Fromkin. The speaker meant to say *a floor full of
+holes* and said *a hole full of floors*.
+
+*[Advance.]*
+
+The nouns *floor* and *hole* traded places. The plural *-s* stayed in the second
+position, and the article *a* stayed at the beginning.
+
+If the whole noun phrases had traded places, what would the speaker have said?
+
+*[Pause for answers, then advance.]*
+
+*Holes full of a floor*. The article and the plural would have gone with their
+nouns. Bock and Levelt say this is typical of clear word exchanges: the rest of
+the phrase stays behind, including small grammatical elements. Later in the
+chapter they cite Stemberger (1985), who found inflectional affixes stranded in
+88.9% of the errors where stranding was possible.
+
+This is the same kind of evidence as *maded* last week. The plural and the noun
+it attaches to are placed separately.
+:::
+
+## Warm-up {.trial-slide}
+
+::: {.trial-card .current .onscreen}
+[Combine into one sentence]{.trial-label}
+
+I saw the man.
+
+The police were chasing the man.
+
+[Begin]{.trial-sublabel}
+
+I saw the man that ...
+:::
+
+::: {.fragment}
+*I saw the man that the police were chasing* ___.
+:::
+
+Keep the verb. Mention *the man* once.
+
+::: {.notes}
+Now you are the participants. You will combine two sentences into one. Here is
+a practice item. The two sentences are *I saw the man* and *The police were
+chasing the man*. Start with *I saw the man that*, keep the verb from the second
+sentence, and mention *the man* only once. Everyone, say it aloud.
+
+*[Wait for the room, then advance.]*
+
+*I saw the man that the police were chasing.* The blank marks where *the man* is
+understood. Nobody says anything there.
+
+The next eleven slides are the real trials. Same task each time: say it aloud,
+all together, as fast as you can. After each one I will ask a quick question.
+
+*[Before starting, have a tally sheet ready with rows for trials 1 to 11 and two
+columns: what you heard, and the number of hands. Targets are trials 2, 5, 8,
+and 11.]*
+:::
+
+## Trial 1 {.trial-slide}
+
+::: {.trial-card .current .onscreen}
+[Say it aloud, fast]{.trial-label}
+
+I remember the musician.
+
+Maya heard the musician.
+
+[Begin]{.trial-sublabel}
+
+I remember the musician that ...
+:::
+
+::: {.notes}
+Combine these two sentences aloud, all together, as fast as you can: *I remember the musician.* and
+*Maya heard the musician.* Start with *I remember the musician that*.
+
+*[This trial comes right before a target. *Heard* takes its object directly, and it is close in meaning to *listen*. The intended sentence is "I remember the musician that Maya heard."]*
+
+*[Listen to the room and mark anything you hear on your tally sheet next to
+trial 1. Then ask: "Raise your hand if what came out was different from what
+you meant to say." Write the number of hands next to trial 1. Ask the same
+question after every trial, fillers included, so the target trials do not stand
+out. Do not comment on the answers. ]*
+:::
+
+## Trial 2 {.trial-slide}
+
+::: {.trial-card .current .onscreen}
+[Say it aloud, fast]{.trial-label}
+
+I met the singer.
+
+Katie listened to the singer.
+
+[Begin]{.trial-sublabel}
+
+I met the singer that ...
+:::
+
+::: {.notes}
+Combine these two sentences aloud, all together, as fast as you can: *I met the singer.* and
+*Katie listened to the singer.* Start with *I met the singer that*.
+
+*[This is a target trial. It follows *heard*. Listen for *listened* without *to*, and for *heard* in place of *listened*. The intended sentence is "I met the singer that Katie listened to."]*
+
+*[Listen to the room and mark anything you hear on your tally sheet next to
+trial 2. Then ask: "Raise your hand if what came out was different from what
+you meant to say." Write the number of hands next to trial 2. Ask the same
+question after every trial, fillers included, so the target trials do not stand
+out. Do not comment on the answers. ]*
+:::
+
+## Trial 3 {.trial-slide}
+
+::: {.trial-card .current .onscreen}
+[Say it aloud, fast]{.trial-label}
+
+I know the chef.
+
+The chef cooked dinner.
+
+[Begin]{.trial-sublabel}
+
+I know the chef that ...
+:::
+
+::: {.notes}
+Combine these two sentences aloud, all together, as fast as you can: *I know the chef.* and
+*The chef cooked dinner.* Start with *I know the chef that*.
+
+*[This is a filler. It separates the first pair of trials from the second. The intended sentence is "I know the chef that cooked dinner."]*
+
+*[Listen to the room and mark anything you hear on your tally sheet next to
+trial 3. Then ask: "Raise your hand if what came out was different from what
+you meant to say." Write the number of hands next to trial 3. Ask the same
+question after every trial, fillers included, so the target trials do not stand
+out. Do not comment on the answers. ]*
+:::
+
+## Trial 4 {.trial-slide}
+
+::: {.trial-card .current .onscreen}
+[Say it aloud, fast]{.trial-label}
+
+I saved the invitation.
+
+Sam responded to the invitation.
+
+[Begin]{.trial-sublabel}
+
+I saved the invitation that ...
+:::
+
+::: {.notes}
+Combine these two sentences aloud, all together, as fast as you can: *I saved the invitation.* and
+*Sam responded to the invitation.* Start with *I saved the invitation that*.
+
+*[This trial comes right before a target. *Responded to* takes *to*, and it is close in meaning to *reply*. The intended sentence is "I saved the invitation that Sam responded to."]*
+
+*[Listen to the room and mark anything you hear on your tally sheet next to
+trial 4. Then ask: "Raise your hand if what came out was different from what
+you meant to say." Write the number of hands next to trial 4. Ask the same
+question after every trial, fillers included, so the target trials do not stand
+out. Do not comment on the answers. ]*
+:::
+
+## Trial 5 {.trial-slide}
+
+::: {.trial-card .current .onscreen}
+[Say it aloud, fast]{.trial-label}
+
+I opened the e-mail.
+
+Katie replied to the e-mail.
+
+[Begin]{.trial-sublabel}
+
+I opened the e-mail that ...
+:::
+
+::: {.notes}
+Combine these two sentences aloud, all together, as fast as you can: *I opened the e-mail.* and
+*Katie replied to the e-mail.* Start with *I opened the e-mail that*.
+
+*[This is a target trial. It follows *responded to*. Listen for *replied* without *to*, and for *responded* in place of *replied*. The intended sentence is "I opened the e-mail that Katie replied to."]*
+
+*[Listen to the room and mark anything you hear on your tally sheet next to
+trial 5. Then ask: "Raise your hand if what came out was different from what
+you meant to say." Write the number of hands next to trial 5. Ask the same
+question after every trial, fillers included, so the target trials do not stand
+out. Do not comment on the answers. ]*
+:::
+
+## Trial 6 {.trial-slide}
+
+::: {.trial-card .current .onscreen}
+[Say it aloud, fast]{.trial-label}
+
+I called the plumber.
+
+The plumber fixed the sink.
+
+[Begin]{.trial-sublabel}
+
+I called the plumber that ...
+:::
+
+::: {.notes}
+Combine these two sentences aloud, all together, as fast as you can: *I called the plumber.* and
+*The plumber fixed the sink.* Start with *I called the plumber that*.
+
+*[This is a filler. It separates the second pair of trials from the third. The intended sentence is "I called the plumber that fixed the sink."]*
+
+*[Listen to the room and mark anything you hear on your tally sheet next to
+trial 6. Then ask: "Raise your hand if what came out was different from what
+you meant to say." Write the number of hands next to trial 6. Ask the same
+question after every trial, fillers included, so the target trials do not stand
+out. Do not comment on the answers. ]*
+:::
+
+## Trial 7 {.trial-slide}
+
+::: {.trial-card .current .onscreen}
+[Say it aloud, fast]{.trial-label}
+
+I washed the cup.
+
+Lee broke the cup.
+
+[Begin]{.trial-sublabel}
+
+I washed the cup that ...
+:::
+
+::: {.notes}
+Combine these two sentences aloud, all together, as fast as you can: *I washed the cup.* and
+*Lee broke the cup.* Start with *I washed the cup that*.
+
+*[This trial comes right before a target. *Broke* takes its object directly, and it has nothing to do with pointing. The intended sentence is "I washed the cup that Lee broke."]*
+
+*[Listen to the room and mark anything you hear on your tally sheet next to
+trial 7. Then ask: "Raise your hand if what came out was different from what
+you meant to say." Write the number of hands next to trial 7. Ask the same
+question after every trial, fillers included, so the target trials do not stand
+out. Do not comment on the answers. ]*
+:::
+
+## Trial 8 {.trial-slide}
+
+::: {.trial-card .current .onscreen}
+[Say it aloud, fast]{.trial-label}
+
+I saw the map.
+
+Chris pointed to the map.
+
+[Begin]{.trial-sublabel}
+
+I saw the map that ...
+:::
+
+::: {.notes}
+Combine these two sentences aloud, all together, as fast as you can: *I saw the map.* and
+*Chris pointed to the map.* Start with *I saw the map that*.
+
+*[This is a target trial. It follows *broke*. Listen for *pointed* without *to*. The intended sentence is "I saw the map that Chris pointed to."]*
+
+*[Listen to the room and mark anything you hear on your tally sheet next to
+trial 8. Then ask: "Raise your hand if what came out was different from what
+you meant to say." Write the number of hands next to trial 8. Ask the same
+question after every trial, fillers included, so the target trials do not stand
+out. Do not comment on the answers. ]*
+:::
+
+## Trial 9 {.trial-slide}
+
+::: {.trial-card .current .onscreen}
+[Say it aloud, fast]{.trial-label}
+
+I thanked the driver.
+
+The driver found my wallet.
+
+[Begin]{.trial-sublabel}
+
+I thanked the driver that ...
+:::
+
+::: {.notes}
+Combine these two sentences aloud, all together, as fast as you can: *I thanked the driver.* and
+*The driver found my wallet.* Start with *I thanked the driver that*.
+
+*[This is a filler. It separates the third pair of trials from the fourth. The intended sentence is "I thanked the driver that found my wallet."]*
+
+*[Listen to the room and mark anything you hear on your tally sheet next to
+trial 9. Then ask: "Raise your hand if what came out was different from what
+you meant to say." Write the number of hands next to trial 9. Ask the same
+question after every trial, fillers included, so the target trials do not stand
+out. Do not comment on the answers. ]*
+:::
+
+## Trial 10 {.trial-slide}
+
+::: {.trial-card .current .onscreen}
+[Say it aloud, fast]{.trial-label}
+
+I read the proposal.
+
+Alex referred to the proposal.
+
+[Begin]{.trial-sublabel}
+
+I read the proposal that ...
+:::
+
+::: {.notes}
+Combine these two sentences aloud, all together, as fast as you can: *I read the proposal.* and
+*Alex referred to the proposal.* Start with *I read the proposal that*.
+
+*[This trial comes right before a target. *Referred to* takes *to*, and it has nothing to do with dancing. The intended sentence is "I read the proposal that Alex referred to."]*
+
+*[Listen to the room and mark anything you hear on your tally sheet next to
+trial 10. Then ask: "Raise your hand if what came out was different from what
+you meant to say." Write the number of hands next to trial 10. Ask the same
+question after every trial, fillers included, so the target trials do not stand
+out. Do not comment on the answers. ]*
+:::
+
+## Trial 11 {.trial-slide}
+
+::: {.trial-card .current .onscreen}
+[Say it aloud, fast]{.trial-label}
+
+I like the song.
+
+Maya danced to the song.
+
+[Begin]{.trial-sublabel}
+
+I like the song that ...
+:::
+
+::: {.notes}
+Combine these two sentences aloud, all together, as fast as you can: *I like the song.* and
+*Maya danced to the song.* Start with *I like the song that*.
+
+*[This is a target trial. It follows *referred to*. Listen for *danced* without *to*. The intended sentence is "I like the song that Maya danced to."]*
+
+*[Listen to the room and mark anything you hear on your tally sheet next to
+trial 11. Then ask: "Raise your hand if what came out was different from what
+you meant to say." Write the number of hands next to trial 11. Ask the same
+question after every trial, fillers included, so the target trials do not stand
+out. Do not comment on the answers. This is the last trial. After the room answers and you count, advance.]*
+:::
+
+## Possible endings for trial 2 {.trial-slide}
+
+:::: {.trial-sequence}
+::: {.trial-card .previous}
+[Trial 1: you said]{.trial-label}
+
+I remember the musician that Maya **heard**.
+:::
+
+::: {.trial-arrow aria-hidden="true"}
+→
+:::
+
+::: {.trial-card .current}
+[Trial 2: target]{.trial-label}
+
+I met the singer that Katie **listened to**.
+:::
+::::
+
+| Trial 2 ending | What changed |
+|---|---|
+| *listened to* | Nothing |
+| *heard* | Verb carried over |
+| *listened* | Verb kept, *to* lost |
+| *heard to* | Verb carried over, *to* kept |
+
+::: {.prompt}
+Which ending would show that *to* comes from *listen*? Which would show a reused structure?
+:::
+
+::: {.notes}
+On the first trial you said *I remember the musician that Maya heard*. On the
+second trial, the target was *I met the singer that Katie listened to*. If the
+first trial affected the second, the second sentence could have ended in a few
+ways. *Listened to* is the target. *Heard* means the verb from the first trial
+came back. *Listened* without *to* means you kept the verb and lost *to*. *Heard
+to* means the verb from the first trial came back and *to* stayed.
+
+Which ending would show that *to* comes from *listen*? Which would show that you
+reused the structure of the first sentence?
+
+*[Pause for answers.]*
+
+If *to* comes from the lemma for *listen*, then *to* goes wherever *listen* goes.
+An effect of the first trial would show up as *heard*, the whole verb, and
+*listened* by itself should be rare.
+
+The other possibility is that you reused the structure of the first sentence, a
+verb followed directly by its object. Speakers tend to repeat structures they
+have just used, even with different words (Bock and Loebell 1990). In that case
+you could keep *listened* and still drop *to*.
+
+*Heard to* would be interesting: the verb from the first trial inside the
+structure of the second.
+
+One more possibility for *listened* without *to*: you might have planned *to* and
+then not pronounced it. The ending by itself does not tell us which of these
+happened.
+:::
+
+## Class tally {.smaller}
+
+| Target | Trial before it | Structure before | Meaning before | *to* missing | Other verb |
+|---|---|---|---|---|---|
+| 2: *listened to* | *heard* | V + NP | similar | | |
+| 5: *replied to* | *responded to* | V + PP | similar | | |
+| 8: *pointed to* | *broke* | V + NP | unrelated | | |
+| 11: *danced to* | *referred to* | V + PP | unrelated | | |
+
+::: {.prompt}
+If you reuse the structure from the trial before, where should *to* be missing more often?
+:::
+
+::: footer
+Class data, one sentence per row, too few to show an effect
+:::
+
+::: {.notes}
+Now I can tell you what the trials were. Trials 2, 5, 8, and 11 were the targets.
+Each one needed *to* at the end. The trial right before each target used either a
+verb that takes its object directly, like *heard* and *broke*, or a verb that
+takes *to*, like *responded to* and *referred to*. The other trials were fillers
+that kept the targets from standing out.
+
+*[Go row by row. For each target, read the intended sentence and ask: "Who said
+it without to? Who used a different verb?" Fill in the two columns, and add
+anything from your tally sheet.]*
+
+If you reuse the structure of the trial before, a verb followed directly by its
+object, *to* should be missing more often after trials 1 and 7 than after trials
+4 and 10. If *to* only comes from the lemma of the target verb, those rows should
+not differ in missing *to*. An effect of the trial before would show up as a
+different verb instead, most likely in row 2, where *heard* is close in meaning
+to *listened*.
+
+Rows 2 and 5 have verbs close in meaning to the target, and rows 8 and 11 do not.
+Comparing them tells us whether similarity in meaning matters.
+
+Here are the problems with what we just did. There is one sentence per row, and
+each row has a different target verb, so a difference between rows could come
+from the verbs themselves. Everyone spoke at once, so I heard some errors and
+missed others. Raising a hand counts only the errors you noticed yourself.
+
+What would you change to make this a real experiment?
+
+*[Take answers: several sentences per row, the same target verbs rotated across
+conditions, one speaker at a time, recording and transcribing, more fillers.]*
+:::
+
+## Your group's experiment
+
+Groups of three, 10 minutes. Pick one:
+
+1. **Which preposition:** *adhere to*, then *comply with*
+2. **Elected or not:** *walked to the office*, then *replied to*
+3. **Dative:** *gave Jordan* or *gave to Jordan*, then *explained ... to Chelsea*
+4. **Pictures:** describe *watching birds*, then *listening to a singer*
+5. **Case:** a language where the verb picks a case instead of a preposition
+
+::: {.prompt}
+Write down: what speakers say, what you count, what each account predicts.
+:::
+
+::: {.notes}
+In groups of three, take ten minutes and design one experiment. Pick one of the
+options on the slide. Write down what speakers will say, what you will count,
+and what each account predicts.
+
+*[Walk around. Leave five minutes for two groups to present.]*
+
+Which preposition: *adhere* and *comply* both take a preposition, but different
+ones. Speakers say *adhere to* on card 1 and *comply with* on card 2. The error
+to count is *complied to*, the preposition from card 1 with the verb from card
+2. This tests which preposition gets selected, in addition to whether one
+appears at all.
+
+Elected or not: *walked to the office* has a *to*, but *walk* does not require
+it. If a card 1 with *walked to* helps speakers keep *replied to* as much as
+*responded to* does, then what carries over does not depend on the verb
+selecting *to*.
+
+Dative: *Alex gave Jordan the explanation* and *Alex gave the explanation to
+Jordan* are both fine, but *explain* only works with *to*. If someone says
+*explained Chelsea* after *gave Jordan*, it could be the structure carrying over
+or *to* being dropped. A simple sentence helps tell these apart: *explained the
+problem Chelsea* keeps the original order, while *explained Chelsea the problem*
+changes it. The extra slides have the cards for this one.
+
+Pictures: instead of combining sentences, speakers describe a picture, for
+example a woman listening to a singer. Before it, they describe a picture that
+is easiest to describe with a verb that takes its object directly, like a man
+watching birds. The advantage is that there is no sentence on the card to copy
+*to* from, so any *to* comes from the speaker's own planning. The problem is
+that speakers can pick other verbs, like *hearing* or *enjoying*. You need
+pictures where *listen to* is the most likely description, and you have to count
+other verbs separately.
+
+Case: Turkish is one example. *Bak-* 'look at' takes the dative, and *gör-*
+'see' takes the accusative. The case is pronounced on the noun, so if the case
+from one verb carries over to the other, you can hear it. English relative
+clauses like ours have no noun after *to*, so English gives us no case to hear.
+
+A good version of any of these could become a final project.
+:::
+
+# Extra slides {.divider}
+
+## Candidate verb pairs {.smaller}
+
+| V + NP | V + PP | Sense to hold fixed |
+|---|---|---|
+| hear the singer | listen to the singer | perception vs. attention |
+| answer the e-mail | reply / respond to the e-mail | responding to a message |
+| watch the birds | look at the birds | visual attention |
+| seek a solution | look for a solution | searching |
+| request an extension | ask for an extension | requesting |
+| obey the rules | abide by the rules | compliance |
+| follow the protocol | adhere to the protocol | compliance |
+| follow the regulations | comply with the regulations | compliance |
+| obey Elizabeth | answer to Elizabeth | authority |
+| trust Chelsea | confide in Chelsea | related acts |
+
+::: footer
+Class materials; check each pair with the speakers you test
+:::
+
+::: {.notes}
+These are extra verb pairs for groups that want more items. Each row pairs a verb
+that takes its object directly with a verb that takes a preposition, in a
+similar sense. Some pairs are closer in meaning than others. Check each pair
+with the speakers you test: *trust in Chelsea*, for example, is fine for many
+people, so it should not automatically count as an error.
+:::
+
+## Dative version {.trial-slide}
+
+:::: {.trial-sequence}
+::: {.trial-card .previous}
+[Card 1: A or B]{.trial-label}
+
+[A: recipient NP]{.trial-sublabel}
+
+I remember the explanation that Alex **gave Jordan**.
+
+[B: recipient PP]{.trial-sublabel}
+
+I remember the explanation that Alex **gave to Jordan**.
+:::
+
+::: {.trial-arrow aria-hidden="true"}
+→
+:::
+
+::: {.trial-card .current}
+[Card 2: same for A and B]{.trial-label}
+
+I understood the problem.
+
+Katie **explained** the problem **to Chelsea**.
+
+[Target]{.trial-sublabel}
+
+I understood the problem that Katie **explained to Chelsea**.
+:::
+::::
+
+Is *explained Chelsea* more likely after A?
+
+::: footer
+Class exercise; [objects](https://dictionary.cambridge.org/grammar/british-grammar/direct-objects), [explain](https://dictionary.cambridge.org/grammar/british-grammar/explain)
+:::
+
+::: {.notes}
+This is the dative version for groups working on option 3. In version A, card 1
+is *I remember the explanation that Alex gave Jordan*. In version B, card 1 is
+*I remember the explanation that Alex gave to Jordan*. Both are grammatical.
+Card 2 is the same in both versions: combine *I understood the problem* and
+*Katie explained the problem to Chelsea*. The target is *I understood the
+problem that Katie explained to Chelsea*. The question is whether *explained
+Chelsea*, without *to*, is more likely after version A.
+:::
