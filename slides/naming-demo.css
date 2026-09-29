@@ -1,0 +1,102 @@
+.reveal .naming-trial h2,
+.reveal .naming-preview h2 {
+  display: none;
+}
+
+.reveal .naming-preview-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(2, 250px);
+  gap: 35px 25px;
+  align-items: center;
+  justify-items: center;
+  padding: 35px 0;
+}
+
+.reveal .naming-preview-grid img {
+  width: 225px;
+  height: 250px;
+  object-fit: contain;
+  margin: 0;
+  border: 0;
+  box-shadow: none;
+}
+
+.reveal .error-table table {
+  font-size: 0.65em;
+  width: 100%;
+}
+
+.reveal .error-table th,
+.reveal .error-table td {
+  padding: 0.18em 0.4em;
+}
+
+.reveal .naming-stage {
+  height: 560px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.reveal .naming-stage p {
+  margin: 0;
+}
+
+.reveal .naming-stage img {
+  width: 760px;
+  height: 500px;
+  max-height: 500px;
+  object-fit: contain;
+  margin: 0;
+  border: 0;
+  box-shadow: none;
+}
+
+.reveal .naming-fixation {
+  font-size: 100px;
+  font-weight: 400;
+}
+
+html:is(.naming-active, :has(.naming-preview.present)) .reveal .slide-number,
+html:is(.naming-active, :has(.naming-preview.present)) .reveal .controls,
+html:is(.naming-active, :has(.naming-preview.present)) .reveal .progress,
+html:is(.naming-active, :has(.naming-preview.present)) .reveal .slide-menu-button,
+html:is(.naming-active, :has(.naming-preview.present)) .reveal .footer {
+  visibility: hidden;
+}
+
+.reveal .naming-button {
+  font: inherit;
+  font-size: 0.8em;
+  padding: 0.45em 1em;
+  border: 2px solid #8c1515;
+  border-radius: 6px;
+  background: #8c1515;
+  color: white;
+  cursor: pointer;
+}
+
+.reveal .naming-button:disabled {
+  opacity: 0.5;
+  cursor: wait;
+}
+
+.reveal .naming-button:focus-visible {
+  outline: 3px solid #1a1a1a;
+  outline-offset: 4px;
+}
+
+.reveal .naming-status {
+  font-size: 0.55em;
+  color: #6b6b6b;
+}
+
+.reveal .naming-credits {
+  font-size: 0.62em;
+}
+
+.reveal .scientific-plot {
+  display: block;
+  margin: 0.5em auto;
+}

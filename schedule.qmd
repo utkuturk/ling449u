@@ -17,8 +17,8 @@ Readings are posted on ELMS. Slides go up here after class.
 | | Sep 17 | Speech errors | | | Question |
 | | Sep 20 | | | | **Synthesis I** |
 | [Week 4]{.week-label} | Sep 22 | Simple words and modelling their production | Roelofs 2000 | Cutting & Ferreira 1999; Roelofs 2002 | Question |
-| | Sep 24 | Simple words | Lampe et al. 2024 | Levelt & Meyer 2000; Sprenger et al. 2006 | Question |
-| [Week 5]{.week-label} | Sep 29 | Syntactic approaches to morphology | Distributed Morphology reading | | Question |
+| | Sep 24 | [Simple words](slides/w4-lampe.qmd) | Lampe et al. 2024 | Levelt & Meyer 2000; Sprenger et al. 2006 | Question |
+| [Week 5]{.week-label} | Sep 29 | [From morphemes to Distributed Morphology](slides/w5-distributed-morphology.qmd) | Goryczka 2025, §3.2–3.2.1 (pp. 91–94) | Bobaljik 2017 | Question |
 | | Oct 1 | Syntactic approaches to morphology | Nanosyntax reading | | Question |
 | | Oct 4 | | | | **Synthesis II** |
 

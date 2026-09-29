@@ -1,0 +1,60 @@
+#priming-app {
+  --priming-accent: #8c1515;
+  margin: 1.5rem 0;
+}
+#priming-app [hidden] { display: none !important; }
+#priming-app .priming-panel {
+  border: 1px solid #aaa;
+  border-radius: 0.7rem;
+  padding: clamp(1rem, 3vw, 2rem);
+}
+#priming-app h2 { margin-top: 0; }
+#priming-app label { display: block; font-weight: 600; margin: 1rem 0 0.3rem; }
+#priming-app select { width: 100%; padding: 0.6rem; margin-bottom: 0.5rem; }
+#priming-app button {
+  background: var(--priming-accent);
+  color: white;
+  border: 2px solid var(--priming-accent);
+  border-radius: 0.35rem;
+  padding: 0.65rem 1rem;
+  font: inherit;
+  cursor: pointer;
+}
+#priming-app button:disabled { opacity: 0.5; cursor: default; }
+#priming-app button:focus-visible, #priming-app select:focus-visible {
+  outline: 3px solid #c89b35;
+  outline-offset: 3px;
+}
+#priming-app .priming-secondary { background: transparent; color: inherit; border-color: #888; }
+#priming-app .priming-topline, #priming-app .priming-actions {
+  display: flex; flex-wrap: wrap; gap: 0.7rem; align-items: center;
+  justify-content: space-between; margin-bottom: 1.5rem;
+}
+#priming-app .priming-topline { font-size: 0.8rem; }
+#priming-stage { min-height: 290px; }
+#priming-app .priming-cue {
+  min-height: 130px; display: grid; place-items: center;
+  font-size: clamp(2.5rem, 8vw, 4.5rem); font-weight: 600;
+  margin: 1rem 0; overflow-wrap: anywhere;
+}
+#priming-app .priming-center { text-align: center; }
+#priming-app .priming-grammar-cue {
+  min-height: 180px; display: grid; align-content: center;
+  gap: 1rem; text-align: center; margin: 1rem 0;
+}
+#priming-app .priming-lemma {
+  font-size: clamp(2rem, 7vw, 3.5rem); font-weight: 700;
+}
+#priming-app .priming-sentence {
+  font-size: clamp(1.4rem, 4vw, 2.2rem); line-height: 1.4;
+  margin: 0; overflow-wrap: anywhere;
+}
+#priming-app table { width: 100%; margin: 1rem 0; }
+#priming-app table td { white-space: normal; }
+#priming-app th, #priming-app td { padding: 0.5rem !important; }
+#priming-app .priming-answer { font-size: 2rem; font-weight: 600; }
+#priming-app .priming-benefit { border-left: 4px solid var(--priming-accent); padding-left: 1rem; }
+#priming-app .priming-scroll { overflow-x: auto; }
+@media (prefers-reduced-motion: reduce) {
+  #priming-app * { scroll-behavior: auto; }
+}

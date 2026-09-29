@@ -1,0 +1,119 @@
+---
+title: "Preparing words and grammar"
+subtitle: "A spoken word-production demonstration"
+format:
+  html:
+    toc: false
+    css: experiments/implicit-priming.css
+    include-after-body:
+      text: |
+        <script src="experiments/implicit-priming.js" defer></script>
+resources:
+  - experiments/implicit-priming.js
+---
+
+In the grammar session, complete a sentence using the verb shown. In the
+affix sessions, learn cue-response pairs and say the paired response.
+Say only the answer word, as quickly and accurately as you can.
+
+```{=html}
+<div id="priming-app">
+  <section id="priming-setup" class="priming-panel">
+    <h2>Choose a session</h2>
+    <label for="priming-design">Response sets</label>
+    <select id="priming-design">
+      <option value="grammar">Grammar: shared or mixed grammatical contexts (about 4 minutes)</option>
+      <option value="prefix">Prefixes: un-, re-, dis- (about 4 minutes)</option>
+      <option value="suffix">Suffixes: -less, -ful, -ness (about 4 minutes)</option>
+      <option value="both">Both affix sessions (about 8 minutes)</option>
+    </select>
+    <label for="priming-measure">How to mark the start of your answer</label>
+    <select id="priming-measure">
+      <option value="key">Press Space as you begin speaking</option>
+      <option value="voice">Microphone: detect sound onset on this device</option>
+    </select>
+    <p id="priming-measure-help">Space records a manual timing proxy, not a measured speech onset. On a touch device, tap the response button as you begin speaking.</p>
+    <p>After each answer, check it against the expected word. Practice trials are not included in the results.</p>
+    <button id="priming-start" type="button">Start session</button>
+    <p id="priming-setup-status" role="status"></p>
+  </section>
+  <section id="priming-session" class="priming-panel" hidden>
+    <div class="priming-topline"><span id="priming-progress"></span><button id="priming-end" type="button" class="priming-secondary">End session and view results</button></div>
+    <div id="priming-stage"></div>
+  </section>
+  <section id="priming-results" class="priming-panel" hidden></section>
+  <noscript>This demonstration needs JavaScript to show cues and record response times.</noscript>
+</div>
+```
+
+::: {.note}
+
+Microphone mode requests permission only when you start. It detects sound
+locally; it does not record, upload, or recognize speech. Background noise can
+trigger it. Use a quiet room and check false triggers after each trial.
+
+Session results stay in this page until you download them or leave. Download
+the CSV before closing or reloading the page.
+
+:::
+
+<details>
+<summary>For discussion after the demonstration</summary>
+
+In **shared** blocks, items share an affix or grammatical context. In **mixed**
+blocks, the same items are regrouped so that property varies.
+Each item appears twice per measured condition, after practice in each block.
+Shared and mixed block order is randomized across sessions.
+
+**Grammar session.** Each trial displays a base verb and a sentence gap,
+for example **GO: Yesterday, I ___ home.** Say only **went**. The verbs
+are GO, EAT, and BUY in three grammatical contexts:
+
+| Context | Sentence beginning | Responses across the three verbs |
+|---|---|---|
+| Simple past | Yesterday, I … | went, ate, bought |
+| Habitual present | Every day, I … | go, eat, buy |
+| Present perfect | I have already … | gone, eaten, bought |
+
+Every block contains all three verbs. Shared blocks use one context; mixed
+blocks use all three. For example, a mixed block combines GO in the simple
+past, EAT in the habitual present, and BUY in the present perfect. Each
+verb-and-sentence combination returns unchanged in both conditions. The
+block introduction shows the available contexts and base verbs, without
+listing their inflected answers. Answers appear during feedback.
+
+This asks whether knowing the grammatical context helps prepare a response
+without a common affix across the three verbs. It is an extension of the
+classroom task, not a replication of Roelofs's morphological comparison.
+Context reading, repeated sentence frames, and switching between grammatical
+contexts can also affect response time. A benefit would not by itself locate
+preparation at a particular model stage. The two contexts requiring *bought*
+remain separate items, identified by their grammatical features in the CSV.
+
+**Affix sessions.**
+The prefix sets are *unkind, unfair, untrue*; *reread, rewrite, repaint*; and
+*dislike, distrust, disagree*. The suffix sets are *careless, homeless, hopeless*;
+*joyful, helpful, playful*; and *kindness, darkness, softness*. Here, *re-* means
+"again"; say *reread* as in "I will reread it."
+
+The preparation benefit is the median correct response time in mixed blocks
+minus the median in shared blocks. A positive value means faster responses
+in shared blocks. Errors, timeouts, practice, interrupted trials, and responses
+under 150 ms are excluded from that timing summary. They remain identifiable
+in the CSV. Error counts are reported separately.
+
+These English affix materials are a classroom adaptation, not the materials
+from Roelofs's studies. A shared affix also shares sounds and meaning. This demo
+has no matched sound-only control, so it cannot establish an extra
+**morphological** benefit by itself. The prefix and suffix lists also differ
+in frequency, stress, length, and lexical category. Compare each list with
+its own mixed baseline; do not treat a prefix-suffix difference as a clean
+test of serial position alone.
+
+Roelofs (2000), pp. 98 to 99, reviews the stronger comparison: initial
+syllables that constitute morphemes versus initial syllables that do not,
+and initial versus non-initial morphemes in implicit preparation.
+
+[Return to the slides](slides/w4-roelofs.qmd)
+
+</details>

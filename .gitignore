@@ -5,7 +5,10 @@
 /slides/*.html
 
 # never commit readings or any other PDF
-*.pdf
+*.[pP][dD][fF]
+*.epub
+*.doc
+*.docx
 
 # macOS
 .DS_Store
@@ -19,6 +22,8 @@ __pycache__/
 
 # converted readings
 /md/
+/papers/
+/readings/
 
 # source decks stay local
 /slides/*.pptx
@@ -26,3 +31,9 @@ __pycache__/
 
 # local notes, not part of the site
 /CLAUDE.md
+/AGENTS.md
+/CODEX.md
+/.agents/
+/.codex/
+/.claude/
+/synthesis-homework-questions.txt

@@ -1,0 +1,450 @@
+---
+title: "From grammatical functions to inflections"
+subtitle: "Bock & Levelt (1994), sections III to VI"
+author: "Utku Turk"
+institute: "LING 449U, How words are built"
+date: "2026-09-17"
+description: "Case, inflectional stranding, and number agreement in Bock and Levelt. How grammatical features determine the forms speakers produce."
+categories: [Week 3]
+format:
+  revealjs:
+    theme: [default, custom.scss]
+    slide-number: c/t
+    incremental: false
+    history: false
+    transition: none
+    fig-align: center
+    show-notes: false
+---
+
+## Function assignment and case
+
+*She was handing him some broccoli.*
+
+| Selected pronoun | Assigned function | Form |
+|---|---|---|
+| Feminine | Nominative / subject | **she** |
+| Masculine | Dative / recipient object | **him** |
+
+If the functions are exchanged: *He was handing her some broccoli.*
+
+::: {.prompt}
+Why do we get *he* and *her*, rather than *him* and *she*?
+:::
+
+::: footer
+Bock & Levelt 1994, I and III.A
+:::
+
+::: {.notes}
+Start with the forms. Selecting a pronoun does not by itself determine
+whether it will be she or her, he or him. Its grammatical function matters.
+In the exchange, the masculine pronoun receives nominative and comes out as
+he. The feminine pronoun receives dative and comes out as her.
+
+The chapter's observed error they must be too tight for you becoming you
+must be too tight for them has the same property. The pronoun takes the case
+appropriate to its erroneous function. Verbs in phrase exchanges also tend
+to agree with the subject actually produced. These are reasons to locate the
+exchange before the final case and agreement forms are fixed.
+
+The authors use case labels for functional assignments. English him does not
+have a special dative form distinct from its other object uses. Dative here
+names the function assigned in their analysis.
+
+If needed, distinguish function from event role and position. The bone is the
+theme in both a dog carried the bone and the bone was carried by a dog, but
+its function differs. Him is an object even in him I can't stand. In the
+chapter's proposal, functions are assigned once and then maintained during
+assembly.
+:::
+
+## Assigning nominative first
+
+> "... at least in English, there is a preference for combinations of elements
+> that permit the nominative function to be assigned first."
+
+*She seems to be feeding the dog.*
+
+::: {.prompt}
+What must the speaker have planned before assigning nominative to *she*?
+Which verb determines her role in the event: *seems* or *feeding*?
+:::
+
+::: footer
+Bock & Levelt 1994, III.B.2, p. 966; classroom example
+:::
+
+::: {.notes}
+Read the quotation, then give students a minute with the sentence. Ask them
+to propose a planning order: which lemmas and grammatical relations would
+need to be available before the speaker begins with she?
+
+She is the subject of seems, but her agent role comes from feeding. Seems
+does not describe a separate action that she performs. How does the planner
+connect that participant to the nominative function of the main clause?
+
+Ask whether selecting seems is enough, or whether the speaker also needs
+information about feeding and its agent. How much of the lower clause must
+be prepared? Would the dog need to be selected already? Let students compare
+possible procedures before offering an answer.
+
+The quotation proposes a preference for assigning nominative before other
+functions. It does not specify that the nominative expression must be the
+first lemma selected, or that its form is ready before either verb. The
+preceding clause explicitly allows functions to be assigned in other orders
+or simultaneously. This example asks what advance preparation the preference
+requires when the subject's event role comes from a later verb.
+
+The choice of verb constrains function assignment: compare many people fear
+snakes with snakes frighten many people. Conceptual accessibility also matters.
+Asking about the boy in a chasing scene can favor he was being chased by a girl.
+The participant made prominent in discourse tends to become the subject.
+:::
+
+## Function words and affixes
+
+For a definite, plural noun phrase: *the goats*.
+
+| | Garrett | Lapointe and Dell |
+|---|---|---|
+| Article *the* | Already in the frame | Inserted into a definite determiner slot |
+| Plural *-s* | Already in the frame | Already in the frame |
+| Stem *goat* | Supplied separately | Supplied separately |
+
+In Lapointe's aphasia data, function words tended to be **omitted**;
+affixes tended to be **replaced**.
+
+::: footer
+Bock & Levelt 1994, V.A and V.B; example adapted from their definite plural NP
+:::
+
+::: {.notes}
+What has to be supplied to produce the goats? We need the stem, definite
+article, and plural marking. The two accounts disagree about which of these
+are already specified in the frame.
+
+For Garrett, the closed class elements help constitute the grammatical frame.
+A definite plural noun phrase includes the article and plural suffix, with a
+slot for the stem. Lapointe and Dell leave the affix in the frame but insert
+the article into a slot specified as definite. They assume one filler for a
+designated function-word slot, without competition among candidates.
+
+The omission-versus-replacement pattern in English and Italian aphasic speech
+motivated that distinction: affixes appeared more tightly tied to the frame.
+Ask what an omitted article versus a replaced number affix would sound like
+in the goats. This is an illustration of the distinction, not a quotation
+of an individual patient's response.
+
+Closed class elements also participate less often in spontaneous errors than
+content words. Frequency is a competing explanation, because function words
+are extremely frequent. Garrett cited class differences after frequency was
+controlled and disproportionate loss of function words in some aphasic speech.
+
+Bock found equally strong structural priming with the same or different
+function words. That challenges an account equating the frame entirely with
+those words. The repeated structure carries information beyond its particular
+articles or prepositions.
+
+At phonological encoding, Lapointe and Dell give function and content words
+the same operations. Dell's elicited sound-error results supported similar
+susceptibility when other factors were controlled.
+:::
+
+## Inflectional stranding
+
+Intended: *You **ended** up **ordering** some fish dish.*
+
+Produced: *You **ordered** up **ending** some fish dish.*
+
+| | First verb | Second verb |
+|---|---|---|
+| Intended | **end** + ed | **order** + ing |
+| Produced | **order** + ed | **end** + ing |
+
+The stems exchange; the inflections stay. Both frame accounts predict this.
+
+::: footer
+Bock & Levelt 1994, V.C; Garrett, cited as in press
+:::
+
+::: {.notes}
+Read the produced sentence aloud. Ask students to identify the pieces that
+moved before walking through the table. A swap of the whole words would have
+moved the inflections too.
+
+Both Garrett's model and the mixed model explain this as a lexical error
+with an intact frame. The appropriate inflectional slots remain available,
+but the wrong stems fill them. This tells us why stranding is evidence for
+separate stem and affix assembly without choosing between the two accounts.
+
+Stemberger found stranding in 88.9 percent of the errors where it was possible
+in his corpus. The denominator is eligible errors, not all speech errors.
+
+The authors use errors along morphological boundaries to challenge accounts
+that give regular inflected forms no explicit stem-and-affix organization.
+Those accounts would still have to explain why stems exchange while inflections
+remain appropriate to their positions.
+
+The next question is how those positions acquired their grammatical features.
+Where does a plural specification come from, and how does it lead to a form?
+:::
+
+## Plural number and its realization
+
+| Selected noun | SINGULAR | PLURAL |
+|---|---|---|
+| *goat* | goat | goat + **s** |
+| *sheep* | sheep | sheep |
+
+**PLURAL** is a grammatical feature. Its realization depends on the noun.
+
+::: {.prompt}
+*Two sheep are outside.* Which word shows number agreement, even though
+*sheep* has no plural suffix?
+:::
+
+::: footer
+Bock & Levelt 1994, V.C; classroom sentence
+:::
+
+::: {.notes}
+Work across each row. Goat has a visible difference between singular and
+plural; sheep does not. A speaker still needs a plural specification for
+plural sheep. The absence of a suffix does not remove grammatical number.
+
+The chapter describes this through the selected lemma's requirements. A plural
+goat lemma calls for a noun phrase with an affix on the head noun. A plural
+sheep lemma calls for no affix. This extends indirect election: a selected
+lemma requires particular grammatical material, as listen requires to.
+
+In two sheep are outside, two tells us the quantity, and are shows plural
+agreement. Compare one sheep is outside. The noun's pronunciation stays the
+same while the verb changes. Give students a moment to explain why an account
+that simply looks for a plural suffix on the noun would fail here.
+
+For the chapter's architecture, keep the grammatical specification at the
+lemma level distinct from its eventual form. In a regular plural, positional
+processing provides the stem-and-affix arrangement, and phonological encoding
+supplies its pronunciation.
+:::
+
+## How does the verb get its number?
+
+*The **key** to the cabinets **is** missing.*
+
+*The **keys** to the cabinet **are** missing.*
+
+| In the first sentence | What gets specified |
+|---|---|
+| Subject head | *key*: SINGULAR |
+| Agreement | The finite verb receives the subject's number |
+| Realization | Present-tense *be*, third-person singular: **is** |
+
+Attraction error: *The key to the cabinets **are** missing.*
+
+::: footer
+Bock & Levelt 1994, V.C; classroom examples
+:::
+
+::: {.notes}
+Ask which noun controls the verb in each sentence. The subject head does:
+key goes with is, keys with are. The nearest noun gives the wrong answer in
+both examples. An agreeing verb needs access to the structural relation.
+
+Walk through the table for the first sentence. Functional processing links
+the noun lemma key to the subject function, with singular number. The finite
+verb needs the same number. Bock and Levelt favor the proposal that it inherits
+number from the subject. Present tense, third person, and singular together
+require is here. Grammatical features must be available before the final
+inflected form can be produced.
+
+This is agreement: the verb's number is dependent on the subject's number.
+It is different from choosing plural because the message contains several
+objects. The first sentence describes several cabinets but still requires is.
+
+Now read the error. Cabinets has influenced agreement even though it is not
+the head of the subject. The output has a real plural verb form in the wrong
+dependency. Attraction is therefore useful evidence about the features used
+to produce inflection.
+
+For a regular verb, compare the key fits and the keys fit. The noun suffix
+marks plural in keys; the verb suffix marks third-person singular in fits.
+The same written s does different grammatical work. Agreement requires matching
+features, not copying a suffix from the noun onto the verb.
+:::
+
+## Which property causes attraction?
+
+*The picture of the ___ **is** on the wall.*
+
+| Local noun | Grammatical number | Ends in /s/ or /z/? |
+|---|---|---|
+| cabinet | Singular | No |
+| cabinets | Plural | Yes |
+| children | Plural | No |
+| rose | Singular | Yes |
+
+In the studies reviewed, **grammatical plurality** reliably caused attraction,
+including when the plural was irregular.
+
+::: footer
+Bock & Levelt 1994, V.C; Bock & Miller 1991; Bock & Eberhard 1993; classroom items
+:::
+
+::: {.notes}
+The previous slide identified the wrong source of agreement. This slide asks
+which property of that noun causes interference. The examples illustrate the
+comparisons; they are not the original study's item set.
+
+Cabinets bundles together several objects, grammatical plural number, and a
+plural-sounding ending. Children is grammatically plural without a final s
+or z. Rose is singular despite its final z. Cabinet supplies a singular
+comparison without that ending.
+
+Before discussing the finding, ask which nouns a sound-based account would
+predict to interfere. It should group cabinets with rose. An account based
+on grammatical number groups cabinets with children. The studies reviewed
+found reliable effects of grammatical plurality, rather than plural-like
+pronunciation or regularity of plural marking.
+
+They also tested conceptual multiplicity. That did not reliably produce
+attraction in these studies. This matters because the authors use attraction
+to argue that lemmas supply number features to agreement. It is their inference
+from the experiments reviewed here, not a claim that meaning never affects
+agreement.
+
+For an actual experiment, use several nouns per condition and control lexical
+properties. These four different nouns alone would not establish an effect
+of number or sound. Count plural finite verbs out of the completions in which
+agreement can be scored.
+:::
+
+## Agreement across a clause boundary
+
+**Phrase:** *The claim [about the newborn babies] ...*
+
+**Clause:** *The claim [that wolves had raised the babies] ...*
+
+In both, singular *claim* requires **was**. Plural *babies* can attract **were**.
+
+::: {.fragment}
+Errors were more likely after phrase modifiers. Putting *babies* in an
+embedded clause reduced its interference with main-clause agreement.
+:::
+
+::: footer
+Bock & Levelt 1994, III.C; Bock & Cutting 1992
+:::
+
+::: {.notes}
+Claim is the singular head of the subject. Babies is plural and can attract
+plural agreement: the claim about the newborn babies were rejected.
+
+Bock and Cutting asked speakers to complete subject phrases. The critical
+fragments ended in a plural noun, either inside a phrase or inside an embedded
+clause. The study controlled syllable length; the examples here are the
+chapter's illustrations.
+
+Ask for predictions before showing the result. If the extra clause adds a
+disruptive processing load, it could cause more errors. If verbs organize
+separate planning units, babies could interfere less when it belongs to raised.
+
+Across three experiments, errors were more frequent after phrase modifiers.
+The authors take this as evidence for organization around verbs and their
+arguments. The embedded clause reduced interference with the main clause's
+agreement. It did not eliminate it.
+:::
+
+## Design an agreement experiment {.smaller}
+
+| Modifier | Singular local noun | Plural local noun |
+|---|---|---|
+| Phrase | The claim about the newborn baby ... | The claim about the newborn babies ... |
+| Clause | The claim that wolves had raised the baby ... | The claim that wolves had raised the babies ... |
+
+Groups of three, ten minutes:
+
+1. Write one new item in all four versions.
+2. Specify how you will elicit and score agreement.
+3. Predict where speakers will produce a plural verb in error.
+4. Identify one confound and address it.
+
+::: footer
+Bock & Levelt 1994, III.C; class exercise based on Bock & Cutting 1992
+:::
+
+::: {.notes}
+Allow ten minutes for groups of three, then hear two reports. Each group
+writes a new item in all four conditions and explains what they would count.
+These four conditions are a class design exercise based on the chapter.
+
+The singular local noun provides a baseline within each modifier type.
+Protection predicts a larger plural-minus-singular increase in errors for
+phrase modifiers than for clause modifiers.
+
+Ask how groups will elicit number-marked finite verbs. They need to decide how
+to score self-corrections and completions that change the subject or contain
+no audible number contrast. Recordings let them count errors speakers may
+not notice.
+
+Each participant should see one version of each item. Rotate the versions
+across lists, use multiple items and fillers, and vary the order. Match length
+and plausibility. The original study controlled syllable length.
+
+Wolves is another plural noun in the clause conditions. Groups could replace
+it with the doctor and consider the effects on length and meaning. During
+reports, ask for the predicted pattern and one change to the materials.
+:::
+
+## Change the subject
+
+*She **was** hand**ing** him some broccoli.*
+
+| Grammatical information | Realization in this sentence |
+|---|---|
+| Subject and object functions | **she**, **him** |
+| Past progressive | **was** + hand**ing** |
+| Singular subject agreement | **was** |
+
+::: {.prompt}
+Replace *she* with *they*. Which forms change? Which stay?
+Where does the information for each change come from?
+:::
+
+::: footer
+Bock & Levelt 1994, VI, Fig. 6; classroom comparison
+:::
+
+::: {.notes}
+Give students a minute to write the changed sentence and explain it.
+The result is they were handing him some broccoli. They is the subject form
+of the plural pronoun. Were replaces was because the subject's number has
+changed. Handing stays progressive; him stays an object. The past tense and
+the event's aspect have stayed the same.
+
+The table makes a further point: was expresses more than one grammatical
+specification. Features need not have separate, visibly segmentable affixes.
+That is also why the chapter groups auxiliaries with affixes when discussing
+how grammatical information is realized.
+
+Ask what would change if the speaker intended a present ongoing event instead.
+They are handing him some broccoli changes tense while preserving plural
+agreement and progressive aspect. Use this to distinguish information about
+the event from information required by a grammatical dependency.
+
+In the chapter's architecture, functional processing provides lemmas,
+functions, and feature dependencies. Positional processing assembles ordered
+phrase structure and inflectional slots. Phonological encoding supplies forms.
+These processes can work incrementally on parts of the utterance.
+
+Constituent assembly provides hierarchy as well as order. The chapter contrasts
+Yngve's top-down, left-to-right generator with de Smedt's incremental assembly
+of compatible fragments. The agreement examples depend on that hierarchy:
+the subject head and the finite verb must remain linked across intervening
+material.
+
+The chapter ends by arguing for explicit models tested against controlled
+production data. Stranding and attraction constrain how a model connects
+grammatical specifications to the forms speakers produce.
+:::

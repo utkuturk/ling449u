@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="570" viewBox="0 0 1100 570" role="img" aria-labelledby="title desc">
+  <title id="title">Distributed Morphology: a map of the grammar</title>
+  <desc id="desc">Features and roots feed syntax. Syntax branches to morphological operations then phonological form, and to logical form then the conceptual interface. Vocabulary Items feed phonological form. The Encyclopedia feeds the conceptual interface.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="none" stroke="#555" stroke-width="1.5"/></marker>
+    <style>
+      text { font-family: Inter, Helvetica, Arial, sans-serif; fill: #1a1a1a; text-anchor: middle; font-size: 23px; }
+      .small { font-size: 19px; fill: #555; }
+      .heading { font-weight: 650; }
+      .store { fill: #f4f1ea; stroke: #b2a99d; stroke-width: 2; rx: 10; }
+      .process { fill: #fff; stroke: #777; stroke-width: 2; rx: 10; }
+      .syntax { fill: #fbefef; stroke: #8c1515; stroke-width: 2; rx: 10; }
+      .flow { fill: none; stroke: #555; stroke-width: 2; marker-end: url(#arrow); }
+      .access { stroke-dasharray: 7 5; }
+    </style>
+  </defs>
+  <rect class="store" x="300" y="15" width="500" height="78"/>
+  <text class="heading" x="550" y="47">Syntactic inputs: features and roots</text>
+  <text class="small" x="550" y="75">e.g. [past], [plural], √SMILE</text>
+  <path class="flow access" d="M550 93 L550 149"/>
+  <rect class="syntax" x="435" y="150" width="230" height="64"/>
+  <text class="heading" x="550" y="190">Syntax</text>
+  <path class="flow" d="M550 214 L280 292"/><path class="flow" d="M550 214 L820 292"/>
+  <rect class="process" x="110" y="295" width="340" height="70"/>
+  <text class="heading" x="280" y="338">Morphological operations</text>
+  <rect class="process" x="690" y="295" width="260" height="70"/>
+  <text class="heading" x="820" y="338">Logical form (LF)</text>
+  <path class="flow" d="M280 365 L280 468"/><path class="flow" d="M820 365 L820 468"/>
+  <rect class="store" x="12" y="387" width="210" height="67"/>
+  <text class="heading" x="117" y="414">Vocabulary</text><text class="small" x="117" y="440">realization rules</text>
+  <path class="flow access" d="M150 454 L185 470"/>
+  <rect class="store" x="882" y="387" width="205" height="67"/>
+  <text class="heading" x="984" y="414">Encyclopedia</text><text class="small" x="984" y="440">conventional meanings</text>
+  <path class="flow access" d="M962 454 L925 470"/>
+  <rect class="process" x="90" y="472" width="380" height="85"/>
+  <text class="heading" x="280" y="505">Phonological form (PF)</text><text class="small" x="280" y="535">Vocabulary Insertion · linearization</text>
+  <rect class="process" x="655" y="472" width="330" height="85"/>
+  <text class="heading" x="820" y="505">Conceptual interface</text><text class="small" x="820" y="535">interpretation in context</text>
+</svg>
