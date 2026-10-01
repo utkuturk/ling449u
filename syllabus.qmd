@@ -3,6 +3,16 @@ title: "Syllabus"
 subtitle: "LING 449U &middot; How words are built &middot; Fall 2026"
 toc: true
 toc-location: left
+listing:
+  id: presentations
+  contents: slides/*.qmd
+  type: table
+  sort: "date asc"
+  fields: [date, title]
+  date-format: "MMM D"
+  categories: false
+  filter-ui: false
+  sort-ui: false
 ---
 
 ## Basics
@@ -79,6 +89,11 @@ If you would ever like me to print out a text for you, though, just email me
 ahead of time and I would be happy to do so.
 
 The week-by-week plan is on the [schedule](schedule.qmd) page.
+
+## Class slides
+
+::: {#presentations}
+:::
 
 ## Course structure
 

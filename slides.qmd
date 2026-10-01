@@ -3,16 +3,13 @@ title: "Slides"
 listing:
   id: decks
   contents: slides/*.qmd
-  type: default
+  type: table
   sort: "date desc"
-  fields: [date, title, subtitle, description, categories]
-  field-display-names:
-    subtitle: "Reading"
+  fields: [date, title]
   date-format: "MMM D"
   categories: false
   filter-ui: false
   sort-ui: false
-  image-placeholder: ""
 ---
 
 Slides go up after class. Use the arrow keys or swipe. Press <kbd>?</kbd> inside
@@ -20,9 +17,4 @@ a deck for the rest of the shortcuts, <kbd>f</kbd> for fullscreen, and
 <kbd>e</kbd> for a printable view.
 
 ::: {#decks}
-:::
-
-::: {.note}
-This list builds itself from the decks in `slides/`, so a deck shows up here the
-moment it is added. If a link is missing, the class has not happened yet.
 :::
