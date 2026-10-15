@@ -1,0 +1,417 @@
+---
+title: "Features vs. Form"
+subtitle: "Schiller & Caramazza (2003)"
+author: "Utku Turk"
+institute: "LING 449U, How words are built"
+date: "2026-10-15"
+description: "The gender congruency effect, two hypotheses about where it arises, eight picture-word experiments in German and Dutch, and what the results mean for serial models."
+categories: [Week 7]
+format:
+  revealjs:
+    theme: [default, custom.scss]
+    slide-number: c/t
+    incremental: false
+    history: false
+    transition: none
+    fig-align: center
+    show-notes: false
+---
+
+## Gender in the noun phrase {.smaller}
+
+|        | Singular | Plural |
+|--------|----------|--------|
+| German | **der** Stuhl, **die** Tür, **das** Buch | **die** Stühle, **die** Türen, **die** Bücher |
+| Dutch  | **de** stoel, **het** boek | **de** stoelen, **de** boeken |
+
+- **Gender** is a lexical property of the noun: *car* is **das** Auto, **la** voiture, **el** coche, **de** auto.
+- **Number** is set by the context: one chair or two.
+
+::: {.claim}
+In both languages the article marks gender in the singular only.
+:::
+
+::: footer
+Schiller & Caramazza 2003, pp. 170 to 172
+:::
+
+## The task: picture-word interference
+
+:::: {.columns}
+::: {.column width="40%"}
+::: {.stim}
+::: {.pic}
+🪑
+:::
+::: {.word}
+KLEID
+:::
+:::
+:::
+::: {.column width="60%"}
+- **Say:** *der Stuhl* 'the chair'
+- **Ignore:** *Kleid* 'dress', neuter (*das*)
+- **Congruent distractor:** *Keks* 'cookie', masculine (*der*)
+- **Measure:** time to speech onset
+:::
+::::
+
+::: {.claim}
+Gender congruency effect: naming is slower when the distractor's gender differs from the picture name's.
+:::
+
+::: footer
+Items from Schiller & Caramazza 2003, Appendix A; effect first reported by Schriefers 1993
+:::
+
+## Where the effect shows up, and where it does not
+
+- **Found:** Dutch (Schriefers 1993; Van Berkum 1997; La Heij et al. 1998), German (Schriefers & Teruel 2000).
+- **Absent with bare nouns:** naming the picture without an article (La Heij et al. 1998).
+- **Not found:** Italian, Catalan, Spanish, French (Miozzo & Caramazza 1999; Costa et al. 1999; Alario & Caramazza 2002).
+
+::: {.prompt}
+Why would Dutch and German show the effect when Romance languages do not?
+:::
+
+::: footer
+Schiller & Caramazza 2003, pp. 170 to 171
+:::
+
+## Early and late article choice
+
+- **Italian:** the article depends on gender **and** the sound of the next word.
+  - *il tavolo* 'the table', *lo strano tavolo* 'the strange table'
+  - *lo scienziato* 'the scientist', *il grande scienziato* 'the great scientist'
+- **German, Dutch:** gender, number, and case alone fix the article.
+
+::: {.claim}
+Dutch and German speakers can choose the article early; Italian speakers must wait for the next word's sounds.
+:::
+
+::: footer
+Miozzo & Caramazza 1999, as discussed in Schiller & Caramazza 2003, pp. 170 to 171
+:::
+
+## Two hypotheses
+
+- **Gender selection interference (GSIH):** the distractor's **gender feature** competes with the target's gender feature (Schriefers 1993).
+- **Determiner selection interference (DSIH):** the distractor's **article** competes with the target's article (Miozzo & Caramazza 1999).
+
+::: {.prompt}
+Both predict a singular effect. What would tell them apart?
+:::
+
+::: footer
+Schiller & Caramazza 2003, pp. 170 to 172
+:::
+
+## Predictions: the plural
+
+| Response | Incongruent distractor | Gender differs? | Article differs? |
+|---|---|---|---|
+| *der Stuhl* (one chair) | *Kleid* | yes | yes: *der* vs. *das* |
+| *die Stühle* (two chairs) | *Kleid* | yes | no: *die* for every gender |
+
+- **GSIH:** effect in the singular **and** the plural.
+- **DSIH:** effect in the **singular only**.
+
+::: footer
+Schiller & Caramazza 2003, p. 172
+:::
+
+## Eight experiments {.smaller}
+
+| Exp. | Language | Response | What varies |
+|---|---|---|---|
+| 1a | German | Det + N | one or two objects |
+| 1b | German | Adj + N | one or two objects |
+| 1c | German | Det + Adj + N | one or two objects |
+| 2a | Dutch | Det + N | one or two objects; three SOAs |
+| 2b | Dutch | Det + N | number cued by a tone |
+| 3 | Dutch | Det + N | singular and plural distractors |
+| 4a | Dutch | Adj + N | singular only; extra related distractors |
+| 4b | Dutch | Det + Adj + N | same pictures as 4a |
+
+::: footer
+Schiller & Caramazza 2003; 15 to 27 participants per experiment; 60 German pictures, 22 Dutch pictures
+:::
+
+## Experiment 1: conditions {.smaller}
+
+|  | Congruent: *Keks* (der) | Incongruent: *Kleid* (das) | Response: 1a, 1b, 1c |
+|---|---|---|---|
+| One object | <span class="stim mini"><span class="pic">🪑</span><span class="word">KEKS</span></span> | <span class="stim mini"><span class="pic">🪑</span><span class="word">KLEID</span></span> | der Stuhl<br>roter Stuhl<br>der rote Stuhl |
+| Two objects | <span class="stim mini"><span class="pic">🪑🪑</span><span class="word">KEKS</span></span> | <span class="stim mini"><span class="pic">🪑🪑</span><span class="word">KLEID</span></span> | die Stühle<br>rote Stühle<br>die roten Stühle |
+
+Same 60 pictures in 1a, 1b, 1c. In 1b and 1c the pictures are red or green; the responses above are for red.
+
+::: footer
+Items from Schiller & Caramazza 2003, Appendix A; procedure pp. 174 to 175
+:::
+
+## Experiment 1: results {.smaller}
+
+| Exp. | Response | Singular effect | Plural effect |
+|---|---|---|---|
+| 1a | Det + N | **+20 ms** | −9 ms |
+| 1b | Adj + N | −3 ms | −6 ms |
+| 1c | Det + Adj + N | **+16 ms** | −7 ms |
+
+Effect = incongruent minus congruent. **Bold** = reliable by participants and by items.
+
+- Articles in the singular: effect. One article in the plural: no effect.
+- Adjective suffix only (1b): no effect in either number.
+
+::: footer
+Schiller & Caramazza 2003, Tables 1 to 3, pp. 176 to 177
+:::
+
+## Why Experiment 2?
+
+- **Language:** the effect was first found in Dutch (Schriefers 1993). Does the plural null hold there too?
+- **Timing:** the effect was largest at SOA 0 in Schriefers (1993). Experiment 1 tested only SOA 0, so 2a adds a distractor 100 ms before and 100 ms after the picture.
+
+::: footer
+Schiller & Caramazza 2003, p. 179
+:::
+
+## Experiment 2a: conditions {.smaller}
+
+|  | Congruent: *glas* (het) | Incongruent: *klap* (de) | Response |
+|---|---|---|---|
+| One object | <span class="stim mini"><span class="pic">📖</span><span class="word">GLAS</span></span> | <span class="stim mini"><span class="pic">📖</span><span class="word">KLAP</span></span> | het boek |
+| Two objects | <span class="stim mini"><span class="pic">📖📖</span><span class="word">GLAS</span></span> | <span class="stim mini"><span class="pic">📖📖</span><span class="word">KLAP</span></span> | de boeken |
+
+Every cell at three SOAs: distractor 100 ms before, with, or 100 ms after the picture.
+
+::: footer
+Items from Schiller & Caramazza 2003, Appendix B; procedure pp. 179 to 181
+:::
+
+## Experiment 2a: results
+
+| Distractor onset | Singular effect | Plural effect |
+|---|---|---|
+| 100 ms before the picture | **+16 ms** | +2 ms |
+| with the picture | **+31 ms** | +11 ms |
+| 100 ms after the picture | **+36 ms** | +6 ms |
+
+Singular effect at every SOA; no reliable plural effect at any SOA.
+
+::: footer
+Schiller & Caramazza 2003, Table 6, p. 181
+:::
+
+## Experiment 2b: conditions {.smaller}
+
+**Concern:** on seeing two objects, speakers could pick *de* at once without checking gender.
+
+|  | Congruent: *glas* (het) | Incongruent: *klap* (de) | Response |
+|---|---|---|---|
+| Low tone | <span class="stim mini"><span class="pic">📖</span><span class="word">GLAS</span></span> | <span class="stim mini"><span class="pic">📖</span><span class="word">KLAP</span></span> | het boek |
+| High tone | <span class="stim mini"><span class="pic">📖</span><span class="word">GLAS</span></span> | <span class="stim mini"><span class="pic">📖</span><span class="word">KLAP</span></span> | de boeken |
+
+Always one object. The tone comes 300 ms after picture onset.
+
+::: footer
+Schiller & Caramazza 2003, p. 180
+:::
+
+## Experiment 2b: results
+
+| Singular effect | Plural effect |
+|---|---|
+| **+20 ms** | −2 ms |
+
+::: {.claim}
+The plural null holds even when the article cannot be chosen from the picture alone.
+:::
+
+::: footer
+Schiller & Caramazza 2003, Table 7, pp. 181 to 182
+:::
+
+## Experiment 3: conditions {.smaller}
+
+- So far distractors were singular, so a neuter distractor could activate *het*.
+- Plural distractors were added: their article is *de* for every gender.
+
+|  | Congruent, sg | Congruent, pl | Incongruent, sg | Incongruent, pl |
+|---|---|---|---|---|
+| *het boek* | <span class="stim mini"><span class="pic">📖</span><span class="word">GLAS</span></span> | <span class="stim mini"><span class="pic">📖</span><span class="word">GLAZEN</span></span> | <span class="stim mini"><span class="pic">📖</span><span class="word">KLAP</span></span> | <span class="stim mini"><span class="pic">📖</span><span class="word">KLAPPEN</span></span> |
+| *de boeken* | <span class="stim mini"><span class="pic">📖📖</span><span class="word">GLAS</span></span> | <span class="stim mini"><span class="pic">📖📖</span><span class="word">GLAZEN</span></span> | <span class="stim mini"><span class="pic">📖📖</span><span class="word">KLAP</span></span> | <span class="stim mini"><span class="pic">📖📖</span><span class="word">KLAPPEN</span></span> |
+
+::: footer
+Schiller & Caramazza 2003, pp. 183 to 184; plural forms of the Appendix B distractors
+:::
+
+## Experiment 3: results
+
+| Target | Singular distractor | Plural distractor |
+|---|---|---|
+| Singular | **+21 ms** | **+22 ms** |
+| Plural | 0 ms | −4 ms |
+
+::: {.claim}
+Only the distractor's gender matters. Number comes from the picture.
+:::
+
+::: footer
+Schiller & Caramazza 2003, Table 10, pp. 183 to 185
+:::
+
+## Experiment 4: conditions {.smaller}
+
+| Congruent | Incongruent | Semantic | Phonological |
+|---|---|---|---|
+| <span class="stim mini"><span class="pic">🐑</span><span class="word">NEST</span></span> | <span class="stim mini"><span class="pic">🐑</span><span class="word">KERS</span></span> | <span class="stim mini"><span class="pic">🐑</span><span class="word">HERT</span></span> | <span class="stim mini"><span class="pic">🐑</span><span class="word">SCHAAK</span></span> |
+| *nest* 'nest' (het) | *kers* 'cherry' (de) | *hert* 'deer' (het) | *schaak* 'chess' (het) |
+
+Response to a red sheep: *rood schaap* (4a), *het rode schaap* (4b).
+
+One object only; pictures red, green, blue, or purple.
+
+::: footer
+Items from Schiller & Caramazza 2003, Appendix C; procedure pp. 185 to 186
+:::
+
+## Experiment 4: results {.smaller}
+
+| Exp. | Response | Congruent | Incongruent | Effect |
+|---|---|---|---|---|
+| 4a | Adj + N | 738 ms | 734 ms | −4 ms |
+| 4b | Det + Adj + N | 750 ms | 766 ms | **+16 ms** |
+
+- Phonologically related distractors sped naming in both: the distractors were processed.
+- 4a fails to replicate Schriefers (1993, Exp. 2).
+- 4b: reliable by participants, marginal by items (*p* = .056).
+
+::: {.claim}
+With the same materials, the effect appears only when the response contains an article.
+:::
+
+::: footer
+Schiller & Caramazza 2003, Tables 11 and 12, pp. 185 to 187
+:::
+
+# What the results mean
+
+## What the eight experiments show
+
+| Response | Article differs by gender? | Congruency effect? | Experiments |
+|---|---|---|---|
+| Singular + article | [yes]{.hl} | [yes]{.hl} | 1a, 1c, 2a, 2b, 3, 4b |
+| Plural + article | no | no | 1a, 1c, 2a, 2b, 3 |
+| Adjective + noun | no article | no | 1b, 4a |
+
+::: {.claim}
+The "gender congruency effect" is a **determiner congruency effect**.
+:::
+
+::: footer
+Schiller & Caramazza 2003, pp. 187 to 190
+:::
+
+## Where is the competition?
+
+| Level | Competitive? | Evidence |
+|---|---|---|
+| Gender feature | no | gender still differs in the plural, but no effect |
+| Article form | [yes]{.hl} | effect only where the articles differ |
+
+::: {.claim}
+Selecting a noun makes its gender available automatically; only forms compete.
+:::
+
+::: footer
+Schiller & Caramazza 2003, pp. 187 to 188
+:::
+
+## Why no effect with adjective suffixes?
+
+| Option | Idea |
+|---|---|
+| Free vs. bound | free-standing *der* competes; the suffix *-er* in *rot-er* does not |
+| Timing | suffixes attach late, after the competition is resolved |
+
+The paper cannot choose between them.
+
+::: footer
+Schiller & Caramazza 2003, pp. 187 to 188
+:::
+
+## Article competition and serial models
+
+|  | Word | Gender | Article |
+|---|---|---|---|
+| Picture, said | *Stuhl* | masculine | *der* |
+| Distractor, never said | *Kleid* | neuter | [*das*]{.hl} |
+
+::: {.claim}
+*das* is not on the screen, so only *Kleid*'s gender can activate it. Discrete serial models (Levelt et al. 1999) do not allow this; cascading models do.
+:::
+
+::: footer
+Schiller & Caramazza 2003, pp. 173 and 188; Levelt, Roelofs & Meyer 1999
+:::
+
+## Is gender skipped in the plural?
+
+If it were, gender competition (GSIH) could survive the plural null. Naming without distractors:
+
+|  | Masculine | Feminine | Neuter |
+|---|---|---|---|
+| Singular | [*der*]{.hl} 653 ms | *die* 655 ms | [*das*]{.hl} 647 ms |
+| Plural | *die* 673 ms | *die* 649 ms | *die* 681 ms |
+| Plural cost | [+20 ms]{.hl} | −6 ms | [+34 ms]{.hl} |
+
+::: {.claim}
+The singular article competes with *die*: gender is still active in the plural.
+:::
+
+::: footer
+Schriefers, Jescheniak & Hantsch 2002, Exp. 1, Table 1; cited in Schiller & Caramazza 2003, p. 189
+:::
+
+## Agreement needs plural gender
+
+| Phrase | Pronoun | Gender from |
+|---|---|---|
+| *[eine]{.hl} der [Katzen]{.hl} miaute* | feminine | *Katzen*, plural |
+| *[einer]{.hl} der [Hunde]{.hl} bellte* | masculine | *Hunde*, plural |
+
+'one of the cats meowed', 'one of the dogs barked'
+
+::: footer
+Schiller & Caramazza 2003, p. 189
+:::
+
+## A Distributed Morphology reading
+
+**Not in the paper.**
+
+| Vocabulary Item | Inserted in |
+|---|---|
+| D[definite, neuter, singular] ↔ /het/ | het boek |
+| D[definite] ↔ /de/ | de tafel, de tafels, de boeken |
+
+::: {.claim}
+**Impoverishment:** delete [gender] on plural D. The noun keeps its gender, so gender competition on D is possible only in the singular.
+:::
+
+::: footer
+Halle & Marantz 1993; Harley & Noyer 1999; week 5 DM decks
+:::
+
+## Testing the Impoverishment reading
+
+| Finding | Impoverishment | Article competition (DSIH) |
+|---|---|---|
+| Singular effect only | yes | yes |
+| Plural cost: +20, −6, +34 ms | [no]{.hl} | yes |
+| No adjective effect | [only if suffixes are late]{.hl} | yes |
+
+::: footer
+Not in Schiller & Caramazza 2003
+:::

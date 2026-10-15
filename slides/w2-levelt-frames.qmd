@@ -24,17 +24,6 @@ format:
 - Levelt Chapter 9 will give us some of the machinery.
 
 
-::: {.notes}
-Last two classes were Griffin and
-Ferreira, who said out loud that morphologically complex words were out of
-scope. Today is the chapter that has the mechanism.
-
-This is a chapter about sounds, and
-we are stealing the architecture out of it. Nobody needs to have followed the
-segmental spellout sections.
-
-:::
-
 ## Two senses of "morphology"
 
 :::: {.columns}
@@ -53,19 +42,6 @@ The feature PAST. Case, number, person, honorification.
 ::: {.fragment .claim}
 It is not the case that Levelt does not discuss "our" morphology. He himself insists on the split: distinguish diacritical features such as
 "past", "plural", "third person" **from the affixes they induce**.
-:::
-
-::: {.notes}
-Levelt's "morphology" is the shape of the affix: how *-ed* is syllabified, which
-allomorph surfaces. That is not our course. Our morphology is the feature: PAST,
-PLURAL, ACCUSATIVE, honorific.
-
-Read the boxed Levelt sentence out loud, twice if needed. His own architecture
-requires the split. Moreover, the reality of morphosyntax is based on the output.
-
-Ask: what other diacritics would you need for a language you know? Take two or
-three answers, keep them on the board. Turkish case, Korean honorifics, and
-Bulgarian evidentiality all come back on the last slide.
 :::
 
 ## Some examples:
@@ -89,17 +65,6 @@ The position and its filler are separate objects.
 Shattuck-Hufnagel 1979
 :::
 
-::: {.notes}
-[0:05, 2 min] Read the error aloud, then wait. Let them locate the /s/.
-
-The point is the second half: *seeing* did not lose its /s/. The position was
-still there and got filled by the still-available candidate. So the position and
-the thing that fills it are separately stored and separately available.
-
-If someone asks how we know the /s/ was "available early," that is exactly the
-right question and it is the whole basis for the model. Park it.
-:::
-
 ## The unit that moved
 
 *I sould be sheeing him soon*
@@ -121,16 +86,6 @@ right question and it is the whole basis for the model. Park it.
 Shattuck-Hufnagel 1979
 :::
 
-::: {.notes}
-Put the two words on the board split into onset and rime. The exchange is
-/ʃ/ with /s/, two different segments, so this is not a case of one /s/ moving
-into the place of another.
-
-It is also not the syllable that moved: *shou* and *see* stayed put, only the
-onsets traded. The metrical frame holds the slots and the segments are the
-fillers.
-:::
-
 ## Three levels, three kinds of filler {.smaller}
 
 | Level | Frame slots | Fillers |
@@ -138,17 +93,6 @@ fillers.
 | Morphological / metrical | lemma, number, person, tense | lemmas, **diacritic features** |
 | Segmental | stem, affix | morphemes |
 | Phonetic | onset, nucleus, coda | segments and clusters |
-
-::: {.notes}
-[0:07, 2 min] Do not linger on rows 2 and 3. Point at them, say we are skipping
-them, move to row 1.
-
-The line that matters: each level has its own frame with its own slots, and each
-slot only accepts one category of filler. That is what makes some errors
-possible and others impossible.
-
-Row 1 is our row. Levelt gives it about one paragraph.
-:::
 
 ## The morphosyntactic address
 
@@ -201,18 +145,6 @@ metrical shape, not sounds.
 Levelt 1989, 9.2.1; Cutler 1983; Stemberger & MacWhinney 1986
 :::
 
-::: {.notes}
-Walk the frame left to right. Lemma slot, then one slot per
-diacritic. Fill all four and the lock opens; what comes out is *knew*.
-
-Stress that the output at this level is a morpheme string plus a metrical shape,
-with no sounds yet. The word *knew* on the slide is a label, not a pronunciation.
-
-The stored-not-composed bullet usually gets a reaction. Levelt claims every
-frequent inflected form is sitting in the lexicon already. Ask what that leaves for morphology to do. Do not answer;
-it is on the last slide.
-:::
-
 ## `I'd hear one if I knew it`
 
 
@@ -256,19 +188,6 @@ Another possibility: "Tense" is dictated by something else, and not lemmas.
 Garrett 1980
 :::
 
-::: {.notes}
-[0:12, 3 min] Give them the intended sentence, then the error, then the frames.
-
-The move to make visible: the lemmas swapped between frames and the tense
-features stayed in place. *know* arrived in a frame whose tense slot already
-said past, so it came out as *knew*. Irregular, and correct.
-
-This is the first piece of evidence that the feature is a separate filler. If
-tense travelled with the verb we would have heard *knowed* or *know*.
-
-Good place to check comprehension before moving on.
-:::
-
 ## `raining on a hitchy day`
 
 Intended: *hitching on a rainy day*.
@@ -300,16 +219,6 @@ no longer visible.
 Shattuck-Hufnagel 1979
 :::
 
-::: {.notes}
-[0:15, 2 min] Quick. The argument is one step.
-
-*rain* is a noun, *hitch* is a verb. Exchanging lemmas are almost always of the same
-category, so this cannot be the same kind of error as the last slide.
-
-So it happened one level down, at segmental spellout, where the frame has a stem
-slot and an affix slot and no longer knows about syntactic category.
-:::
-
 ## `they needed to be maded`
 
 ::: {.fragment}
@@ -325,22 +234,6 @@ Level 1 delivered the right stem and the affix still went wrong, so PAST and
 Shattuck-Hufnagel 1979; Fromkin 1971
 :::
 
-::: {.notes}
-[0:17, 3 min] The best slide in the deck. Build it in two steps.
-
-Step one: level 1 worked perfectly. *make* plus PAST unlocked *made*. The feature
-did what it was supposed to.
-
-Step two: level 2 then failed, because the *-ed* of *needed* was still available
-and filled the affix slot.
-
-So we get a word that is marked for past twice, by two different mechanisms, at
-two different levels. That is the argument that PAST and *-ed* are not the same
-object. Nothing else in the chapter makes it this cleanly.
-
-The *churches* aside is optional. Use it only if someone pushes back.
-:::
-
 ## Where each error happened
 
 | Error | Level | What moved |
@@ -351,11 +244,6 @@ The *churches* aside is optional. Use it only if someone pushes back.
 
 ::: {.fragment .claim}
 Surface similarity is no guide to which address failed.
-:::
-
-::: {.notes}
-[0:20, 1 min. CUT THIS IF YOU ARE BEHIND.] Just a recap table. Point at the three
-rows, say the line about surface similarity, move on.
 :::
 
 ## What can move at all
@@ -471,17 +359,6 @@ diacritic feature
 :::
 :::
 
-::: {.notes}
-[0:21, 3 min] Let them read the table before you talk.
-
-Then walk the Moves column, not the Level column. Two red rows: distinctive
-features and syllables. Both are units every linguist believes in. Neither shows
-up in the error record.
-
-The last row is the one we care about, and it is a question mark. That is where
-the rest of the class goes.
-:::
-
 
 ##
 
@@ -492,18 +369,6 @@ Q: Is there a diacritic exchange or substitution?
 ::: {.prompt}
 - What would an exchange of two diacritic features look like?
 - Two *features* swapping while the words stay in place.
-:::
-
-::: {.notes}
-[0:26, 2 min] Pose it and let it sit. Every other row on the ladder has attested
-exchanges.
-
-Be precise about what we are asking for: not two words swapping, but two
-features swapping while the words stay in place. Something like intending "the
-cats were sleeping" and producing "the cat were sleeping" with the plural having
-gone somewhere else.
-
-Take guesses. Do not resolve it yet.
 :::
 
 ## One candidate (questionable)
@@ -530,25 +395,6 @@ does not appear anywhere else.
 
 ::: footer
 Bock & Miller 1991
-:::
-
-::: {.notes}
-[0:28, 3 min] Give them the sentence and let someone notice it sounds fine.
-
-That is the point. Agreement attraction is a wrong filler in the right slot:
-PLURAL came from *cabinets* and landed in the number slot of the verb's address.
-Structurally that is a diacritic error.
-
-Then the catch: it is a substitution, not an exchange. Nobody produces the
-displaced singular somewhere else in the sentence.
-
-Discussion beat, 1 minute: is that a fact about features, or about how we count
-errors? An exchange needs both halves to surface. If a feature has no audible
-home of its own, you would never see the second half.
-
-Then the long-distance question. Nothing in the frame says how far a filler can
-travel. Ask whether phonology does anything comparable: vowel harmony crosses a
-whole word, so a harmony error would be the phonological analogue.
 :::
 
 
@@ -583,16 +429,6 @@ Take the onset, add *az*, then say the rime.
 
 ::: footer
 Treiman 1983, 1984
-:::
-
-::: {.notes}
-[0:33, 2 min] Play it. Read the four training pairs out loud and have them repeat.
-Do not explain the rule; let them infer it.
-
-Then ask someone to state the rule. Take the onset, add *az*, say the rime.
-
-Point out what just happened: they now have a productive rule over a unit nobody
-named for them.
 :::
 
 ## `skef`
@@ -630,17 +466,6 @@ Almost all responses were the first. The onset cluster moves as a unit.
 :::
 
 
-::: {.notes}
-[0:35, 2 min] Ask for the answer before you advance. Somebody will say *skaz ef*.
-Ask if anyone said *saz kef*. Usually nobody does.
-
-Both answers fit the training data exactly. The training set had no clusters in
-it, so the game does not tell you what to do with /sk/. They chose anyway, and
-they all chose the same way.
-
-That is evidence that the onset cluster is one addressable unit.
-:::
-
 ## In-class exercise
 
 ::: {.prompt}
@@ -653,34 +478,6 @@ Design one of these, then tell us what it predicts.
 2. Build a game whose rule is over a morphosyntactic slot instead of a syllable
    constituent. What is the frame, what is the slot, what is the filler?
 
-::: {.notes}
-[DISCUSSION. This is the point of the class.] Hand it over and get out of the
-way. One I like: have English speakers learn either something they have the
-'morphological' slot for or something they don't. Maybe honorific agreement?
-Evidentiality? Or maybe the possessive-genitive.
-
-For the L2 version: if Japanese or Turkish speakers answer *saz kef*, is that
-their L1 grammar showing, or did they just learn the game differently? The
-question to land is what evidence would tell you they have an /sk/ slot rather
-than a memorized /sk/ string. Somebody usually proposes a novel cluster.
-
-For the morphosyntactic version, the hard part is the analogue of "a wrong
-answer that was still legal." In the syllable game both answers were consistent
-with training. What is the morphosyntactic version of that fork? Turkish
-accusative, Korean *-si-*, whatever they know.
-
-Warning to give them if there is time: distinctive features are real units and
-they do not move in speech errors. Fromkin's classic feature slips (*clear plus
-sky*, *mity the due teacher*) are almost the only ones anyone has.
-Multiple-feature shifts are far too frequent to be coincidences of
-single-feature ones. So if
-diacritic features behave like distinctive features, a null result in the game
-is uninterpretable: an absent unit and an immovable unit give you the same data.
-Design against that. (Fromkin 1971; Shattuck-Hufnagel & Klatt 1979.)
-
-If it goes well this becomes somebody's final project. Say so.
-:::
-
 
 ## Takeaways
 
@@ -690,11 +487,6 @@ If it goes well this becomes somebody's final project. Say so.
 4. Only units with slots can slip, which excludes syllables and features.
 5. The diacritic row of the ladder is still empty. Whether it can be filled is an
    open question, and a testable one.
-
-::: {.notes}
-[0:48, 1 min] Read 2 and 3 aloud, then stop on 5 and say it is the one you want
-them thinking about. Skip the rest, they can read.
-:::
 
 ## Bring questions
 
@@ -707,11 +499,6 @@ them thinking about. Skip the rest, they can read.
 
 ::: footer
 Reading questions due 11:59pm the night before
-:::
-
-::: {.notes}
-[0:49] Deadline reminder. Point at question 1: it is the one that turns into a
-project.
 :::
 
 # Extra slides {.divider}
@@ -732,13 +519,6 @@ Form comes out in layers, and the layers can come apart.
 Brown & McNeill 1966; Jones & Langford 1987
 :::
 
-::: {.notes}
-[APPENDIX] Use only if someone asks how we know form comes in layers, or if you
-have five minutes spare after the Treiman discussion. TOT gives you the metrical
-shape and the onset with no segments, and a phonological blocker induces it while
-a semantic one does not.
-:::
-
 ## The Unit-Similarity Constraint
 
 ::: {.claim}
@@ -751,9 +531,4 @@ The intruder is of the same level and the same category as the target.
 
 ::: footer
 Shattuck-Hufnagel 1979
-:::
-
-::: {.notes}
-[APPENDIX] The formal statement of what the ladder shows. Pull it up if the class
-wants the principle named rather than demonstrated. Shattuck-Hufnagel 1979.
 :::

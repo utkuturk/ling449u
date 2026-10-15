@@ -31,7 +31,7 @@ Everyone presents one paper from these four weeks.
 | [Week 6]{.week-label} | Oct 6 | Morphology | Zwitserlood et al. 2000 | | Question |
 | | Oct 8 | Morphology | Roelofs 1996 | Roelofs 1998 | Question |
 | [Week 7]{.week-label} | Oct 13 | Morphology | Lane & Ferreira 2010 | | Question |
-| | Oct 15 | Morphology | Schiller & Caramazza 2003 | Costa et al. 2003; Alario et al. 2008 | Question |
+| | Oct 15 | [Morphology](slides/w7-schiller-caramazza.qmd) | Schiller & Caramazza 2003 | Costa et al. 2003; Alario et al. 2008 | Question |
 | [Week 8]{.week-label} | Oct 20 | Morphology | Schriefers et al. 2002; Schriefers et al. 2005 | Schriefers 1993; Paolieri et al. 2011; Gunter et al. 2000 | Question |
 | | Oct 22 | Morphology | Thompson et al. 2002 | Ouardi & Shah 2026; Shah & Thompson 2007 | Question |
 | [Week 9]{.week-label} | Oct 27 | Compounds | Cuonzo et al. 2025 | | Question |

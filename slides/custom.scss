@@ -51,6 +51,12 @@ $presentation-font-size-root: 34px !default;
   margin: 0.6em 0;
 }
 
+// one highlight color, for matching elements in tables
+.reveal .hl {
+  color: #8c1515;
+  font-weight: 700;
+}
+
 // question prompts for discussion
 .reveal .prompt {
   background: #f4f1ea;
@@ -125,6 +131,25 @@ $presentation-font-size-root: 34px !default;
      0 0 14px #fff,  0 0 14px #fff,  0 0 14px #fff,
      2px 2px 0 #fff, -2px -2px 0 #fff,
      2px -2px 0 #fff, -2px 2px 0 #fff;
+}
+
+// a small stimulus inside a condition table
+.reveal .stim.mini {
+  height: 96px;
+  margin: 0;
+}
+
+.reveal .stim.mini .pic {
+  font-size: 66px;
+}
+
+.reveal .stim.mini .word {
+  font-size: 24px;
+  letter-spacing: 0.04em;
+}
+
+.reveal tr:has(.stim.mini) td {
+  vertical-align: middle;
 }
 
 // numbered instructions for a demo
