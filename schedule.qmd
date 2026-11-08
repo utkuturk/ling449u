@@ -15,16 +15,16 @@ Readings are posted on ELMS. Slides go up here after class.
 | | Sep 10 | [Frames, slots, fillers](slides/w2-levelt-frames.qmd) | Levelt 1989, Ch. 9 | Levelt 1989, Ch. 7 | Question |
 | [Week 3]{.week-label} | Sep 15 | [Speech errors](slides/w3-bock-levelt.qmd) | Dell 1995 | Fromkin 1971; Garrett 1975 | Question |
 | | Sep 17 | [Speech errors](slides/w3-bock-levelt-2.qmd) | | | Question |
-| | Sep 20 | | | | **Synthesis I** |
+| | Sep 20 | | | | [**Synthesis I**](synthesis.qmd#synthesis-i) |
 | [Week 4]{.week-label} | Sep 22 | [Simple words and modelling their production](slides/w4-roelofs.qmd) | Roelofs 2000 | Cutting & Ferreira 1999; Roelofs 2002 | Question |
 | | Sep 24 | [Simple words](slides/w4-lampe.qmd) | Lampe et al. 2024 | Levelt & Meyer 2000; Sprenger et al. 2006 | Question |
 | [Week 5]{.week-label} | Sep 29 | [DM Intro](slides/w5-distributed-morphology.qmd) | | | Question |
 | | Oct 1 | [DM + Production](slides/w5-dm-production.qmd) | | | Question |
 | | Oct 4 | | | | **Synthesis II** |
 
-## Weeks 6 to 9 &middot; Lock-in and presentations
+## Weeks 6 to 10 &middot; Lock-in and presentations
 
-Everyone presents one paper from these four weeks.
+Everyone presents one paper from these five weeks.
 
 | | Date | Topic | Main reading | Optional | Due |
 |---|---|---|---|---|---|
@@ -32,24 +32,24 @@ Everyone presents one paper from these four weeks.
 | | Oct 8 | Morphology | Roelofs 1996 | Roelofs 1998 | Question |
 | [Week 7]{.week-label} | Oct 13 | Morphology | Lane & Ferreira 2010 | | Question |
 | | Oct 15 | [Morphology](slides/w7-schiller-caramazza.qmd) | Schiller & Caramazza 2003 | Costa et al. 2003; Alario et al. 2008 | Question |
-| [Week 8]{.week-label} | Oct 20 | Morphology | Schriefers et al. 2002; Schriefers et al. 2005 | Schriefers 1993; Paolieri et al. 2011; Gunter et al. 2000 | Question |
-| | Oct 22 | Morphology | Thompson et al. 2002 | Ouardi & Shah 2026; Shah & Thompson 2007 | Question |
+| [Week 8]{.week-label} | Oct 20 | Wrap up discussion | | | |
+| | Oct 22 | Wrap up discussion | | | |
 | [Week 9]{.week-label} | Oct 27 | Compounds | Cuonzo et al. 2025 | | Question |
 | | Oct 29 | Sentences | Momma & Ferreira 2019 | Ferreira 1996; Konopka & Bock 2009; Ziegler et al. 2019 | Question |
-| | Nov 1 | | | | **Synthesis III** |
+| | Nov 1 | | | | [**Synthesis III**](synthesis.qmd#synthesis-iii) |
+| [Week 10]{.week-label} | Nov 3 | Morphology | Schriefers et al. 2002; Schriefers et al. 2005 | Schriefers 1993; Paolieri et al. 2011; Gunter et al. 2000 | Question |
+| | Nov 5 | Morphology | Thompson et al. 2002 | Ouardi & Shah 2026; Shah & Thompson 2007 | Question; **Project: one paragraph** |
 
-## Weeks 10 to 15 &middot; Building an experiment
+## Weeks 11 to 15 &middot; Building an experiment
 
 | | Date | Topic | Main reading | Due |
 |---|---|---|---|---|
-| [Week 10]{.week-label} | Nov 3 | *Fall break* | | |
-| | Nov 5 | Lab: experiments | Experimentology, Ch. 1 | **Project: one paragraph** |
-| [Week 11]{.week-label} | Nov 10 | Lab: theories | Experimentology, Ch. 1 | |
+| [Week 11]{.week-label} | Nov 10 | Lab: theories | Experimentology, reading 1 ([PDF](files/experimentology/experimentology-reading-1.pdf), [HTML](files/experimentology/experimentology-reading-1.html)) | |
 | | Nov 12 | PCIbex workshop | | |
-| [Week 12]{.week-label} | Nov 17 | Troubleshooting and brainstorming | | |
+| [Week 12]{.week-label} | Nov 17 | Lab: design and sampling | Experimentology, reading 2 ([PDF](files/experimentology/experimentology-reading-2.pdf), [HTML](files/experimentology/experimentology-reading-2.html)) | |
 | | Nov 19 | Student presentations I: an idea you would be passionate about (5 min) | | **Presentation I** |
 | [Week 13]{.week-label} | | *Thanksgiving* | | |
-| [Week 14]{.week-label} | Dec 1 | Lab: design | Experimentology, Ch. 9 | |
+| [Week 14]{.week-label} | Dec 1 | Lab: piloting and preregistration | Experimentology, reading 3 ([PDF](files/experimentology/experimentology-reading-3.pdf), [HTML](files/experimentology/experimentology-reading-3.html)) | |
 | | Dec 3 | PCIbex workshop | | |
 | [Week 15]{.week-label} | Dec 8 | Troubleshooting and brainstorming | | **Project II: draft** |
 | | Dec 10 | Student presentations II: experiment and study plan (10 min) | | **Presentation II** |

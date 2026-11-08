@@ -6,6 +6,8 @@
 
 # never commit readings or any other PDF
 *.[pP][dD][fF]
+# exception: the CC BY-NC Experimentology excerpt readers in files/experimentology/
+!/files/experimentology/*.pdf
 *.epub
 *.doc
 *.docx

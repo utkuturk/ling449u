@@ -4,6 +4,10 @@ project:
   render:
     - "*.qmd"
     - "slides/*.qmd"
+    - "!readings/"
+    - "!notes/"
+  resources:
+    - files/experimentology/*
 
 website:
   title: "LING 449U"
@@ -18,6 +22,10 @@ website:
     right:
       - text: schedule
         href: schedule.qmd
+      - text: readings
+        href: readings.qmd
+      - text: synthesis
+        href: synthesis.qmd
       - text: slides
         href: slides.qmd
       - text: syllabus

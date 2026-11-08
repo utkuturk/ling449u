@@ -1,0 +1,18 @@
+---
+title: "Synthesis"
+subtitle: "Questions for the synthesis assignments."
+---
+
+## Synthesis I {#synthesis-i}
+
+Due Sep 20.
+
+**What does knowing a word without its pronunciation establish?**
+
+A speaker in a tip-of-the-tongue state knows a word's grammatical gender but cannot pronounce it. Does this observation necessarily distinguish a strictly staged model from an interactive model? Explain what it establishes about representations and what it leaves unresolved about information flow.
+
+## Synthesis III {#synthesis-iii}
+
+Due Nov 1.
+
+Pick one paper from "The Lock in Weeks" for its question and a different paper from the same weeks for its method. Describe how you would test the first paper's question using the second paper's method: what participants do, what you manipulate, and what you measure. Then say what each hypothesis from the first paper predicts in your design. Finally, say whether your version is a better or worse test of that question than the original study, and give at least one concrete reason: what the method can or cannot measure, or what else could produce the same result. No more than half a page.

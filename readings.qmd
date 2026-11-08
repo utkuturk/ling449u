@@ -1,0 +1,76 @@
+---
+title: "Readings"
+subtitle: "References for the papers on the schedule, in alphabetical order."
+---
+
+Readings are posted on ELMS. This page lists references and DOIs only.
+
+Alario, F.-X., Ayora, P., Costa, A., & Melinger, A. (2008). Grammatical and nongrammatical contributions to closed-class word selection. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 34*(4), 960-981. <https://doi.org/10.1037/0278-7393.34.4.960>
+
+Cole, J. R., & Reitter, D. (2019). The role of working memory in syntactic sentence realization: A modeling & simulation approach. *Cognitive Systems Research, 55*, 95-106. <https://doi.org/10.1016/j.cogsys.2019.01.001>
+
+Costa, A., Kovacic, D., Fedorenko, E., & Caramazza, A. (2003). The gender congruency effect and the selection of freestanding and bound morphemes: Evidence from Croatian. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 29*(6), 1270-1282. <https://doi.org/10.1037/0278-7393.29.6.1270>
+
+Cuonzo, C., Macdonald, A., & Lau, E. (2025). Blueberries and fingerprints: ERP insights into compound structure in production. *Cognitive Neuropsychology, 42*(5-6), 206-221. <https://doi.org/10.1080/02643294.2025.2604350>
+
+Cutting, J. C., & Ferreira, V. S. (1999). Semantic and phonological information flow in the production lexicon. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 25*(2), 318-344. <https://doi.org/10.1037/0278-7393.25.2.318>
+
+Dell, G. S. (1995). Speaking and misspeaking. In *An invitation to cognitive science* (Chap. 7). MIT Press. <https://doi.org/10.7551/mitpress/3964.003.0011>
+
+El Ouardi, L., & Faroqi-Shah, Y. (2026). Inflectional morphology and word order in agrammatic production: A cross-linguistic study of Moroccan Arabic and English. *Cognitive Neuropsychology, 43*(1), 55-71. <https://doi.org/10.1080/02643294.2025.2594986>
+
+Faroqi-Shah, Y., & Thompson, C. K. (2007). Verb inflections in agrammatic aphasia: Encoding of tense features. *Journal of Memory and Language, 56*(1), 129-151. <https://doi.org/10.1016/j.jml.2006.09.005>
+
+Ferreira, V. S. (1996). Is it better to give than to donate? Syntactic flexibility in language production. *Journal of Memory and Language, 35*(5), 724-755. <https://doi.org/10.1006/jmla.1996.0038>
+
+Frank, M. C., Braginsky, M., Cachia, J., Coles, N. A., Hardwicke, T. E., Hawkins, R. D., Mathur, M. B., & Williams, R. (2025). *Experimentology: An open science approach to experimental psychology methods*. Stanford University. <https://doi.org/10.25936/3JP6-5M50>
+
+Fromkin, V. A. (1971). The non-anomalous nature of anomalous utterances. *Language, 47*(1), 27-52. <https://doi.org/10.2307/412187>
+
+Garrett, M. F. (1975). The analysis of sentence production. *Psychology of Learning and Motivation*, 133-177. <https://doi.org/10.1016/s0079-7421(08)60270-4>
+
+Goldberg, A. E., & Ferreira, F. (2022). Good-enough language production. *Trends in Cognitive Sciences, 26*(4), 300-311. <https://doi.org/10.1016/j.tics.2022.01.005>
+
+Griffin, Z. M., & Ferreira, V. S. (2006). Properties of spoken language production. In *Handbook of psycholinguistics* (pp. 21-59). Elsevier. <https://doi.org/10.1016/b978-012369374-7/50003-1>
+
+Gunter, T. C., Friederici, A. D., & Schriefers, H. (2000). Syntactic gender and semantic expectancy: ERPs reveal early autonomy and late interaction. *Journal of Cognitive Neuroscience, 12*(4), 556-568. <https://doi.org/10.1162/089892900562336>
+
+Konopka, A. E., & Bock, K. (2009). Lexical or syntactic control of sentence formulation? Structural generalizations from idiom production. *Cognitive Psychology, 58*(1), 68-101. <https://doi.org/10.1016/j.cogpsych.2008.05.002>
+
+Lampe, L. F., Zarifyan, M., Hameau, S., & Nickels, L. (2024). Why is a flamingo named as pelican and asparagus as celery? Understanding the relationship between targets and errors in a speeded picture naming task. *Cognitive Neuropsychology, 41*(1-2), 18-50. <https://doi.org/10.1080/02643294.2024.2315822>
+
+Lane, L. W., & Ferreira, V. S. (2010). Abstract syntax in sentence production: Evidence from stem-exchange errors. *Journal of Memory and Language, 62*(2), 151-165. <https://doi.org/10.1016/j.jml.2009.11.005>
+
+Levelt, W. J. M. (1989). *Speaking: From intention to articulation* (Chaps. 7 and 9). MIT Press. <https://doi.org/10.7551/mitpress/6393.001.0001>
+
+Levelt, W. J. M., & Meyer, A. S. (2000). Word for word: Multiple lexical access in speech production. *European Journal of Cognitive Psychology, 12*(4), 433-452. <https://doi.org/10.1080/095414400750050178>
+
+Levelt, W. J. M., Roelofs, A., & Meyer, A. S. (1999). A theory of lexical access in speech production. *Behavioral and Brain Sciences, 22*(1), 1-38. <https://doi.org/10.1017/s0140525x99001776>
+
+Momma, S., & Ferreira, V. S. (2019). Beyond linear order: The role of argument structure in speaking. *Cognitive Psychology, 114*, 101228. <https://doi.org/10.1016/j.cogpsych.2019.101228>
+
+Paolieri, D., Lotto, L., Leoncini, D., Cubelli, R., & Job, R. (2011). Differential effects of grammatical gender and gender inflection in bare noun production. *British Journal of Psychology, 102*(1), 19-36. <https://doi.org/10.1348/000712610x496536>
+
+Roelofs, A. (1996). Serial order in planning the production of successive morphemes of a word. *Journal of Memory and Language, 35*(6), 854-876. <https://doi.org/10.1006/jmla.1996.0044>
+
+Roelofs, A. (1998). Rightward incrementality in encoding simple phrasal forms in speech production: Verb-particle combinations. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 24*(4), 904-921. <https://doi.org/10.1037/0278-7393.24.4.904>
+
+Roelofs, A. (2000). WEAVER++ and other computational models of lemma retrieval and word-form encoding. In *Aspects of language production*. No DOI found.
+
+Roelofs, A. (2002). Storage and computation in spoken word production. In *Storage and computation in the language faculty* (pp. 183-216). Springer. <https://doi.org/10.1007/978-94-010-0355-1_7>
+
+Schiller, N. O., & Caramazza, A. (2003). Grammatical feature selection in noun phrase production: Evidence from German and Dutch. *Journal of Memory and Language, 48*(1), 169-194. <https://doi.org/10.1016/s0749-596x(02)00508-9>
+
+Schriefers, H. (1993). Syntactic processes in the production of noun phrases. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 19*(4), 841-850. <https://doi.org/10.1037/0278-7393.19.4.841>
+
+Schriefers, H., Jescheniak, J. D., & Hantsch, A. (2002). Determiner selection in noun phrase production. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 28*(5), 941-950. <https://doi.org/10.1037/0278-7393.28.5.941>
+
+Schriefers, H., Jescheniak, J. D., & Hantsch, A. (2005). Selection of gender-marked morphemes in speech production. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 31*(1), 159-168. <https://doi.org/10.1037/0278-7393.31.1.159>
+
+Sprenger, S., Levelt, W., & Kempen, G. (2006). Lexical access during the production of idiomatic phrases. *Journal of Memory and Language, 54*(2), 161-184. <https://doi.org/10.1016/j.jml.2005.11.001>
+
+Thompson, C. K., Fix, S., & Gitelman, D. (2002). Selective impairment of morphosyntactic production in a neurological patient. *Journal of Neurolinguistics, 15*(3-5), 189-207. <https://doi.org/10.1016/s0911-6044(01)00038-0>
+
+Ziegler, J., Bencini, G., Goldberg, A., & Snedeker, J. (2019). How abstract is syntax? Evidence from structural priming. *Cognition, 193*, 104045. <https://doi.org/10.1016/j.cognition.2019.104045>
+
+Zwitserlood, P., Bölte, J., & Dohmes, P. (2000). Morphological effects on speech production: Evidence from picture naming. *Language and Cognitive Processes, 15*(4-5), 563-591. <https://doi.org/10.1080/01690960050119706>
