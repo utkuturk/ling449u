@@ -44,8 +44,8 @@ Everyone presents one paper from these five weeks.
 
 | | Date | Topic | Main reading | Due |
 |---|---|---|---|---|
-| [Week 11]{.week-label} | Nov 10 | Lab: theories | Experimentology, reading 1 ([PDF](files/experimentology/experimentology-reading-1.pdf), [HTML](files/experimentology/experimentology-reading-1.html)) | |
-| | Nov 12 | PCIbex workshop | | |
+| [Week 11]{.week-label} | Nov 10 | [Lab: theories](slides/w11-experimentology-1.qmd) | Experimentology, reading 1 ([PDF](files/experimentology/experimentology-reading-1.pdf), [HTML](files/experimentology/experimentology-reading-1.html)) | |
+| | Nov 12 | [PCIbex workshop](pcibex/sentence-recall.qmd) | | |
 | [Week 12]{.week-label} | Nov 17 | Lab: design and sampling | Experimentology, reading 2 ([PDF](files/experimentology/experimentology-reading-2.pdf), [HTML](files/experimentology/experimentology-reading-2.html)) | |
 | | Nov 19 | Student presentations I: an idea you would be passionate about (5 min) | | **Presentation I** |
 | [Week 13]{.week-label} | | *Thanksgiving* | | |

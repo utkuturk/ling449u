@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 290" font-family="Helvetica, Arial, sans-serif" font-size="20">
+<line x1="650" y1="14" x2="650" y2="236" stroke="#bbb" stroke-width="1"/>
+<text x="632" y="46" text-anchor="end" fill="#222" font-style="italic">The key ___ rusty.</text>
+<path d="M650,30 h37.4 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-37.4 z" fill="#8c1515"/>
+<text x="701.4" y="46" fill="#222" font-weight="700">2</text>
+<text x="632" y="102" text-anchor="end" fill="#222" font-style="italic">The key to the cabinets ___ rusty.</text>
+<path d="M650,86 h99.6 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-99.6 z" fill="#8c1515"/>
+<text x="763.6" y="102" fill="#222" font-weight="700">5</text>
+<text x="632" y="158" text-anchor="end" fill="#222" font-style="italic">The key to the cabinets in the hallway ___ rusty.</text>
+<path d="M650,142 h182.4 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-182.4 z" fill="#8c1515"/>
+<text x="846.4" y="158" fill="#222" font-weight="700">9</text>
+<text x="632" y="214" text-anchor="end" fill="#222" font-style="italic">The key to the cabinets that we bought last year ___ rusty.</text>
+<path d="M650,198 h286.0 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-286.0 z" fill="#8c1515"/>
+<text x="950.0" y="214" fill="#222" font-weight="700">14</text>
+<text x="980" y="268" text-anchor="end" fill="#6b6b6b" font-size="17">agreement errors per 1,000 sentences</text>
+</svg>

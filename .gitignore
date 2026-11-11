@@ -39,3 +39,6 @@ __pycache__/
 /.codex/
 /.claude/
 /synthesis-homework-questions.txt
+
+# answer key for the PCIbex assignment stays local
+/experiments/tense-recall/main.js

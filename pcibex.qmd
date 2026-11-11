@@ -1,0 +1,20 @@
+---
+title: "PCIbex"
+listing:
+  id: assignments
+  contents: pcibex/*.qmd
+  type: table
+  sort: "date"
+  fields: [title, subtitle]
+  field-display-names:
+    title: "Assignment"
+    subtitle: "What you do"
+  categories: false
+  filter-ui: false
+  sort-ui: false
+---
+
+PCIbex assignments. None of them are graded.
+
+::: {#assignments}
+:::

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 215" font-family="Helvetica, Arial, sans-serif" font-size="22">
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#8c1515"/></marker></defs>
+<path d="M30,60 Q105,5 180,60 Q105,115 30,60 Z" fill="none" stroke="#222" stroke-width="2.5"/>
+<circle cx="118" cy="60" r="24" fill="#222"/><circle cx="126" cy="52" r="7" fill="#fff"/>
+<line x1="192" y1="60" x2="326" y2="60" stroke="#8c1515" stroke-width="2.5" stroke-dasharray="8 7" marker-end="url(#a)"/>
+<rect x="338" y="20" width="90" height="80" rx="8" fill="none" stroke="#222" stroke-width="2.5"/>
+<circle cx="383" cy="60" r="20" fill="none" stroke="#222" stroke-width="2.5"/>
+<g stroke="#222" stroke-width="2.5"><line x1="40" y1="170" x2="420" y2="170"/><line x1="40" y1="158" x2="40" y2="182"/><line x1="420" y1="158" x2="420" y2="182"/></g>
+<text x="230" y="158" text-anchor="middle" fill="#8c1515" font-weight="700">620 ms</text>
+<text x="40" y="208" fill="#6b6b6b" font-size="19">picture appears</text>
+<text x="420" y="208" text-anchor="end" fill="#6b6b6b" font-size="19">speech starts</text>
+</svg>

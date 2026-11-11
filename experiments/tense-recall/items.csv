@@ -1,0 +1,106 @@
+Group,type,item,condition,target,prime,cue,recall
+A,practice,p1,practice,The little girl kicked the ball on the beach.,The cat slept on the soft sofa with a toy.,kick,target
+A,practice,p2,practice,The boy opened the stuck window in the cabin.,The dog barked at the front gate with its owner.,bark,prime
+A,practice,p3,practice,The king visited the stone castle on the hill.,The bird sang in the apple tree with its mate.,visit,target
+A,practice,p4,practice,The pirate buried the stolen treasure on the island.,The baby cried in the wooden crib with a rattle.,cry,prime
+A,practice,p5,practice,The clown juggled the bright balls at the circus.,The horse rested in the big barn with a goat.,juggle,target
+A,experiment,1,control,The young chef chops the onions in the kitchen.,The pilot walks in the hangar with the crew.,chop,target
+A,experiment,2,tense,The teacher cleans the dirty board in the classroom.,The nurse jogged in the park with a friend.,clean,target
+A,experiment,3,preposition,The old baker mixes the dough in the bakery.,The courier cycles from the village with a parcel.,mix,target
+A,experiment,4,control,The gardener waters the yellow roses in the yard.,The farmer marches in the field with a shovel.,water,target
+A,experiment,5,tense,The mechanic repairs the old engine in his garage.,The student wandered in the library with a laptop.,repair,target
+A,experiment,6,preposition,The local artist paints the fence in the alley.,The tourist strolls from the market with a camera.,paint,target
+A,experiment,7,control,The clerk counts the coins at the bank downtown.,The sailor rows in the harbor with a lantern.,count,target
+A,experiment,8,tense,The barber trims the long beard in his shop.,The soldier crawled in the trench with a rifle.,trim,target
+A,experiment,9,preposition,The tired janitor mops the floor in the hallway.,The hiker climbs from the valley with a rope.,mop,target
+A,experiment,10,control,The tailor irons the white shirts in the attic.,The dancer skips in the studio with a ribbon.,iron,target
+A,experiment,11,tense,The lawyer signs the papers at the office upstairs.,The child hopped in the garden with a balloon.,sign,target
+A,experiment,12,preposition,The plumber fixes the leaky sink in the bathroom.,The driver races from the city with a trophy.,fix,target
+A,experiment,13,control,The famous actor learns his lines in the hotel.,The monk limps in the temple with a stick.,learn,target
+A,experiment,14,tense,The butcher weighs the meat at the back counter.,The diver drifted in the cave with a torch.,weigh,target
+A,experiment,15,preposition,The scout packs the green tent in the forest.,The waiter hurries from the cellar with a tray.,pack,target
+A,experiment,16,control,The maid folds the clean towels in the bedroom.,The guard rushes in the lobby with a radio.,fold,target
+A,experiment,17,tense,The vet washes the muddy puppy in the clinic.,The doctor traveled in the desert with a guide.,wash,target
+A,experiment,18,preposition,The editor checks the final article at her desk.,The singer dashes from the theater with a guitar.,check,target
+A,experiment,f1,filler,The judge sealed the letter in the back room.,The boxer trained in the old gym with a partner.,train,prime
+A,experiment,f2,filler,The poet copied the short poem in the cafe.,The fox hunted under the stone bridge with its cubs.,hunt,prime
+A,experiment,f3,filler,The cook peeled the potatoes at the steel sink.,The coach shouted at the players in the stadium.,shout,prime
+A,experiment,f4,filler,The queen greeted the foreign guests in the hall.,The thief jumped over the brick wall with a sack.,jump,prime
+A,experiment,f5,filler,The pupil answered the hard question in the lesson.,The uncle smoked on the front porch with a pipe.,smoke,prime
+A,experiment,f6,filler,The bride carried the pink flowers in the church.,The rabbit waited behind the shed with a carrot.,wait,prime
+A,experiment,f7,filler,The miner lifted the heavy rocks in the tunnel.,The pianist played at the wedding with a band.,play,prime
+A,experiment,f8,filler,The sheriff locked the iron door at the station.,The cousin worked at the paper factory with a team.,work,prime
+A,experiment,f9,filler,The wizard boiled the purple potion in the tower.,The painter whistled on the ladder with a brush.,whistle,prime
+A,experiment,f10,filler,The fisherman pulled the torn net on the boat.,The parrot talked in the metal cage all day.,talk,prime
+A,experiment,f11,filler,The grandmother baked the brown bread in the oven.,The neighbor laughed at the party with the host.,laugh,prime
+A,experiment,f12,filler,The captain raised the national flag on the ship.,The twins danced at the festival with their parents.,dance,prime
+B,practice,p1,practice,The little girl kicked the ball on the beach.,The cat slept on the soft sofa with a toy.,kick,target
+B,practice,p2,practice,The boy opened the stuck window in the cabin.,The dog barked at the front gate with its owner.,bark,prime
+B,practice,p3,practice,The king visited the stone castle on the hill.,The bird sang in the apple tree with its mate.,visit,target
+B,practice,p4,practice,The pirate buried the stolen treasure on the island.,The baby cried in the wooden crib with a rattle.,cry,prime
+B,practice,p5,practice,The clown juggled the bright balls at the circus.,The horse rested in the big barn with a goat.,juggle,target
+B,experiment,1,tense,The young chef chops the onions in the kitchen.,The pilot walked in the hangar with the crew.,chop,target
+B,experiment,2,preposition,The teacher cleans the dirty board in the classroom.,The nurse jogs from the park with a friend.,clean,target
+B,experiment,3,control,The old baker mixes the dough in the bakery.,The courier cycles in the village with a parcel.,mix,target
+B,experiment,4,tense,The gardener waters the yellow roses in the yard.,The farmer marched in the field with a shovel.,water,target
+B,experiment,5,preposition,The mechanic repairs the old engine in his garage.,The student wanders from the library with a laptop.,repair,target
+B,experiment,6,control,The local artist paints the fence in the alley.,The tourist strolls in the market with a camera.,paint,target
+B,experiment,7,tense,The clerk counts the coins at the bank downtown.,The sailor rowed in the harbor with a lantern.,count,target
+B,experiment,8,preposition,The barber trims the long beard in his shop.,The soldier crawls from the trench with a rifle.,trim,target
+B,experiment,9,control,The tired janitor mops the floor in the hallway.,The hiker climbs in the valley with a rope.,mop,target
+B,experiment,10,tense,The tailor irons the white shirts in the attic.,The dancer skipped in the studio with a ribbon.,iron,target
+B,experiment,11,preposition,The lawyer signs the papers at the office upstairs.,The child hops from the garden with a balloon.,sign,target
+B,experiment,12,control,The plumber fixes the leaky sink in the bathroom.,The driver races in the city with a trophy.,fix,target
+B,experiment,13,tense,The famous actor learns his lines in the hotel.,The monk limped in the temple with a stick.,learn,target
+B,experiment,14,preposition,The butcher weighs the meat at the back counter.,The diver drifts from the cave with a torch.,weigh,target
+B,experiment,15,control,The scout packs the green tent in the forest.,The waiter hurries in the cellar with a tray.,pack,target
+B,experiment,16,tense,The maid folds the clean towels in the bedroom.,The guard rushed in the lobby with a radio.,fold,target
+B,experiment,17,preposition,The vet washes the muddy puppy in the clinic.,The doctor travels from the desert with a guide.,wash,target
+B,experiment,18,control,The editor checks the final article at her desk.,The singer dashes in the theater with a guitar.,check,target
+B,experiment,f1,filler,The judge sealed the letter in the back room.,The boxer trained in the old gym with a partner.,train,prime
+B,experiment,f2,filler,The poet copied the short poem in the cafe.,The fox hunted under the stone bridge with its cubs.,hunt,prime
+B,experiment,f3,filler,The cook peeled the potatoes at the steel sink.,The coach shouted at the players in the stadium.,shout,prime
+B,experiment,f4,filler,The queen greeted the foreign guests in the hall.,The thief jumped over the brick wall with a sack.,jump,prime
+B,experiment,f5,filler,The pupil answered the hard question in the lesson.,The uncle smoked on the front porch with a pipe.,smoke,prime
+B,experiment,f6,filler,The bride carried the pink flowers in the church.,The rabbit waited behind the shed with a carrot.,wait,prime
+B,experiment,f7,filler,The miner lifted the heavy rocks in the tunnel.,The pianist played at the wedding with a band.,play,prime
+B,experiment,f8,filler,The sheriff locked the iron door at the station.,The cousin worked at the paper factory with a team.,work,prime
+B,experiment,f9,filler,The wizard boiled the purple potion in the tower.,The painter whistled on the ladder with a brush.,whistle,prime
+B,experiment,f10,filler,The fisherman pulled the torn net on the boat.,The parrot talked in the metal cage all day.,talk,prime
+B,experiment,f11,filler,The grandmother baked the brown bread in the oven.,The neighbor laughed at the party with the host.,laugh,prime
+B,experiment,f12,filler,The captain raised the national flag on the ship.,The twins danced at the festival with their parents.,dance,prime
+C,practice,p1,practice,The little girl kicked the ball on the beach.,The cat slept on the soft sofa with a toy.,kick,target
+C,practice,p2,practice,The boy opened the stuck window in the cabin.,The dog barked at the front gate with its owner.,bark,prime
+C,practice,p3,practice,The king visited the stone castle on the hill.,The bird sang in the apple tree with its mate.,visit,target
+C,practice,p4,practice,The pirate buried the stolen treasure on the island.,The baby cried in the wooden crib with a rattle.,cry,prime
+C,practice,p5,practice,The clown juggled the bright balls at the circus.,The horse rested in the big barn with a goat.,juggle,target
+C,experiment,1,preposition,The young chef chops the onions in the kitchen.,The pilot walks from the hangar with the crew.,chop,target
+C,experiment,2,control,The teacher cleans the dirty board in the classroom.,The nurse jogs in the park with a friend.,clean,target
+C,experiment,3,tense,The old baker mixes the dough in the bakery.,The courier cycled in the village with a parcel.,mix,target
+C,experiment,4,preposition,The gardener waters the yellow roses in the yard.,The farmer marches from the field with a shovel.,water,target
+C,experiment,5,control,The mechanic repairs the old engine in his garage.,The student wanders in the library with a laptop.,repair,target
+C,experiment,6,tense,The local artist paints the fence in the alley.,The tourist strolled in the market with a camera.,paint,target
+C,experiment,7,preposition,The clerk counts the coins at the bank downtown.,The sailor rows from the harbor with a lantern.,count,target
+C,experiment,8,control,The barber trims the long beard in his shop.,The soldier crawls in the trench with a rifle.,trim,target
+C,experiment,9,tense,The tired janitor mops the floor in the hallway.,The hiker climbed in the valley with a rope.,mop,target
+C,experiment,10,preposition,The tailor irons the white shirts in the attic.,The dancer skips from the studio with a ribbon.,iron,target
+C,experiment,11,control,The lawyer signs the papers at the office upstairs.,The child hops in the garden with a balloon.,sign,target
+C,experiment,12,tense,The plumber fixes the leaky sink in the bathroom.,The driver raced in the city with a trophy.,fix,target
+C,experiment,13,preposition,The famous actor learns his lines in the hotel.,The monk limps from the temple with a stick.,learn,target
+C,experiment,14,control,The butcher weighs the meat at the back counter.,The diver drifts in the cave with a torch.,weigh,target
+C,experiment,15,tense,The scout packs the green tent in the forest.,The waiter hurried in the cellar with a tray.,pack,target
+C,experiment,16,preposition,The maid folds the clean towels in the bedroom.,The guard rushes from the lobby with a radio.,fold,target
+C,experiment,17,control,The vet washes the muddy puppy in the clinic.,The doctor travels in the desert with a guide.,wash,target
+C,experiment,18,tense,The editor checks the final article at her desk.,The singer dashed in the theater with a guitar.,check,target
+C,experiment,f1,filler,The judge sealed the letter in the back room.,The boxer trained in the old gym with a partner.,train,prime
+C,experiment,f2,filler,The poet copied the short poem in the cafe.,The fox hunted under the stone bridge with its cubs.,hunt,prime
+C,experiment,f3,filler,The cook peeled the potatoes at the steel sink.,The coach shouted at the players in the stadium.,shout,prime
+C,experiment,f4,filler,The queen greeted the foreign guests in the hall.,The thief jumped over the brick wall with a sack.,jump,prime
+C,experiment,f5,filler,The pupil answered the hard question in the lesson.,The uncle smoked on the front porch with a pipe.,smoke,prime
+C,experiment,f6,filler,The bride carried the pink flowers in the church.,The rabbit waited behind the shed with a carrot.,wait,prime
+C,experiment,f7,filler,The miner lifted the heavy rocks in the tunnel.,The pianist played at the wedding with a band.,play,prime
+C,experiment,f8,filler,The sheriff locked the iron door at the station.,The cousin worked at the paper factory with a team.,work,prime
+C,experiment,f9,filler,The wizard boiled the purple potion in the tower.,The painter whistled on the ladder with a brush.,whistle,prime
+C,experiment,f10,filler,The fisherman pulled the torn net on the boat.,The parrot talked in the metal cage all day.,talk,prime
+C,experiment,f11,filler,The grandmother baked the brown bread in the oven.,The neighbor laughed at the party with the host.,laugh,prime
+C,experiment,f12,filler,The captain raised the national flag on the ship.,The twins danced at the festival with their parents.,dance,prime

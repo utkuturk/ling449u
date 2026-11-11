@@ -4,10 +4,13 @@ project:
   render:
     - "*.qmd"
     - "slides/*.qmd"
+    - "pcibex/*.qmd"
     - "!readings/"
     - "!notes/"
   resources:
     - files/experimentology/*
+    - experiments/tense-recall/assignment.js
+    - experiments/tense-recall/items.csv
 
 website:
   title: "LING 449U"
@@ -28,6 +31,8 @@ website:
         href: synthesis.qmd
       - text: slides
         href: slides.qmd
+      - text: pcibex
+        href: pcibex.qmd
       - text: syllabus
         href: syllabus.qmd
   page-footer:

@@ -1,0 +1,247 @@
+---
+title: "Assignment 1: sentence recall"
+subtitle: "Fix a broken sentence recall experiment, run it, and download your recordings."
+date: "2026-11-12"
+---
+
+In this assignment (which is not graded), you will try to make a PCIbex experiment to work. After editing the code, run the experiment, and download your recordings.
+
+## The Experiment
+
+It is a sentence recall task in which participants read two sentences and try to recall one of them. Every trial has three parts:
+
+1. A **Target** sentence appears for 5 seconds. Participants read it aloud and try to
+   remember it.
+2. A **Prime** sentence appears for 5 seconds. Participants read it aloud too.
+3. A **Cue** appears in red: the bare verb of the Target or the Prime. Participants say the either sentence from memory, while their voice is recorded for 6 seconds.
+
+Participants do not know which sentence they will have to say, so they need to
+remember both. In the 18 experimental trials the cue is the verb of the Target.
+In the 12 filler trials it is the verb of the Prime.
+
+On experimental trials the Target is always in the present tense: *The young
+chef chops the onions in the kitchen.* The Prime comes in one of three conditions.
+
+| Condition | Prime | What it changes |
+|---|---|---|
+| control | The pilot walks in the hangar with the crew. | nothing |
+| tense | The pilot walked in the hangar with the crew. | past tense on the verb |
+| preposition | The pilot walks from the hangar with the crew. | a source preposition, *from* |
+
+Each sentence is about 9 words. Participants in each trial will see two of such sentences. So,
+it is very likely that people will not just loop the Target in their head. They will end up building it again, and sometimes (hopefully) they will change certain elements. In this experiment, we will asses how many times they recall the target different. More specifically, how often do people say the Target in the past tense (*The young chef chopped the onions*)? It is very likely that a past tense Prime makes this happen more often than the control Prime. For us, the important one is whether a Prime with *from* also makes it happen more often, even though that Prime is in the present tense. The rationale for such priming is that languages often use the same words for space and for time. English *from* marks where a movement starts (*from the hangar*) and also when something starts (*from Monday*). Czech *od* means both 'away from' and 'since'. The idea is that time is organized like a path in space, with the past as the starting point (the source) and the future as the end point (the goal). If speakers use the same representation for a source and for the past, then saying *from* should make the past tense easier to produce. That would mean source prepositions and past tense have something in common.
+
+The filler sentences and the practice sentences are all in the past tense. This way participants say a lot of past tense sentences during the experiment, and it becomes easier to make a past tense error when they recall a present tense Target.
+
+There are 5 practice trials, 18 experimental trials, and 12 filler trials. The whole thing takes about 15 minutes.
+
+## Before you start
+
+1. Watch the [PCIbex tutorial video](https://www.youtube.com/watch?v=KuYHiZJmTUw&t=870s).
+   You can start at 14:30.
+2. Skim the [Basic Tutorial](https://doc.pcibex.net/basic-tutorial/) in the
+   documentation. The pages on
+   [creating elements](https://doc.pcibex.net/basic-tutorial/2_creating-elements.html),
+   [calling commands](https://doc.pcibex.net/basic-tutorial/3_calling-commands.html), and
+   [pausing execution](https://doc.pcibex.net/basic-tutorial/4_pausing-execution.html)
+   cover most of what you need here.
+3. Install a code editor. VS Code, VSCodium, and Sublime Text all work. It
+   does not matter which one you pick. I use VS Code for no clear reason.
+4. Make an account on the [PCIbex Farm](https://farm.pcibex.net/): click
+   **Sign up** in the top bar and choose a username, a password, and an email
+   address. The farm hosts your experiment for free.
+
+## The files
+
+- [assignment.js](../experiments/tense-recall/assignment.js){download="assignment.js"}: the broken script
+- [items.csv](../experiments/tense-recall/items.csv){download="items.csv"}: the table of sentences
+
+Open `items.csv` first and look at the column names, because you will need them
+in the script. Each row is one trial. There are three versions of the list (A,
+B, and C in the `Group` column). A participant will see only one of them. So, a particiapnt sees  each Target only once. The `recall` column shows whether the cue word is from the
+Target or from the Prime.
+
+Then open `assignment.js` in your editor. Every place you need to edit is
+marked with `<-----`. There are 15 of them, numbered in order, and they come in
+two kinds:
+
+- **FILL IN**: a piece of code was replaced with `XXXXXXXXXX`. Put the right
+  thing back.
+- **BUG**: the line is there but does the wrong thing. The comment next to it
+  describes what you will see go wrong. You have to work out the fix.
+
+Do not change anything that is not marked. Feel free to play with `css` :)
+
+## Putting it on the farm
+
+1. Log in to the farm and start a new, empty project. Give it a name.
+2. The project already has a script called `main.js` under **Scripts**. Open
+   it, delete everything in it, and paste in the full contents of your
+   `assignment.js`.
+3. Add `items.csv` under **Resources**.
+4. Click **Refresh** to run the experiment in the preview panel, or
+   **Open in new tab** to run it in its own tab.
+
+You can paste the script in before fixing anything and see what happens.
+
+## How to find out what is wrong
+
+The script will not run when you first try it. Here is how I would go about it:
+
+1. **Run it and watch where it stops.** Does the preview stay empty? Does a page
+   flash by? Does it freeze on one screen? These are different problems with
+   different causes.
+2. **If the preview stays empty**, the script did not load at all. This
+   usually means a punctuation mistake somewhere, like a missing comma or
+   bracket. Open your browser's JavaScript console (in Chrome: View, Developer,
+   JavaScript Console) and read the red message. It includes a line number.
+3. **If the experiment starts**, look at the debugger, the small window that
+   floats over the preview. The **Errors** tab lists the elements and
+   commands that PCIbex could not run. An `XXXXXXXXXX` you have not
+   replaced yet will show up there.
+4. **Use the other debugger tabs.** **Sequence** lists every trial and lets you
+   jump straight to one, so you do not have to click through the consent page
+   every time. **Tables** shows whether your CSV file was found and how it was
+   read. **Logs** shows each command as it runs, so you can see the last thing
+   that ran before a freeze.
+5. **Fix one thing, then run it again.** If you change five things at once and
+   it still breaks, you will not know which change did it.
+6. **Check the results file.** With some mistakes the experiment looks
+   fine but data is missing. Finish a run, then click **Results** on the farm and see whether
+   everything you asked for is in there.
+
+The debugger is described on the
+[PCIbex Farm page](https://doc.pcibex.net/core-concepts/4_pcibex-farm.html) of
+the documentation.
+
+## Hints
+
+Each hint points to the page of the documentation where the answer is. They are hidden, so open one only when you are stuck on that mark.
+
+<details>
+<summary>Mark 1, 2</summary>
+
+`Sequence` takes trial labels in the order you want them. Look at how the trials made from the table get their label, and at what you can wrap around a label to shuffle its trials.
+
+Read: [Sequence](https://doc.pcibex.net/global-commands/sequence/)
+
+</details>
+
+<details>
+<summary>Mark 3</summary>
+
+Put the button text in quotation marks.
+
+Read: [Button](https://doc.pcibex.net/elements/button.html)
+
+</details>
+
+<details>
+<summary>Mark 4</summary>
+
+The script has to be told to stop and wait for the click.
+
+Read: [button.wait](https://doc.pcibex.net/button/button-wait/), [Pausing execution](https://doc.pcibex.net/basic-tutorial/4_pausing-execution.html)
+
+</details>
+
+<details>
+<summary>Mark 5</summary>
+
+Compare the two text boxes on that page. One of them has a command the other lacks.
+
+Read: [textinput.log](https://doc.pcibex.net/textinput/textinput-log/), [Logging data](https://doc.pcibex.net/basic-tutorial/6_logging-data.html)
+
+</details>
+
+<details>
+<summary>Mark 6, 7, 9</summary>
+
+`Template` reads a table file and builds one trial per row. `row.NAME` is the value in the column called `NAME`.
+
+Read: [Template](https://doc.pcibex.net/global-commands/template/), [Creating a trial template](https://doc.pcibex.net/advanced-tutorial/8_creating-trial-template.html)
+
+</details>
+
+<details>
+<summary>Mark 8</summary>
+
+A timer has to be started before you wait for it. Compare this timer with the other ones in the trial.
+
+Read: [timer.start](https://doc.pcibex.net/timer/timer-start/)
+
+</details>
+
+<details>
+<summary>Mark 10</summary>
+
+Timers count in milliseconds.
+
+Read: [Timer](https://doc.pcibex.net/elements/timer.html)
+
+</details>
+
+<details>
+<summary>Mark 11</summary>
+
+`getText` picks an element by the name you gave it. Which element is this line removing?
+
+Read: [remove](https://doc.pcibex.net/standard-element-commands/standard-remove/)
+
+</details>
+
+<details>
+<summary>Mark 12</summary>
+
+Look for the command that starts a recording.
+
+Read: [MediaRecorder](https://doc.pcibex.net/elements/mediarecorder.html)
+
+</details>
+
+<details>
+<summary>Mark 13</summary>
+
+Colors are written as words in quotation marks.
+
+Read: [color](https://doc.pcibex.net/standard-element-commands/standard-color/)
+
+</details>
+
+<details>
+<summary>Mark 14</summary>
+
+Look at what separates every other pair of elements in the trial.
+
+Read: [Calling commands](https://doc.pcibex.net/basic-tutorial/3_calling-commands.html)
+
+</details>
+
+<details>
+<summary>Mark 15</summary>
+
+The lines around it do the same thing for other columns.
+
+Read: [newTrial](https://doc.pcibex.net/global-commands/newtrial/)
+
+</details>
+
+## Running it and getting your recordings
+
+Once the script runs from start to finish, go through the whole experiment
+yourself in a quiet place. Your browser will ask to use the microphone, and
+you need to allow it.
+
+At the end you will see a message that the recordings could not be uploaded.
+This is normal, because we do not have a server to send them to. Click the message, and
+your browser saves a file called `RecordingsArchive.zip` with one recording per
+trial. Each recording is named after its item and condition, for example
+`item3_preposition`.
+
+When everything works and you are no longer editing, take the `//` off the
+front of the `DebugOff()` line at the top of the script. That turns the
+debugger off for real participants.
+
+---
+
+Note: If you are a course instructor who is interested in using this assignment in a course, feel free to copy the files and modify them as you see fit. Please do so under the two following conditions: (i) you acknowledge the source of the assignment if you make it available electronically, and (ii) you share any improvements that you make to the assignment. In this way, the resources will continue to be improved for the benefit of everybody. Contact [Utku Turk](mailto:utkuturk@umd.edu) if you have any questions or comments.
