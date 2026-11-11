@@ -1,14 +1,5 @@
 // LING 449U: PCIbex assignment
 //
-// Sentence recall task, after Hill & Momma (2024).
-// Each trial: read the Target aloud, read the Prime aloud, then recall one of them from a cue.
-// The cue is the verb of the Target (experimental trials) or of the Prime (filler trials).
-// Three prime conditions (see items.csv):
-//   control      The pilot walks in the hangar with the crew.
-//   tense        The pilot walked in the hangar with the crew.
-//   preposition  The pilot walks from the hangar with the crew.
-// What we score: on experimental trials, does the present tense Target come back in the past tense?
-//
 // This script does not work yet. Every place you need to edit is marked with <-----
 // There are 15 of them, numbered in order.
 //   FILL IN: replace XXXXXXXXXX with the right thing.
